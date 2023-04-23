@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>SoleimanTV</title>
+
+
+
+<style type="text/css">
+
+
+img {
+	border: double 4px transparent;
+	border-radius: 50%;
+	background-image: linear-gradient(white, white),
+		radial-gradient(circle at top left, #f00, #3020ff);
+	background-origin: border-box;
+	background-clip: padding-box, border-box;
+	border-color: white;
+}
+
+body {
+	background-color: #343285;
+	font-color: white;
+	text-align: center;
+	animation: fadeInAnimation ease 5s;
+                    animation-iteration-count: 1;
+                    animation-fill-mode: forwards;
+                }
+                @keyframes fadeInAnimation {
+                    0% {
+                        opacity: 0;
+                    }
+                    100% {
+                        opacity: 1;
+                    }
+                }
+</style>
+</head>
+
+<body>
+
+	<script type="text/javascript">
+    
+    document.addEventListener("DOMContentLoaded", function(event) {
+            	
+            console.log('This path: '+window.location.pathname);
+            getDL();
+            });
+            
+            
+            
+            function errorCallback(error)
+            {
+              console.log("An error occurred, during file deletion: " + error.message);
+            nextshay();
+            }
+            
+            function successCallback(path)
+            {
+              console.log("The file has been deleted, path to the parent of deleted file: " + path);
+              nextshay();
+            }
+            
+            
+
+            
+            	function getDL() {
+
+            tizen.filesystem.resolve("documents",
+                function(dir)
+                {
+                  //console.log("Images are stored in " + dir.path);
+                  console.log("starting deleting old app");
+                  dir.deleteFile("documents/dl.html", successCallback, errorCallback);
+                  dir.deleteDirectory("documents/app", true, function() {
+                  //alert('deleted that shit');
+                  
+                  //dir.deleteFile("documents/dl_1.html", successCallback, errorCallback);
+                  //dir.deleteFile("documents/dl_2.html", successCallback, errorCallback);
+                  //dir.deleteFile("documents/dl_3.html", successCallback, errorCallback);
+                  //dir.deleteFile("documents/dl_4.html", successCallback, errorCallback);
+                  //dir.deleteFile("documents/dl_5.html", successCallback, errorCallback);
+                  console.log("---- DELETED DIRECTORY");
+    			nextshay();
+            		}, function(e) {
+
+
+            		console.log('1 delete directory something went wrong on that shit '+e.message);
+                  //alert('error on errorCallBack - please restart');
+                 nextshay();
+            		});
+
+
+
+
+
+            		}, function(e) {
+                  console.log('2 resolve function -something went wrong on that shit '+e.message);
+                  //alert('error on errorCallBack - please restart');
+                 nextshay();
+                  
+            
+                  });
+
+}
+
+        function nextshay() {
+        setTimeout(function() {
+            location.assign("start1.html");
+            //window.location = 'start1';
+            }, 1200);
+        }
+        function sameshay() {
+        setTimeout(function() {
+            location.assign("start.html");
+            }, 1200);
+        }
+            
+    </script>
+	<center>
+		<form name="form1" action="start1.html" method="GET">
+
+			<input type="submit" value="shay" style="display: none;" onclick="">
+
+			<img src="logo1.png" width="50%" height="50%" alt="">
+
+			<h4>
+				<div class="Smessage"></div>
+			</h4>
+
+
+		</form>
+	</center>
+</body>
+
+</html>

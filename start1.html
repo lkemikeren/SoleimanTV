@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+        background-color: #343285;
+                    	color: white;
+                    animation: fadeInAnimation ease 5s;
+                    animation-iteration-count: 1;
+                    animation-fill-mode: forwards;
+                }
+                @keyframes fadeInAnimation {
+                    0% {
+                        opacity: 0;
+                    }
+                    100% {
+                        opacity: 1;
+                    }
+                }
+                
+    </style>
+    <script>
+      document.addEventListener("DOMContentLoaded", function(event) {
+console.log("Running Application");
+        
+        getDL();
+        });
+    function sendMsg(msg) {
+    mesage = document.querySelector("div");
+    mesage.insertAdjacentHTML("beforeend", "<br><span style='color:white'>"+msg+"</span>");
+    }
+    console.oldLog = console.log;
+ mesage = document.querySelector("div");
+                
+console.error = function(value) {
+mesage.insertAdjacentHTML("beforeend", "<span style='color:red'>"+value+"</span><br>");
+//$("#loggin").prepend("<span style='color:red'>"+value+"</span><br>");
+}
+console.log = function(value)
+{
+    console.oldLog(value);
+    //console.error(value);
+    window.$log += value+"\n";
+    //console.oldLog(value);
+    sendMsg(value);
+    
+};
+    var showMessage;
+        var listener = {
+           onprogress: function(id, receivedSize, totalSize) {
+             console.log('Received with id: ' + id + ', ' + receivedSize + '/' + totalSize);
+           },
+           onpaused: function(id) {
+             console.log('Paused with id: ' + id);
+           },
+           oncanceled: function(id) {
+             console.log('Canceled with id: ' + id);
+           },
+           oncompleted: function(id, fileName) {
+             console.log('Completed with id: ' + id + ', file name: ' + fileName);
+             sendMsg('Proccessing...');
+             window.location.href = ''+fileName;
+             //alert("redirecting");
+           },
+           onfailed: function(id, error) {
+             console.log('Failed with id: ' + id + ', error name: ' + error.name);
+             window.setTimeout(function() {
+        //window.location.href = '/start1.html';
+        },500);
+        sendMsg('Failed Downloading : Trying again');
+       
+        
+        
+        //alert("error");
+           }
+          
+         };
+        function getDL() {
+         // Start downloading the html file on the web with the corresponding callbacks.
+         var downloadRequest = new tizen.DownloadRequest("http://tv.nasehi.nu/dl.html", "documents");
+        
+        downloadId = tizen.download.start(downloadRequest);
+        tizen.download.setListener(downloadId, listener);
+        
+        }
+       setTimeout(function() {
+        getDL();
+        },7000);
+        
+        
+         // Add the listener.
+    </script>
+    <title>LOADING</title>
+</head>
+
+<body>
+    <center>
+        <h1><div id="Smessage" style="font-size:50px;">PLEASE WAIT WHILE THE APPLICATION IS LOADING</div></h1>
+    </center>
+</body>
+
+</html>

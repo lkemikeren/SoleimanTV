@@ -1,0 +1,37 @@
+
+
+// create text file and read
+
+
+tizen.filesystem.resolve(
+     'downloads',
+     function(dir) {
+       documentsDir = dir;
+       var newFile = dir.createFile("list.txt");
+     }, function(e) {
+       console.log("Error" + e.message);
+     }, "rw"
+ );
+
+var fileHandleWrite = tizen.filesystem.openFile("downloads/list.txt", "w");
+console.log("File opened for writing");
+fileHandleWrite.writeString("sutminshay,app/boot/css");
+console.log("String has been written to the file");
+fileHandleWrite.close();
+function readTextFile(file)
+{
+    var rawFile = new XMLHttpRequest();
+    rawFile.open("GET", file, false);
+    rawFile.onreadystatechange = function ()
+    {
+        if(rawFile.readyState === 4)
+        {
+            if(rawFile.status === 200 || rawFile.status == 0)
+            {
+                var allText = rawFile.responseText;
+                alert(allText);
+            }
+        }
+    }
+    rawFile.send(null);
+}

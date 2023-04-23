@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <script src="language.js"></script>
+ </head>
+ <body>
+  <header> 
+   <script type="text/javascript" src="$WEBAPIS/webapis/webapis.js"></script> 
+   <style type="text/css">
+        html,body {
+            background-color: white;
+            overflow: scroll;
+        }
+    </style>  
+   <script>
+            var mesage;
+                    function onTV() {
+                    if (navigator.userAgent.indexOf("SMART-TV") >= 0) {
+                        return true;
+                    } else {
+                        return false;
+                    }
+                }
+                function ajaxReq(address) {
+                	var resu = false;
+            // Create the XHR object.
+            
+              var xhr = new XMLHttpRequest();
+              if ("withCredentials" in xhr) {
+                // XHR for Chrome/Firefox/Opera/Safari and IE >= 10
+                //if the ajax is success this will trigger
+                xhr.open("GET", address, false);
+              } else if (typeof XDomainRequest != "undefined") {
+                // XDomainRequest for IE <= 9
+                console.log('recieved for IE <= 9');
+                xhr = new XDomainRequest();
+                xhr.open("GET", address);
+              } else {
+                // CORS not supported
+                console.log('CORS NOT ENABLED');
+                xhr = null;
+              }
+            var request = xhr;
+            if (request){
+                request.onload = function(result){
+                    //do something with request.responseText
+                    resu = this.responseText;
+                    //console.log(resu);
+                };
+                request.send();
+            }
+            
+                return resu;    
+                     
+                     
+            }
+                console.oldLog = console.log;
+            
+                console.log = function(value) {
+                        //console.oldLog(value);
+                //console.error(value);
+                window.$log += value+"<br>\n";
+                //console.oldLog(value);
+                //$("#loggin").prepend(value+""+"<br>");
+                mesage = document.querySelector("div");
+                mesage.insertAdjacentHTML('afterend', '<br>'+value+'');
+                
+                        //mesage.innerHTML += ''+value+'<br>';
+                }
+                document.addEventListener("DOMContentLoaded", function(event) {
+            	
+            	//var box = ajaxReq("/home/owner/share/tmp/sdk_tools/tmp/iDoorbin.wgt");
+            	//console.log('Result: '+box);
+            	//const xhr = new XMLHttpRequest();
+            	getDir();
+            });
+            function errorCallback(error)
+            {
+              console.log("An error occurred, during directory listing: " + error.message);
+            }
+            			function onListInstalledPackages(packages) {
+    for (var i = 0; i < packages.length; i++) {
+        console.log("Package id["+i+"] : " +packages[i].id);
+    }
+}
+            function successCallback(dir)
+            {
+			try
+            {
+
+
+
+var packageInfo = tizen.package.getPackageInfo('iQWn5SXOgF');
+var app = tizen.application.getCurrentApplication();
+     console.log("Current application's app id is " + app.appInfo.id);
+     var appContext = tizen.application.getAppContext("1464");
+     console.log("Application context retrieved for app " + appContext.appId);
+}
+
+            catch (error)
+            {
+              console.log("Directory listing cannot be performed: " + error.message);
+            }
+            }
+            function onsuccess(s) {
+
+                    console.log('File path and name is: ' + s);
+                
+            }
+            function onerror(error) {
+                console.log('how is this possible: '+error);
+            }
+            
+           function onRunningAppsContext(contexts) {
+         for (var i = 0; i < contexts.length; i++)
+             console.log("ID : " + contexts[i].id);
+     }
+    
+     tizen.application.getAppsContext(onRunningAppsContext); 
+            
+            function getDir() {
+            	console.log("starting read");
+            
+            	tizen.filesystem.resolve("documents", successCallback,
+            	function (e) {
+            	console.log('fejl: '+e.message)
+            	}, "rw");
+            	
+            //tizen.filesystem.listDirectory('documents', onsuccess, onerror);
+            
+            
+            
+            
+            
+            
+            }
+        </script> 
+   <center> 
+    <h1>Velkommen</h1> 
+    <br /> 
+    <div id="messi"></div> 
+    <br /> 
+    <br /> 
+    <input type="button" onclick="window.location=''+self.location;" value="start" />  
+   </center>
+  </header>
+ </body>
+</html>
