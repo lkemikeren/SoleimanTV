@@ -14,8 +14,8 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.aionet.ir/
 https://ncdn.telewebion.com/tv1/live/playlist.m3u8
 #EXTINF:-1 tvg-name="IRIB 3" tvg-logo="https://newsal.online/api/channel_icons/irib3_200.png" tvg-id="IRIB 3" group-title="Iran",IRIB 3
-#EXTVLCOPT:http-referrer=https://salintv.com/
-https://shabake3-sport-app.maniatream.com/live/xpvW_0VIf4y1vznIKRxi0g__/master.m3u8
+#EXTVLCOPT:http-referrer=https://vitrin.splus.ir/
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/1.m3u8
 #EXTINF:-1 tvg-name="Caltex Music" tvg-logo="https://newsal.online/api/channel_icons/caltex200.png" tvg-id="Caltex" group-title="Iran",Caltex Music
 https://video.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 tvg-name="Me2 (server 1)" tvg-logo="https://slaslal.com/api/channel_icons/me2_200.png" tvg-id="Me2" group-title="Iran",Me2 Server1
