@@ -8,8 +8,8 @@ https://live-hls-web-aje-fa.thehlive.com/AJE/03.m3u8
 #EXTVLCOPT:http-referrer=https://namakade.com/
 https://glwizhstb46.glwiz.com/IranProudSeriesPlus_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:-1 tvg-name="IRIB 1" tvg-logo="https://newsal.online/api/channel_icons/irib1_200.png" tvg-id="IRIB 1" group-title="Iran",IRIB 1-1
-#EXTVLCOPT:http-referrer=https://www.aionet.ir/
-https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.persianleague.com/
+https://lenz.splus.ir/PLTV/88888888/224/3221226637/3.m3u8
 #EXTINF:-1 tvg-name="IRIB 1" tvg-logo="https://newsal.online/api/channel_icons/irib1_200.png" tvg-id="IRIB 1" group-title="Iran",IRIB 1-2
 #EXTVLCOPT:http-referrer=https://www.aionet.ir/
 https://ncdn.telewebion.com/tv1/live/playlist.m3u8
@@ -218,8 +218,8 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
 #EXTVLCOPT:http-referrer=https://salintv.com/
 https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
 #EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png" group-title="Kids;Sports",IRIB3
-#EXTVLCOPT:http-referrer=https://salintv.com/
-https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.persianleague.com/
+https://gg.hls2.xyz/live/tv3/chunks.m3u8
 #EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/240px-IRIB_TV4_logo.svg.png" group-title="Culture",IRIB4
 https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8
 #EXTVLCOPT:http-referrer=https://salintv.com/
