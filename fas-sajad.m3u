@@ -224,7 +224,7 @@ https://gg.hls2.xyz/live/tv3/chunks.m3u8
 https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8
 #EXTVLCOPT:http-referrer=https://salintv.com/
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",IRINN
-#EXTVLCOPT:http-referrer=https://salintv.com/IRINN.m3u8
+#EXTVLCOPT:http-referrer=https://salintv.com/
 https://glwizhstb46.glwiz.com/IRINN.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:-1 tvg-id="IsfahanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/242px-IsfahanTV.svg.png" group-title="General",Isfahan
 https://lenz.splus.ir/PLTV/88888888/224/3221226652/index.m3u8
