@@ -196,7 +196,8 @@ https://60ba7ef02e687.streamlock.net/ICNET/ngrp:my.stream_all/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://fa2.ifilmtv.ir/
 https://live.presstv.ir/hls/ifilm2.m3u8
 #EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",iFilm Persian
-https://live.presstv.ir/hls/ifilmfa.m3u8
+#EXTVLCOPT:http-referrer=https://namakade.com/
+https://glwizhstb42.glwiz.com/iFilmFarsi_HD.m3u8?user=sgls76551&session=2f1badb0f32dd67481dc63df3b5e9ef718d9e9b7efcf40daa9c78166618902431b9d6eec4b7532b1&group_id=76551
 #EXTINF:-1 tvg-id="IlamTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/240px-Ilam_TV.png" group-title="General",Ilam
 #EXTVLCOPT:http-referrer=https://www.aionet.ir/
 https://ncdn.telewebion.com/ilam/live/playlist.m3u8
@@ -286,7 +287,8 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226901/index.m3u8
 #EXTINF:-1 tvg-id="NamayeshTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Namayesh_TV_logo.svg/300px-Namayesh_TV_logo.svg.png" group-title="Entertainment",Namayesh
 https://lenz.splus.ir/PLTV/88888888/224/3221226148/index.m3u8
 #EXTINF:-1 tvg-id="Nasim.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/320px-Nasim_TV_logo.svg.png" group-title="Entertainment",Nasim
-https://lenz.splus.ir/PLTV/88888888/224/3221226653/index.m3u8
+#EXTVLCOPT:http-referrer=https://namakade.com/
+https://glwizhstb52.glwiz.com/IRIBNasim_HD.m3u8?user=sgls76551&session=272f6932443d1fbf6a86c63255547b32608ccf28aa93b4a7dfca8e9ef6cd6f497bd73ecf4d923231&group_id=76551
 #EXTINF:-1 tvg-id="NavahangTV.fi" tvg-logo="https://i.imgur.com/YteKXJy.png" group-title="Music",Navahang TV (720p)
 https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NegahTV.ir" tvg-logo="https://i.imgur.com/NFsBd4D.png" group-title="Entertainment",Negah TV (720p)
@@ -400,7 +402,8 @@ https://ncdn.telewebion.com/tabarestan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TamadonTV.af" tvg-logo="https://i.imgur.com/edGyj5H.png" group-title="Undefined",Tamadon TV (720p)
 https://hls.tamadon.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Tamasha.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/240px-IRIB_tamashaTV.svg.png" group-title="Undefined",Tamasha
-https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8
+#EXTVLCOPT:http-referrer=https://namakade.com/
+https://glwizhstb44.glwiz.com/Tamasha_HD.m3u8?user=sgls76551&session=460f013e7b6ea40844ca9461c9c00a7918d9e9b7efcf40daa9c78166618902431b9d6eec4b7532b1&group_id=76551
 #EXTINF:-1 tvg-id="TBNNejatTV.ir" tvg-logo="https://i.imgur.com/e4WffQA.png" group-title="Undefined",TBN Nejat TV (720p)
 https://hls.nejat.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TehranTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/208px-IRIBTV5.svg.png" group-title="General",Tehran
