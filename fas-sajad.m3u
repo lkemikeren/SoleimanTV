@@ -15,9 +15,8 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.aionet.ir/
 https://ncdn.telewebion.com/tv1/live/playlist.m3u8
 #EXTINF:-1 tvg-name="IRIB 3" tvg-logo="https://newsal.online/api/channel_icons/irib3_200.png" tvg-id="IRIB 3" group-title="Iran",IRIB 3
-#EXTVLCOPT:http-origin=https://namakade.com
-#EXTVLCOPT:http-referrer=https://namakade.com/
-https://glwizhstb36.glwiz.com/IRIBChannel3HD_HD/IRIBChannel3HD_High.m3u8?user=sgls76551&session=a392c08df240cb9bf6d00166941eb232ac708cf7733d50aa12d731cc754ff42dcf03001232089688&hlsid=HTTP_ID_126620&group_id=76551
+#EXTVLCOPT:http-origin=https://www.parsatv.com
+https://live.asset.televika.com/2acbdd87f1f4704f40044e728def1c5c/tvhls/tv3hd_s1_720p/index.m3u8
 #EXTINF:-1 tvg-name="Caltex Music" tvg-logo="https://newsal.online/api/channel_icons/caltex200.png" tvg-id="Caltex" group-title="Iran",Caltex Music
 https://video.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 tvg-name="Me2 (server 1)" tvg-logo="https://slaslal.com/api/channel_icons/me2_200.png" tvg-id="Me2" group-title="Iran",Me2 Server1
