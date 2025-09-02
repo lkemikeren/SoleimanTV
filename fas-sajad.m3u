@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Manoto Traitor TV" tvg-logo="https://maniatream.com/icons/channel_icons/manoto200.png" tvg-id="Manoto" group-title="Iran",Manoto Traitor TV
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://tv2.tamashaland.com/live/4BCvUOKzUFL89nDexIGzJg__/master.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://newsal.online/api/channel_icons/aljazire200_arabi.png" tvg-id="Al Jazeera" group-title="News",Al Jazeera
 https://live-hls-web-aje-fa.thehlive.com/AJE/03.m3u8
@@ -14,14 +14,14 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.aionet.ir/
 https://ncdn.telewebion.com/tv1/live/playlist.m3u8
 #EXTINF:-1 tvg-name="IRIB 3" tvg-logo="https://newsal.online/api/channel_icons/irib3_200.png" tvg-id="IRIB 3" group-title="Iran",IRIB 3
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://shabake3-sport-app.maniatream.com/live/xpvW_0VIf4y1vznIKRxi0g__/master.m3u8
 #EXTINF:-1 tvg-name="Caltex Music" tvg-logo="https://newsal.online/api/channel_icons/caltex200.png" tvg-id="Caltex" group-title="Iran",Caltex Music
 https://video.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 tvg-name="Me2 (server 1)" tvg-logo="https://slaslal.com/api/channel_icons/me2_200.png" tvg-id="Me2" group-title="Iran",Me2 Server1
 https://test1.maniatream.com/live/t4NSlMXnKMSq9N8vFLp5wA__/master.m3u8
 #EXTINF:-1 tvg-name="Me2 (server 2)" tvg-logo="https://slaslal.com/api/channel_icons/me2_200.png" tvg-id="Me2" group-title="Iran",Me2 Server2
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://me2hls.wns.live/hls/stream.m3u8
 ##EXTINF:-1 tvg-name="T2" tvg-logo="https://slaslal.com/api/channel_icons/t2_tv200.png" tvg-id="T2" group-title="Iran",T2
 https://tvwnsnew.maniatream.com/live/7TWrkdGpnNSs_wf_ZkOXHQ__/master.m3u8
@@ -92,91 +92,118 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GanjeHozourTV.us" tvg-logo="https://i.imgur.com/TnQYtKh.png" group-title="General",Ganj e Hozour TV (720p)
 https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GEM" tvg-logo="https://slaslal.com/api/channel_icons/korea/gem_tv_asia200.png" group-title="GEM",GEM
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://m3u.iranvids.com/gem-tv/output.m3u8
 #EXTINF:-1 tvg-id="GEM Academy" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_academy.png" group-title="GEM",GEM Academy
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://glserver1.tamashaland.com/live/3dwD5bJ9rPQNa41yLm5kVw__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Arabia" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_arabic.png" group-title="GEM",GEM Arabia
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 #EXTVLCOPT:http-user-agent=salltv1020
 http://tv2.tamashaland.com:80/stream/2/index.m3u8?username=fsSniyPp0k&password=rNgETMPNnm|User-agent=salltv1020
 #EXTINF:-1 tvg-id="GEM AZ" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_az.png" group-title="GEM",GEM AZ
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://glnew.maniatream.com/live/wyr2gqx1vfEQtLc8j5TGKA__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Bollywood" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_bollywood.png" group-title="GEM",GEM Bollywood
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://new-gem.tamashaland.com/live/azGMRGAxXJ5jIVZIC9uEYw__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Classic" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_classic.png" group-title="GEM",GEM Classic
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://gem1.tamashaland.com/live/Y_v9N48LFZ12kX5XIrEeHQ__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Comedy" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_comedy.png" group-title="GEM",GEM Comedy
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://glnew.maniatream.com/live/1UUMZFA2FKvr8nQBcRsahQ__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Documentary" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_documentary.png" group-title="GEM",GEM Documentary
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://glserver1.tamashaland.com/live/mDvs_CDXxTE_Kl_eyEdENA__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Drama" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_drama.png" group-title="GEM",GEM Drama
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://new-gem.tamashaland.com/live/4fSdv2Lf3D_l_W269SOM_g__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Drama+" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_drama_plus.png" group-title="GEM",GEM Drama+
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://glnew.maniatream.com/live/swnwNSuu8lcKTSTq7t_JmA__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Film" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_film.png" group-title="GEM",GEM Film
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://new-gem.tamashaland.com/live/eBtJ20e_rmQov9KVjUBWnQ__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Fit" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_fit.png" group-title="GEM",GEM Fit
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://glserver1.tamashaland.com/live/S30676V75germ_SrBec2qA__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Food" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_food.png" group-title="GEM",GEM Food
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://glnew.maniatream.com/live/4KVTX7cZgPtAzdvqvGbpmg__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Junior" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_junior.png" group-title="GEM",GEM Junior
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://glnew.maniatream.com/live/EwR8AfStMXeYs8T76CR99A__/master.m3u8
 #EXTINF:-1 tvg-id="GEM AZ" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_kids.png" group-title="GEM",GEM Kids
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://glnew.maniatream.com/live/OO3PUgzOoIY8eonBs04oaQ__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Latino" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_latino.png" group-title="GEM",GEM Latino
 https://glnew.maniatream.com/live/XQHte2g6t0l23hHT9Yx1ag__/master.m3u8
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 #EXTINF:-1 tvg-id="GEM Life" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_life.png" group-title="GEM",GEM Life
 https://glserver1.tamashaland.com/live/1HswF8gkNmYF_kCcq99gpg__/master.m3u8
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 #EXTINF:-1 tvg-id="GEM Nature" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_nature.png" group-title="GEM",GEM Nature
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://glserver1.tamashaland.com/live/9dtI8XUrziWPbY5Qt_Rggg__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Pixel" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_pixel.png" group-title="GEM",GEM Pixel
-#EXTVLCOPT:http-origin=https://www.parsatv.com
+#EXTVLCOPT:http-origin=https://salintv.coom
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
 #EXTINF:-1 tvg-id="GEM Series" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series.png" group-title="GEM",GEM Series
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://m3u.iranvids.com/gem-series/output.m3u8
 #EXTINF:-1 tvg-id="GEM Series+" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series_plus.png" group-title="GEM",GEM Series+
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://tv2.tamashaland.com/live/nIR5afjd6jmGzrxaVOvhNg__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Series(backup)" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series.png" group-title="GEM",GEM Series(backup)
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://glserver.aparatlive.online/live/IhalStgoFDEb5cp6RQTsxQ__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Sport" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_sport.png" group-title="GEM",GEM Sport
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://main.tamashaland.com/live/rY69Vcnc_Hv5uAepnrwI9w__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Travel" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_travel.png" group-title="GEM",GEM Travel
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 http://95.216.228.244/live/sj9c3TcgSukQnL28otOTjA__/master.m3u8
 #EXTINF:-1 tvg-id="GEM TV" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_tv.png" group-title="GEM",GEM TV
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://tv2.tamashaland.com/live/37GlOxCdJfBryO5V9_YKkQ__/master.m3u8
 #EXTINF:-1 tvg-id="GEM TV+" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_tv_plus.png" group-title="GEM",GEM TV+
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://tv2.tamashaland.com/live/vJM0Bmjpp3enE_CXCPq1kw__/master.m3u8
 #EXTINF:-1 tvg-id="GEM MIFA" tvg-logo="https://newsal.online/api/channel_icons/iran/gem_mifa.png" group-title="GEM",GEM MIFA
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-referrer=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://new-gem.tamashaland.com/live/UfxE4YQgYWe8CqlPkUSZkQ__/master.m3u8
 #EXTINF:-1 tvg-id="GEM MIFA PLUS" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_mifa_plus.png" group-title="GEM",GEM MIFA PLUS
-#EXTVLCOPT:http-origin=https://salintv.com/
+#EXTVLCOPT:http-origin=https://salintv.com
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://glnew.maniatream.com/live/sccCCVQo_ekT61uSyQ6t7w__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Rubix" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_rubix.png" group-title="GEM",GEM Rubix
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://m3u.iranvids.com/gem-rubix/output.m3u8
 #EXTINF:-1 tvg-id="HamedanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IRIB_Hamadan_tv.svg/296px-IRIB_Hamadan_tv.svg.png" group-title="Undefined",Hamedan
 #EXTVLCOPT:http-referrer=https://www.aionet.ir/
@@ -209,26 +236,26 @@ http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
 #EXTINF:-1 tvg-id="IranPress.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg/240px-%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg" group-title="News",Iran Press (480p) [Not 24/7]
 https://ip2stream.iranpress.com/hls/ip2.m3u8
 #EXTINF:-1 tvg-id="IRIB1.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png" group-title="General",IRIB1
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
 #EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png" group-title="General",IRIB2
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1 tvg-id="IRINN2.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",IRIB2
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
 #EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png" group-title="Kids;Sports",IRIB3
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 #EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/240px-IRIB_TV4_logo.svg.png" group-title="Culture",IRIB4
 https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-referrer=https://salintv.com
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",IRINN
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-referrer=https://salintv.com
 https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
 #EXTINF:-1 tvg-id="IsfahanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/242px-IsfahanTV.svg.png" group-title="General",Isfahan
 https://lenz.splus.ir/PLTV/88888888/224/3221226652/index.m3u8
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-referrer=https://salintv.com
 #EXTINF:-1 tvg-id="TVITN.ir" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Entertainment",ITN (720p) [Not 24/7]
 https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="JahanbinTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/320px-Shahrekord_Jahanbin.svg.png" group-title="General",Jahanbin
@@ -347,7 +374,8 @@ https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaTwo.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-two-fr.png" group-title="General",Persiana Two (720p)
 https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PMC" tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Music",PMC (1080p)
-#EXTVLCOPT:http-referrer=https://namakade.com/
+#EXTVLCOPT:http-referrer=https://salintv.com
+#EXTVLCOPT:http-origin=https://salintv.com
 https://glwizhhls23.glwiz.com/PMCMusic/PMCMusic_Low.m3u8?user=sglsbs4fpy34l115zykg1y0k5r33&session=a09893e0040b6d1c3099837332e7a594199183935d5fe930aba929c3a2ea391ce158a312d1f231a6f05b4a119118f1cfb635f75972792622f8f27b7a5884d97e&hlsid=HTTP_ID_93059
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Music",PMC Royale (720p) [Not 24/7]
 https://rohls.pmc.live/hls/stream.m3u8
