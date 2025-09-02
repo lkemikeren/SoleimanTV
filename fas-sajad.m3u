@@ -348,7 +348,7 @@ https://turkhls.persiana.live/hls/stream.m3u8
 https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PMC" tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Music",PMC (1080p)
 #EXTVLCOPT:http-referrer=https://namakade.com/
-https://glwizhhls21.glwiz.com/PMCMusic/PMCMusic_High.m3u8?user=sglsbs4fpy34l115zykg1y0k5r33&session=c57aa5f6497113af58b063b7c802a7f4199183935d5fe9301bf23693c453586de158a312d1f231a6f05b4a119118f1cfb635f75972792622f8f27b7a5884d97e&hlsid=HTTP_ID_95609
+https://glwizhhls21.glwiz.com/PMCMusic/PMCMusic_Low.m3u8?user=sglsbs4fpy34l115zykg1y0k5r33&session=c57aa5f6497113af58b063b7c802a7f4199183935d5fe9301bf23693c453586de158a312d1f231a6f05b4a119118f1cfb635f75972792622f8f27b7a5884d97e&hlsid=HTTP_ID_95609
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Music",PMC Royale (720p) [Not 24/7]
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PokerTV.fr" tvg-logo="https://i.imgur.com/tArvcvj.png" group-title="Sports",Poker TV (720p)
