@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Manoto Traitor TV" tvg-logo="https://maniatream.com/icons/channel_icons/manoto200.png" tvg-id="Manoto" group-title="Iran",Manoto Traitor TV
+#EXTINF:-1 tvg-name="Manoto" tvg-logo="https://maniatream.com/icons/channel_icons/manoto200.png" tvg-id="Manoto" group-title="Iran",Manoto Traitor TV
 #EXTVLCOPT:http-origin=https://www.persianleague.com
 #EXTVLCOPT:http-referrer=https://www.persianleague.com/
 https://gg.hls2.xyz/live/manoto/playlist.m3u8
@@ -71,7 +71,9 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226800/index.m3u8
 #EXTINF:-1 tvg-id="BaranTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/283px-TV_Baran.svg.png" group-title="General",Baran
 https://lenz.splus.ir/PLTV/88888888/224/3221226902/index.m3u8
 #EXTINF:-1 tvg-id="BBCPersian.uk" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian (720p)
-https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTVLCOPT:http-origin=https://www.aparatchi.com
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/IR%20-%20BBC%20Persian/playlist.m3u8
 #EXTINF:-1 tvg-id="BravoFarsiTV.ir" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" group-title="Movies;Series",Bravo Farsi TV (360p)
 https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BoushehrTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/94/Bushehr_TV.svg/200px-Bushehr_TV.svg.png" group-title="Undefined",Bushehr
@@ -92,7 +94,7 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226701/index.m3u8
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GanjeHozourTV.us" tvg-logo="https://i.imgur.com/TnQYtKh.png" group-title="General",Ganj e Hozour TV (720p)
 https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GEM TV" tvg-logo="https://slaslal.com/api/channel_icons/korea/gem_tv_asia200.png" group-title="GEM",GEM
+#EXTINF:-1 tvg-id="GEM TV" tvg-logo="https://slaslal.com/api/channel_icons/korea/gem_tv_asia200.png" group-title="GEM",GEM TV
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://ss.90minlive.online/live/IR%20-%20GEM%20TV_/playlist.m3u8
@@ -159,9 +161,9 @@ https://ss.90minlive.online/live/IR%20-%20GEM%20Junior_/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://salintv.com
 https://glnew.maniatream.com/live/OO3PUgzOoIY8eonBs04oaQ__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Latino" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_latino.png" group-title="GEM",GEM Latino
-https://glnew.maniatream.com/live/XQHte2g6t0l23hHT9Yx1ag__/master.m3u8
-#EXTVLCOPT:http-origin=https://salintv.com
-#EXTVLCOPT:http-referrer=https://salintv.com
+#EXTVLCOPT:http-origin=https://www.aparatchi.com
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+https://ss.90minlive.online/live/IR%20-%20GEM%20LATINO%20TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="GEM Life" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_life.png" group-title="GEM",GEM Life
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
