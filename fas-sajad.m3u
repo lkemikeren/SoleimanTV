@@ -123,13 +123,13 @@ https://glnew.maniatream.com/live/1UUMZFA2FKvr8nQBcRsahQ__/master.m3u8
 #EXTVLCOPT:http-referrer=https://salintv.com
 https://glserver1.tamashaland.com/live/mDvs_CDXxTE_Kl_eyEdENA__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Drama" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_drama.png" group-title="GEM",GEM Drama
-#EXTVLCOPT:http-origin=https://salintv.com
-#EXTVLCOPT:http-referrer=https://salintv.com
-https://new-gem.tamashaland.com/live/4fSdv2Lf3D_l_W269SOM_g__/master.m3u8
+#EXTVLCOPT:http-origin=https://www.aparatchi.com
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+https://ss.90minlive.online/live/IR%20-%20GEM%20Drama_/playlist.m3u8
 #EXTINF:-1 tvg-id="GEM Drama+" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_drama_plus.png" group-title="GEM",GEM Drama+
-#EXTVLCOPT:http-origin=https://salintv.com
-#EXTVLCOPT:http-referrer=https://salintv.com
-https://glnew.maniatream.com/live/swnwNSuu8lcKTSTq7t_JmA__/master.m3u8
+#EXTVLCOPT:http-origin=https://www.aparatchi.com
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+https://ss.90minlive.online/live/IR%20-%20GEM%20Drama%20Plus2/playlist.m3u8
 #EXTINF:-1 tvg-id="GEM Film" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_film.png" group-title="GEM",GEM Film
 #EXTVLCOPT:http-origin=https://salintv.com
 #EXTVLCOPT:http-referrer=https://salintv.com
