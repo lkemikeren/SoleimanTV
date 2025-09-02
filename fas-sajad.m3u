@@ -105,10 +105,7 @@ https://ss.90minlive.online/live/IR%20-%20Gem%20River_/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://salintv.com
 #EXTVLCOPT:http-user-agent=salltv1020
 http://tv2.tamashaland.com:80/stream/2/index.m3u8?username=fsSniyPp0k&password=rNgETMPNnm|User-agent=salltv1020
-#EXTINF:-1 tvg-id="GEM AZ" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_az.png" group-title="GEM",GEM AZ
-#EXTVLCOPT:http-origin=https://www.gemgroup.tv
-#EXTVLCOPT:http-referrer=https://www.gemgroup.tv/
-https://cdn-live.gemgroup.tv/live/az.m3u8
+
 #EXTINF:-1 tvg-id="GEM Bollywood" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_bollywood.png" group-title="GEM",GEM Bollywood
 #EXTVLCOPT:http-origin=https://salintv.com
 #EXTVLCOPT:http-referrer=https://salintv.com
@@ -157,7 +154,7 @@ https://ss.90minlive.online/live/IR%20-%20GEM%20FOOD_/playlist.m3u8
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://ss.90minlive.online/live/IR%20-%20GEM%20Junior_/playlist.m3u8
-#EXTINF:-1 tvg-id="GEM AZ" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_kids.png" group-title="GEM",GEM Kids
+#EXTINF:-1 tvg-id="GEM AZ" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_kids.png" group-title="GEM",GEM AZ
 #EXTVLCOPT:http-origin=https://salintv.com
 #EXTVLCOPT:http-referrer=https://salintv.com
 https://glnew.maniatream.com/live/OO3PUgzOoIY8eonBs04oaQ__/master.m3u8
@@ -225,10 +222,7 @@ https://ss.90minlive.online/live/IR%20-%20GEM%20Kids_/playlist.m3u8
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://ss.90minlive.online/live/IR%20-%20Gem%20Onyx2/playlist.m3u8
-#EXTINF:-1 tvg-id="GEM Onyx" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series_plus.png" group-title="GEM",GEM Onyx
-#EXTVLCOPT:http-origin=https://www.aparatchi.com
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-https://ss.90minlive.online/live/IR%20-%20Gem%20Onyx2/playlist.m3u8
+
 
 
 
@@ -247,8 +241,9 @@ https://hls.hodhod.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ICnet1.ca" tvg-logo="https://i.imgur.com/aeS4Sjv.png" group-title="Religious",ICnet 1 (720p) [Not 24/7]
 https://60ba7ef02e687.streamlock.net/ICNET/ngrp:my.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="iFilm2.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png" group-title="Movies",iFilm 2
-#EXTVLCOPT:http-referrer=http://fa2.ifilmtv.ir/
-https://live.presstv.ir/hls/ifilm2.m3u8
+#EXTVLCOPT:http-origin=https://www.aparatchi.com
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/AP%20iFilm%20Persian%202/playlist.m3u8
 #EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",iFilm Persian
 https://live.presstv.ir/hls/ifilmfa.m3u8
 #EXTINF:-1 tvg-id="IlamTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/240px-Ilam_TV.png" group-title="General",Ilam
