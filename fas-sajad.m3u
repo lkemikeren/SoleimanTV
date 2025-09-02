@@ -150,7 +150,8 @@ https://glserver1.tamashaland.com/live/9dtI8XUrziWPbY5Qt_Rggg__/master.m3u8
 #EXTVLCOPT:http-referrer=https://salintv.com/
 https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Series" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series.png" group-title="GEM",GEM Series
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-referrer=https://salintv.com
+#EXTVLCOPT:http-origin=https://salintv.com
 https://tv2.tamashaland.com/live/T2UbgkxT29dlWLcvvpxJrw__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Series+" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series_plus.png" group-title="GEM",GEM Series+
 #EXTVLCOPT:http-referrer=https://salintv.com/
@@ -166,7 +167,7 @@ https://main.tamashaland.com/live/rY69Vcnc_Hv5uAepnrwI9w__/master.m3u8
 http://95.216.228.244/live/sj9c3TcgSukQnL28otOTjA__/master.m3u8
 #EXTINF:-1 tvg-id="GEM TV" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_tv.png" group-title="GEM",GEM TV
 #EXTVLCOPT:http-referrer=https://salintv.com/
-https://main.tamashaland.com/live/37GlOxCdJfBryO5V9_YKkQ__/master.m3u8
+https://tv2.tamashaland.com/live/37GlOxCdJfBryO5V9_YKkQ__/master.m3u8
 #EXTINF:-1 tvg-id="GEM TV+" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_tv_plus.png" group-title="GEM",GEM TV+
 #EXTVLCOPT:http-referrer=https://salintv.com/
 https://tv2.tamashaland.com/live/vJM0Bmjpp3enE_CXCPq1kw__/master.m3u8
