@@ -347,8 +347,8 @@ https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaTwo.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-two-fr.png" group-title="General",Persiana Two (720p)
 https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PMC" tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Music",PMC (1080p)
-#EXTVLCOPT:http-referrer=https://namakade.com/
-https://glwizhstb46.glwiz.com/PMCMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTVLCOPT:http-referrer=https://www.glwiz.com/
+https://glwizhhls23.glwiz.com/PMCMusic.m3u8?user=sglsbs4fpy34l115zykg1y0k5r33&session=a09893e0040b6d1c3099837332e7a594199183935d5fe930aba929c3a2ea391ce158a312d1f231a6f05b4a119118f1cfb635f75972792622f8f27b7a5884d97e
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Music",PMC Royale (720p) [Not 24/7]
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PokerTV.fr" tvg-logo="https://i.imgur.com/tArvcvj.png" group-title="Sports",Poker TV (720p)
