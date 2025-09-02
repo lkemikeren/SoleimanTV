@@ -376,7 +376,7 @@ https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PMC" tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Music",PMC (1080p)
 #EXTVLCOPT:http-referrer=https://salintv.com
 #EXTVLCOPT:http-origin=https://salintv.com
-https://glwizhhls23.glwiz.com/PMCMusic/PMCMusic_Low.m3u8?user=sglsbs4fpy34l115zykg1y0k5r33&session=a09893e0040b6d1c3099837332e7a594199183935d5fe930aba929c3a2ea391ce158a312d1f231a6f05b4a119118f1cfb635f75972792622f8f27b7a5884d97e&hlsid=HTTP_ID_93059
+https://gg.hls2.xyz/live/IR%20-%20PMC/playlist.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Music",PMC Royale (720p) [Not 24/7]
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PokerTV.fr" tvg-logo="https://i.imgur.com/tArvcvj.png" group-title="Sports",Poker TV (720p)
