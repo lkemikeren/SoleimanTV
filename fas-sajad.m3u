@@ -104,9 +104,9 @@ https://glserver1.tamashaland.com/live/3dwD5bJ9rPQNa41yLm5kVw__/master.m3u8
 #EXTVLCOPT:http-user-agent=salltv1020
 http://tv2.tamashaland.com:80/stream/2/index.m3u8?username=fsSniyPp0k&password=rNgETMPNnm|User-agent=salltv1020
 #EXTINF:-1 tvg-id="GEM AZ" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_az.png" group-title="GEM",GEM AZ
-#EXTVLCOPT:http-origin=https://salintv.com
-#EXTVLCOPT:http-referrer=https://salintv.com
-https://glnew.maniatream.com/live/wyr2gqx1vfEQtLc8j5TGKA__/master.m3u8
+#EXTVLCOPT:http-origin=https://namakade.com
+#EXTVLCOPT:http-referrer=https://namakade.com
+https://glwizhstb42.glwiz.com/GemAZ_HD/GemAZ_High.m3u8?user=sgls76551&session=85a2884ae9c1c6a5a5ce233d4f9587b39ad64cffe83e6c4c148cb26b4b312350585be18972c83327&hlsid=HTTP_ID_3&group_id=76551
 #EXTINF:-1 tvg-id="GEM Bollywood" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_bollywood.png" group-title="GEM",GEM Bollywood
 #EXTVLCOPT:http-origin=https://salintv.com
 #EXTVLCOPT:http-referrer=https://salintv.com
