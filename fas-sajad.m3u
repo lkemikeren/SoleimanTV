@@ -116,9 +116,9 @@ https://new-gem.tamashaland.com/live/azGMRGAxXJ5jIVZIC9uEYw__/master.m3u8
 #EXTVLCOPT:http-referrer=https://salintv.com
 https://gem1.tamashaland.com/live/Y_v9N48LFZ12kX5XIrEeHQ__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Comedy" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_comedy.png" group-title="GEM",GEM Comedy
-#EXTVLCOPT:http-origin=https://salintv.com
-#EXTVLCOPT:http-referrer=https://salintv.com
-https://glnew.maniatream.com/live/1UUMZFA2FKvr8nQBcRsahQ__/master.m3u8
+#EXTVLCOPT:http-origin=https://www.aparatchi.com
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+https://ss.90minlive.online/live/IR%20-%20GEM%20Comedy2/playlist.m3u8
 #EXTINF:-1 tvg-id="GEM Documentary" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_documentary.png" group-title="GEM",GEM Documentary
 #EXTVLCOPT:http-referrer=https://salintv.com
 https://glserver1.tamashaland.com/live/mDvs_CDXxTE_Kl_eyEdENA__/master.m3u8
