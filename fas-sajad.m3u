@@ -171,9 +171,9 @@ https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
 #EXTVLCOPT:http-referrer=https://salintv.com
 https://m3u.iranvids.com/gem-series/output.m3u8
 #EXTINF:-1 tvg-id="GEM Series+" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series_plus.png" group-title="GEM",GEM Series+
-#EXTVLCOPT:http-origin=https://salintv.com
-#EXTVLCOPT:http-referrer=https://salintv.com
-https://tv2.tamashaland.com/live/nIR5afjd6jmGzrxaVOvhNg__/master.m3u8
+#EXTVLCOPT:http-origin=https://www.aparatchi.com
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+https://ss.90minlive.online/live/IR%20-%20GEM%20Series%20Plus2/playlist.m3u8
 #EXTINF:-1 tvg-id="GEM Series(backup)" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series.png" group-title="GEM",GEM Series(backup)
 #EXTVLCOPT:http-origin=https://salintv.com
 #EXTVLCOPT:http-referrer=https://salintv.com
