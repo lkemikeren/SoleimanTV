@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Manoto" tvg-logo="https://maniatream.com/icons/channel_icons/manoto200.png" tvg-id="Manoto" group-title="Iran",Manoto Traitor TV
+#EXTINF:-1 tvg-name="Manoto" tvg-logo="https://maniatream.com/icons/channel_icons/manoto200.png" tvg-id="Manoto" group-title="Iran",Manoto TV
 #EXTVLCOPT:http-origin=https://www.persianleague.com
 #EXTVLCOPT:http-referrer=https://www.persianleague.com/
 https://gg.hls2.xyz/live/manoto/playlist.m3u8
