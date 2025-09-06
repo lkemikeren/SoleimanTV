@@ -104,9 +104,9 @@ https://ss.90minlive.online/live/IR%20-%20GEM%20TV_/playlist.m3u8
 https://ss.90minlive.online/live/IR%20-%20Gem%20River_/playlist.m3u8
 #EXTINF:-1 tvg-id="GEM Arabia" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_arabic.png" group-title="GEM",GEM Arabia
 #EXTVLCOPT:http-origin=https://salintv.com
-#EXTVLCOPT:http-referrer=https://salintv.com/
+#EXTVLCOPT:http-referrer=http://sal2000new.online/
 #EXTVLCOPT:http-user-agent=salltv1020
-http://tv2.tamashaland.com:80/stream/2/index.m3u8?username=fsSniyPp0k&password=rNgETMPNnm|User-agent=salltv1020
+http://tv2.tamashaland.com/stream/2/index.m3u8?username=fsSniyPp0k&password=rNgETMPNnm
 
 #EXTINF:-1 tvg-id="GEM Bollywood" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_bollywood.png" group-title="GEM",GEM Bollywood
 #EXTVLCOPT:http-origin=https://salintv.com
@@ -159,7 +159,7 @@ https://ss.90minlive.online/live/IR%20-%20GEM%20Junior_/playlist.m3u8
 #EXTINF:-1 tvg-id="GEM AZ" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_kids.png" group-title="GEM",GEM AZ
 #EXTVLCOPT:http-origin=https://salintv.com
 #EXTVLCOPT:http-referrer=https://salintv.com/
-https://glnew.maniatream.com/live/OO3PUgzOoIY8eonBs04oaQ__/master.m3u8
+https://glnew.tabestani.com/live/wyr2gqx1vfEQtLc8j5TGKA__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Latino" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_latino.png" group-title="GEM",GEM Latino
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
