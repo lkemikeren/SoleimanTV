@@ -33,8 +33,12 @@ https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AbadanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png" group-title="General",Abadan
 https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8
 #EXTINF:-1 tvg-id="AbalfadhlTV.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV (720p)
+#EXTVLCOPT:http-origin=https://abalfazltv.deltagroup.ir
+#EXTVLCOPT:http-referrer=https://abalfazltv.deltagroup.ir/
 https://t.northtelecom.org/ABALFADHLTV.m3u8
 #EXTINF:-1 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 2(720p)
+#EXTVLCOPT:http-origin=https://abalfazltv.deltagroup.ir
+#EXTVLCOPT:http-referrer=https://abalfazltv.deltagroup.ir/
 https://cdn.northtelecom.org/ABALFADHLTV.m3u8
 #EXTINF:-1 tvg-id="AflakTV.ir" tvg-logo="https://i.imgur.com/LkLCHpf.png" group-title="General",Aflak
 https://lenz.splus.ir/PLTV/88888888/224/3221226675/index.m3u8
