@@ -122,9 +122,9 @@ https://ss.90minlive.online/live/IR%20-%20Gem%20River_/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://sal2000new.online
 http://tv2.tamashaland.com:80/stream/2/index.m3u8?username=fsSniyPp0k&password=rNgETMPNnm
 #EXTINF:-1 tvg-id="GEM AZ" tvg-logo="https://tabestani.com/api/channel_icons/iran/gem_az.png" group-title="GEM",GEM AZ
-#EXTVLCOPT:http-origin=https://salmal1000.com
-#EXTVLCOPT:http-referrer=https://salmal1000.com/
-https://gems1.bazarganiha.com/live/XlSHi3pK494U1AfMijKU0Q__/master.m3u8
+#EXTVLCOPT:http-origin=https://namakade.com
+#EXTVLCOPT:http-referrer=https://namakade.com/
+https://glwizhstb45.glwiz.com/GemAZ_HD.m3u8?user=sgls76551&session=80be61e9f185e69aed8e9aa765ddfb7c7b36ff73fff25f134d882504c0a82d8f759da44f728a1efa&group_id=76551
 #EXTINF:-1 tvg-id="GEM Bollywood" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_bollywood.png" group-title="GEM",GEM Bollywood
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
@@ -158,9 +158,9 @@ https://ss.90minlive.online/live/IR%20-%20GEM%20Drama%20Plus2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://ss.90minlive.online/live/IR%20-%20GEM%20Entertainment_/playlist.m3u8
 #EXTINF:-1 tvg-id="GEM Film" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_film.png" group-title="GEM",GEM Film
-#EXTVLCOPT:http-origin=https://salmal1000.com
-#EXTVLCOPT:http-referrer=https://salmal1000.com/
-https://gems1.bazarganiha.com/live/bX7J0dJHJ7_KLJTFHhCDLw__/master.m3u8
+#EXTVLCOPT:http-origin=https://namakade.com
+#EXTVLCOPT:http-referrer=https://namakade.com/
+https://glwizhstb37.glwiz.com/GemFilm_HD.m3u8?user=sgls76551&session=455450cf3472fc8176bda18c916e023e3b85f272783c0439ca36601e0028cc60cf03001232089688&group_id=76551
 #EXTINF:-1 tvg-id="GEM Fit" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_fit.png" group-title="GEM",GEM Fit
 #EXTVLCOPT:http-origin=https://salintv.com
 #EXTVLCOPT:http-referrer=https://salintv.com/
@@ -332,7 +332,9 @@ https://ncdn.telewebion.com/mahabad/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MarjaeyatTVPersian.iq" tvg-logo="https://i.imgur.com/fCj05f0.png" group-title="Religious",Marjaeyat TV Persian (240p) [Not 24/7]
 https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCPersia.ae" tvg-logo="https://i.imgur.com/4FXiyjn.png" group-title="General",MBC Persia (1080p)
-https://hls.mbcpersia.live/hls/stream.m3u8
+#EXTVLCOPT:http-origin=https://namakade.com
+#EXTVLCOPT:http-referrer=https://namakade.com/
+https://glwizhstb52.glwiz.com/MBCPersia_HD.m3u8?user=sgls76551&session=edf0ca82158280b84db6b1b327ad459ddc83f5ddd768564dc541c1cb4e0eb41a0a9c558818368121c7ad11cb4536875d&group_id=76551
 #EXTINF:-1 tvg-id="MetaFilmTV.ir" tvg-logo="https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png" group-title="Movies",Meta Film TV (1080p)
 https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MihanTV.ir" tvg-logo="https://i.imgur.com/XEMsM7w.png" group-title="News",Mihan TV (720p)
