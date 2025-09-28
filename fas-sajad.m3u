@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-name="GEM 24B" tvg-logo="https://tabestani.com/api/channel_icons/4turk_200.png" tvg-id="GEM 24B" group-title="Iran",GEM 24B
 #EXTVLCOPT:http-origin=https://salintv.com
 #EXTVLCOPT:http-referrer=https://salintv.com/
