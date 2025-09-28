@@ -124,10 +124,9 @@ http://tv2.tamashaland.com:80/stream/2/index.m3u8?username=fsSniyPp0k&password=r
 #EXTINF:-1 tvg-id="GEM AZ" tvg-logo="https://tabestani.com/api/channel_icons/iran/gem_az.png" group-title="GEM",GEM AZ
 #EXTVLCOPT:http-origin=https://salmal1000.com
 #EXTVLCOPT:http-referrer=https://salmal1000.com/
-https://gemone.tabestani.com/live/BzcHwf2zJB1J8_3_3p_A7w__/master.m3u8
+https://gems1.bazarganiha.com/live/XlSHi3pK494U1AfMijKU0Q__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Bollywood" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_bollywood.png" group-title="GEM",GEM Bollywood
-
-https://glwizhstb39.glwiz.com/GEMBollywood_HD.m3u8?user=sgls76551&session=9f6706b9e73afce9f6d22a7d338b56ea2dc96e9a42b47aa019d41c2b5e65e9f71b9d6eec4b7532b1&group_id=76551
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gembollywood/index-0.m3u8
 #EXTINF:-1 tvg-id="GEM Classic" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_classic.png" group-title="GEM",GEM Classic
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
@@ -159,7 +158,7 @@ https://ss.90minlive.online/live/IR%20-%20GEM%20Entertainment_/playlist.m3u8
 #EXTINF:-1 tvg-id="GEM Film" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_film.png" group-title="GEM",GEM Film
 #EXTVLCOPT:http-origin=https://salmal1000.com
 #EXTVLCOPT:http-referrer=https://salmal1000.com/
-https://gemone.tabestani.com/live/cC8_SFO_tiUs2dG1mF05BQ__/master.m3u8
+https://gems1.bazarganiha.com/live/bX7J0dJHJ7_KLJTFHhCDLw__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Fit" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_fit.png" group-title="GEM",GEM Fit
 #EXTVLCOPT:http-origin=https://salintv.com
 #EXTVLCOPT:http-referrer=https://salintv.com/
