@@ -218,9 +218,9 @@ https://ss.90minlive.online/live/IR%20-%20GEM%20TV%20Plus2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa2/playlist.m3u8
 #EXTINF:-1 tvg-id="GEM MIFA PLUS" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_mifa_plus.png" group-title="GEM",GEM MIFA PLUS
-#EXTVLCOPT:http-origin=https://salmal1000.com
-#EXTVLCOPT:http-referrer=https://salmal1000.com/
-https://gemone.tabestani.com/live/2XszeWNvYcOysVPLbJKurg__/master.m3u8
+#EXTVLCOPT:http-origin=https://www.aparatchi.com
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa%20Plus2/playlist.m3u8
 #EXTINF:-1 tvg-id="GEM River+" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series_plus.png" group-title="GEM",GEM River+
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
