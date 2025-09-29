@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="4Music TV" tvg-logo="https://tabestani.com/api/channel_icons/4turk_200.png" tvg-id="4Music TV" group-title="",4Music TV
+#EXTINF:-1 tvg-name="4Music TV" tvg-logo="https://tabestani.com/api/channel_icons/4music_tv200.png" tvg-id="4Music TV" group-title="",4Music TV
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://gg.hls2.xyz/live/AP%20Persiana%204Music/playlist.m3u8
