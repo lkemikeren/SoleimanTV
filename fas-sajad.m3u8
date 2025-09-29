@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://slaslal.com/api/channel_icons/me2_200.png" tvg-id="Nat Geo" group-title="International",National Geographic
+https://tr.live.cdn.cgates.lt/live/dash/561901/index.mpd?decryption_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
 #EXTINF:-1 tvg-name="4Music TV" tvg-logo="https://tabestani.com/api/channel_icons/4music_tv200.png" tvg-id="4Music TV" group-title="",4Music TV
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
@@ -27,8 +29,7 @@ https://ncdn.telewebion.com/tv1/live/playlist.m3u8
 https://live.asset.televika.com/2acbdd87f1f4704f40044e728def1c5c/tvhls/tv3hd_s1_720p/index.m3u8
 #EXTINF:-1 tvg-name="Caltex Music" tvg-logo="https://newsal.online/api/channel_icons/caltex200.png" tvg-id="Caltex" group-title="Iran",Caltex Music
 https://video.caltexmusic.com/hls/caltextv.m3u8
-#EXTINF:-1 tvg-name="Me2 (server 1)" tvg-logo="https://slaslal.com/api/channel_icons/me2_200.png" tvg-id="Me2" group-title="Iran",Me2 Server1
-https://test1.maniatream.com/live/t4NSlMXnKMSq9N8vFLp5wA__/master.m3u8
+
 #EXTINF:-1 tvg-name="Me2 (server 2)" tvg-logo="https://slaslal.com/api/channel_icons/me2_200.png" tvg-id="Me2" group-title="Iran",Me2 Server2
 #EXTVLCOPT:http-referrer=https://salintv.com
 https://me2hls.wns.live/hls/stream.m3u8
