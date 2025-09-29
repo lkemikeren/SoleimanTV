@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://tabestani.com/api/channel_icons/english/national_geographic_en200.png" tvg-id="Nat Geo" group-title="International",National Geographic
-#EXTVLCOPT:http-referrer=https://ivanturbinca.com/
-https://rds.live/national-geographic/
+
+https://tr.live.cdn.cgates.lt/live/dash/561901/index.mpd?decryption_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
 #EXTINF:-1 tvg-name="4Music TV" tvg-logo="https://tabestani.com/api/channel_icons/4music_tv200.png" tvg-id="4Music TV" group-title="",4Music TV
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
