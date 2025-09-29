@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://tabestani.com/api/channel_icons/english/national_geographic_en200.png" tvg-id="Nat Geo" group-title="International",National Geographic
-#EXTVLCOPT:http-referrer=https://daddylive.dad/
-#EXTVLCOPT:http-origin=https://enz.gdplayertv.to
-http://fl25.moveonjoy.com/National_Geographic/index.m3u8
+#EXTVLCOPT:http-referrer=https://ivanturbinca.com/
+https://rds.live/national-geographic/
 #EXTINF:-1 tvg-name="4Music TV" tvg-logo="https://tabestani.com/api/channel_icons/4music_tv200.png" tvg-id="4Music TV" group-title="",4Music TV
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
