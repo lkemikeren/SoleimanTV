@@ -122,9 +122,9 @@ https://ss.90minlive.online/live/IR%20-%20Gem%20River_/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://sal2000new.online
 http://tv2.tamashaland.com:80/stream/2/index.m3u8?username=fsSniyPp0k&password=rNgETMPNnm
 #EXTINF:0 tvg-id="GEM AZ" tvg-logo="https://tabestani.com/api/channel_icons/iran/gem_az.png" group-title="GEM",GEM AZ
-#EXTVLCOPT:http-origin=https://gemgroup.tv
-#EXTVLCOPT:http-referrer=https://gemgroup.tv/
-https://cdn-live.gemgroup.tv/live/az.m3u8
+#EXTVLCOPT:http-origin=https://salmal1000.com
+#EXTVLCOPT:http-referrer=https://salmal1000.com/
+https://gems1.bazarganiha.com/live/XlSHi3pK494U1AfMijKU0Q__/master.m3u8
 #EXTINF:0 tvg-id="GEM Bollywood" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_bollywood.png" group-title="GEM",GEM Bollywood
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
