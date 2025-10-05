@@ -216,9 +216,7 @@ http://95.216.228.244/live/sj9c3TcgSukQnL28otOTjA__/master.m3u8
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://ss.90minlive.online/live/IR%20-%20GEM%20TV%20Plus2/playlist.m3u8
 #EXTINF:0 tvg-id="GEM MIFA" tvg-logo="https://newsal.online/api/channel_icons/iran/gem_mifa.png" group-title="GEM",GEM MIFA
-#EXTVLCOPT:http-origin=https://www.aparatchi.com
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-https://glwizhstb52.glwiz.com/MifaMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+https://glwizhstb46.glwiz.com/MifaMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM MIFA PLUS" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_mifa_plus.png" group-title="GEM",GEM MIFA PLUS
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
