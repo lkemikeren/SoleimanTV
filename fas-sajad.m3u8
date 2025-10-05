@@ -80,6 +80,8 @@ https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="AVASeries.ir" tvg-logo="https://i.imgur.com/8AfAfZE.png" group-title="Series",AVA Series (720p)
 https://avaserieshls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="AvangTV.us" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Avang TV (720p)
+#EXTVLCOPT:http-origin=https://www.elahmad.com
+#EXTVLCOPT:http-referrer=https://www.elahmad.com
 https://raw.githubusercontent.com/gmswf/hls/main/master.m3u8
 #EXTINF:0 tvg-id="WestAzerbaijanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/250px-Urmia_TV.svg.png" group-title="General",Azerbaijan Gharbi
 https://lenz.splus.ir/PLTV/88888888/224/3221226800/index.m3u8
