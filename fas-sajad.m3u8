@@ -175,9 +175,9 @@ https://ss.90minlive.online/live/IR%20-%20GEM%20FOOD_/playlist.m3u8
 https://ss.90minlive.online/live/IR%20-%20GEM%20Junior_/playlist.m3u8
 
 #EXTINF:0 tvg-id="GEM Latino" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_latino.png" group-title="GEM",GEM Latino
-#EXTVLCOPT:http-origin=https://www.aparatchi.com
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-https://ss.90minlive.online/live/IR%20-%20GEM%20LATINO%20TV2/playlist.m3u8
+#EXTVLCOPT:http-origin=https://salmal1000.com
+#EXTVLCOPT:http-referrer=https://salmal1000.com/
+https://gems1.bazarganiha.com/live/ofGgc5ETTXjWb3TSlJqqLA__/master.m3u8
 #EXTINF:0 tvg-id="GEM Life" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_life.png" group-title="GEM",GEM Life
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
