@@ -205,11 +205,11 @@ https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
 #EXTINF:-1 tvg-id="GEM Series" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series.png" group-title="GEM",GEM Series
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-https://glwizhstb46.glwiz.com/GemSeries_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+https://glwizhstb46.glwiz.com:443/GemSeries_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:-1 tvg-id="GEM Series+" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series_plus.png" group-title="GEM",GEM Series+
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-https://glwizhstb46.glwiz.com/GemSeriesPlus_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+https://glwizhstb46.glwiz.com:443/GemSeriesPlus_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 
 https://glserver.aparatlive.online/live/IhalStgoFDEb5cp6RQTsxQ__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Sport" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_sport.png" group-title="GEM",GEM Sport
