@@ -124,7 +124,7 @@ http://tv2.tamashaland.com:80/stream/2/index.m3u8?username=fsSniyPp0k&password=r
 #EXTINF:0 tvg-id="GEM AZ" tvg-logo="https://tabestani.com/api/channel_icons/iran/gem_az.png" group-title="GEM",GEM AZ
 #EXTVLCOPT:http-origin=https://salintv.com
 #EXTVLCOPT:http-referrer=https://salintv.com/
-https://glwizhstb52.glwiz.com/GemLatino_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+https://glwizhstb44.glwiz.com/GemLatino_HD/GemLatino_High.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM Bollywood" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_bollywood.png" group-title="GEM",GEM Bollywood
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
