@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-name="iTVArabic" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVArabic" group-title="International",iTV Arabic Music
 https://glparishstb91.glwiz.com/iTVArabicMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-name="iTVTurkish" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVTurkish" group-title="International",iTV Turkish Music
-https://glwizhstb46.glwiz.com/iTVTurkishMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+https://glparishstb91.glwiz.com/iTVTurkishMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-name="iTVPersian" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVPersian" group-title="International",iTV Persian Music
 https://glwizhstb46.glwiz.com/iTVPersianMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-name="iTVLatin" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVLatin" group-title="International",iTV Latin Music
