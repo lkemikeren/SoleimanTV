@@ -1,19 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="iTVArabic" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVArabic" group-title="International",iTV Arabic Music
-#EXTVLCOPT:http-origin=https://www.glwiz.com
-#EXTVLCOPT:http-referrer=https://www.glwiz.com/
-https://glparishstb90.glwiz.com:443/iTVArabicMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
-#EXTINF:-1 tvg-name="iTVTurkish" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVTurkish" group-title="International",iTV Turkish Music
+#EXTINF:-1 tvg-name="iTVArabic" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVArabic" group-title="International",iTV Arabic Music
+https://glwizhstb46.glwiz.com:443/iTVArabicMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:-1 tvg-name="iTVTurkish" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVTurkish" group-title="International",iTV Turkish Music
 https://glwizhstb46.glwiz.com:443/iTVTurkishMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
-#EXTINF:-1 tvg-name="iTVPersian" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVPersian" group-title="International",iTV Persian Music
+#EXTINF:-1 tvg-name="iTVPersian" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVPersian" group-title="International",iTV Persian Music
 https://glwizhstb46.glwiz.com:443/iTVPersianMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
-#EXTINF:-1 tvg-name="iTVLatin" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVLatin" group-title="International",iTV Latin Music
+#EXTINF:-1 tvg-name="iTVLatin" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVLatin" group-title="International",iTV Latin Music
 https://glwizhstb46.glwiz.com:443/iTVLatinMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
-#EXTINF:-1 tvg-name="iTVUrban" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVUrban" group-title="International",iTV Urban Music
+#EXTINF:-1 tvg-name="iTVUrban" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVUrban" group-title="International",iTV Urban Music
 https://glwizhstb46.glwiz.com:443/iTVUrbanMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
-#EXTINF:-1 tvg-name="iTVIndian" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVIndian" group-title="International",iTV Indian Music
-https://GLWizHSTB49.glwiz.com:443/iTVIndianMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
-#EXTINF:-1 tvg-name="iTVAfroBeats" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVAfro" group-title="International",iTV Afro Beats Music
+#EXTINF:-1 tvg-name="iTVIndian" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVIndian" group-title="International",iTV Indian Music
+https://glwizhstb46.glwiz.com:443/iTVIndianMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:-1 tvg-name="iTVAfroBeats" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVAfro" group-title="International",iTV Afro Beats Music
 https://glwizhstb46.glwiz.com:443/iTVAfrobeats_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:-1 tvg-name="4Music TV" tvg-logo="https://tabestani.com/api/channel_icons/4music_tv200.png" tvg-id="4Music TV" group-title="",4Music TV
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
@@ -207,11 +205,11 @@ https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
 #EXTINF:-1 tvg-id="GEM Series" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series.png" group-title="GEM",GEM Series
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-https://ss.90minlive.online/live/IR%20-%20GEM%20Series_/playlist.m3u8
+https://glwizhstb46.glwiz.com/GemSeries_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:-1 tvg-id="GEM Series+" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series_plus.png" group-title="GEM",GEM Series+
 #EXTVLCOPT:http-origin=https://www.aparatchi.com
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-https://ss.90minlive.online/live/IR%20-%20GEM%20Series%20Plus2/playlist.m3u8
+https://glwizhstb46.glwiz.com/GemSeriesPlus_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 
 https://glserver.aparatlive.online/live/IhalStgoFDEb5cp6RQTsxQ__/master.m3u8
 #EXTINF:-1 tvg-id="GEM Sport" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_sport.png" group-title="GEM",GEM Sport
@@ -269,7 +267,7 @@ https://60ba7ef02e687.streamlock.net/ICNET/ngrp:my.stream_all/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://gg.hls2.xyz/live/AP%20iFilm%20Persian%202/playlist.m3u8
 #EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",iFilm Persian
-https://live.presstv.ir/hls/ifilmfa.m3u8
+https://glwizhstb46.glwiz.com:443/iFilmFarsi_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:-1 tvg-id="IlamTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/240px-Ilam_TV.png" group-title="General",Ilam
 #EXTVLCOPT:http-referrer=https://www.aionet.ir/
 https://ncdn.telewebion.com/ilam/live/playlist.m3u8
