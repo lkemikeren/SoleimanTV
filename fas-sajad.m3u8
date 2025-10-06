@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-name="iTVArabic" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVArabic" group-title="International",iTV Arabic Music
-https://glparishstb91.glwiz.com/iTVArabicMusic_HD.m3u8?user=sgls5jv35mr0rt2ib3wapyv0eqwx&session=8a025b58453846812055ac0820328d202581a8506730f08b318bd6d60f5462c11d6464ec95b96b6b6ce1227a81f9c72205d10a5882a3066a
+https://glwizhstb46.glwiz.com/iTVArabicMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-name="iTVTurkish" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVTurkish" group-title="International",iTV Turkish Music
-https://glparishstb91.glwiz.com/iTVTurkishMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+https://glwizhstb46.glwiz.com/iTVTurkishMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-name="iTVPersian" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVPersian" group-title="International",iTV Persian Music
 https://glwizhstb46.glwiz.com/iTVPersianMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-name="iTVLatin" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVLatin" group-title="International",iTV Latin Music
@@ -10,7 +10,7 @@ https://glwizhstb46.glwiz.com/iTVLatinMusic_HD.m3u8?user=sgls76551&session=f8cec
 #EXTINF:0 tvg-name="iTVUrban" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVUrban" group-title="International",iTV Urban Music
 https://glwizhstb46.glwiz.com/iTVUrbanMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-name="iTVIndian" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVIndian" group-title="International",iTV Indian Music
-https://glparishstb91.glwiz.com/iTVIndianMusic_HD.m3u8?user=sgls5jv35mr0rt2ib3wapyv0eqwx&session=8a025b58453846812055ac0820328d202581a8506730f08b318bd6d60f5462c11d6464ec95b96b6b6ce1227a81f9c72205d10a5882a3066a
+https://glwizhstb37.glwiz.com/iTVIndianMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-name="iTVAfroBeats" tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307502.png" tvg-id="iTVAfro" group-title="International",iTV Afro Beats Music
 https://glwizhstb46.glwiz.com/iTVAfrobeats_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-name="4Music TV" tvg-logo="https://tabestani.com/api/channel_icons/4music_tv200.png" tvg-id="4Music TV" group-title="",4Music TV
