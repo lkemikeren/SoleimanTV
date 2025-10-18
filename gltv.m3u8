@@ -1,0 +1,159 @@
+
+
+#EXTM3U
+#EXTINF:0 tvg-name="iTVArabic" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVArabic" group-title="International",iTV Arabic Music
+https://glwizhstb46.glwiz.com:443/iTVArabicMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0 tvg-name="iTVTurkish" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVTurkish" group-title="International",iTV Turkish Music
+https://glwizhstb46.glwiz.com:443/iTVTurkishMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0 tvg-name="iTVPersian" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVPersian" group-title="International",iTV Persian Music
+https://glwizhstb46.glwiz.com:443/iTVPersianMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0 tvg-name="iTVLatin" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVLatin" group-title="International",iTV Latin Music
+https://glwizhstb46.glwiz.com:443/iTVLatinMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0 tvg-name="iTVUrban" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVUrban" group-title="International",iTV Urban Music
+https://glwizhstb46.glwiz.com:443/iTVUrbanMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0 tvg-name="iTVIndian" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVIndian" group-title="International",iTV Indian Music
+https://glwizhstb46.glwiz.com:443/iTVIndianMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0 tvg-name="iTVAfroBeats" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVAfro" group-title="International",iTV Afro Beats Music
+https://glwizhstb46.glwiz.com:443/iTVAfrobeats_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+
+#EXTINF:0, Tapesh America
+https://glwizhstb46.glwiz.com/TapeshAmerica_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Channel One
+https://glwizhstb46.glwiz.com/ChannelOne_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, ITN
+https://glwizhstb46.glwiz.com/ITN_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Nahade Azadi
+https://glwizhstb46.glwiz.com/NahadeAzadi_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Omide Iran
+https://glwizhstb46.glwiz.com/OmidEIran_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Iran International
+https://glwizhstb46.glwiz.com/IranInternational_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, BBC Persian
+https://glwizhstb46.glwiz.com/BBCPersian_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, T2 International
+https://glwizhstb46.glwiz.com/T2International_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Pars TV
+https://glwizhstb46.glwiz.com/ParsTV_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, EuroNews Farsi
+https://glwizhstb46.glwiz.com/EuroNewsFarsi_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, VoA
+https://glwizhstb46.glwiz.com/VoA_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Radio Javan
+https://glwizhstb46.glwiz.com/RJTV_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Tasvire Iran
+https://glwizhstb46.glwiz.com/TasvirEIran_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Irane Farda
+https://glwizhstb46.glwiz.com/IraneFarda_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, ITC
+https://glwizhstb46.glwiz.com/ITC_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, TM TV
+https://glwizhstb46.glwiz.com/TMTV_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, MBC Persia
+https://glwizhstb46.glwiz.com/MBCPersia_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Ekran Kids
+https://glwizhstb46.glwiz.com/EkranKids_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Radio Farda TV
+https://glwizhstb46.glwiz.com/RadioFardaTV_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, PTV 1
+https://glwizhstb46.glwiz.com/PTV1_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Irane Aryaee
+https://glwizhstb46.glwiz.com/IranEAryaee_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Ayeneh TV
+https://glwizhstb46.glwiz.com/AyenehTV_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Afghanistan International
+https://glwizhstb46.glwiz.com/AfghanistanInternational_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Your Time TV
+https://glwizhstb46.glwiz.com/YourTimeTV_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Ekran Movies
+https://glwizhstb46.glwiz.com/EkranMovies_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, T2 America
+https://glwizhstb46.glwiz.com/T2America_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Mihan TV
+https://glwizhstb46.glwiz.com/MihanTV_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Asre Emrooz
+https://glwizhstb46.glwiz.com/AsreEmrooz_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, AFN
+https://glwizhstb46.glwiz.com/AFN_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Tapesh
+https://glwizhstb46.glwiz.com/TAPESH_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, ITN Europe
+https://glwizhstb46.glwiz.com/ITNEurope_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Royal Time TV
+https://glwizhstb46.glwiz.com/RoyalTimeTV_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Today
+https://glwizhstb46.glwiz.com/Today_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, GEM Food
+https://glwizhstb46.glwiz.com/GemFood_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, GEM Academy
+https://glwizhstb46.glwiz.com/GEMAcademy_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Film1
+https://glwizhstb46.glwiz.com/Film1_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Classic TV
+https://glwizhstb46.glwiz.com/ClassicTV_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Mohabat
+https://glwizhstb46.glwiz.com/Mohabat_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Khane honarmandan
+https://glwizhstb46.glwiz.com/Khanehonarmandan_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Persiana Family
+https://glwizhstb46.glwiz.com/PersianaFamily_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Persiana Cinema
+https://glwizhstb46.glwiz.com/PersianaCinema_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Persiana Comedy
+https://glwizhstb46.glwiz.com/PersianaComedy_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, GEM Documentary
+https://glwizhstb46.glwiz.com/GemDocumentary_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, GEM Comedy
+https://glwizhstb46.glwiz.com/GemComedy_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Payvand
+https://glwizhstb46.glwiz.com/Payvand_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, AZ Star TV
+https://glwizhstb46.glwiz.com/AzStarTV_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Salaam
+https://glwizhstb46.glwiz.com/SalaamTV_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Persiana Korea
+https://glwizhstb46.glwiz.com/PersianaKorea_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Persiana Iranian
+https://glwizhstb46.glwiz.com/PersianaIranian_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+
+
+#EXTINF:0, Hambastegi
+https://glwizhstb46.glwiz.com/Hambastegi_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, AVA Family
+https://glwizhstb46.glwiz.com/AVAFamily_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Pro Sport
+https://glwizhstb46.glwiz.com/ProSport_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, AVA Series
+https://glwizhstb46.glwiz.com/AVASeries_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, 4Turk
+https://glwizhstb46.glwiz.com/4Turk_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Payame Javan
+https://glwizhstb46.glwiz.com/PJTV_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, FX22
+https://glwizhstb46.glwiz.com/FX22_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, MTC
+https://glwizhstb46.glwiz.com/MTC_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, ICnet 2
+https://glwizhstb46.glwiz.com/ICnet2_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, ICnet 1
+https://glwizhstb46.glwiz.com/ICnet_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Navahang
+https://glwizhstb46.glwiz.com/Navahang_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Shabake 7
+https://glwizhstb46.glwiz.com/Shabakeh7_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Persiana Documentary
+https://glwizhstb46.glwiz.com/PersianaDocs_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Persiana Sport
+https://glwizhstb46.glwiz.com/PersianaSport_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Eshare TV
+https://glwizhstb46.glwiz.com/EshareTV_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Persiana Reality
+https://glwizhstb46.glwiz.com/PersianaReality_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Didgah
+https://glwizhstb46.glwiz.com/Didgah_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Farhange IranZamin
+https://glwizhstb46.glwiz.com/FarhangeIranZamin_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Rahe Nejat
+https://glwizhstb46.glwiz.com/RaheNejat_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+#EXTINF:0, Aein Jadeed
+https://glwizhstb46.glwiz.com/AeinJadeed_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
+
