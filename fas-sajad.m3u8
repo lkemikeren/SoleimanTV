@@ -107,48 +107,46 @@ https://ss.90minlive.online/live/IR%20-%20GEM%20TV_/playlist.m3u8
 #EXTINF:0 tvg-id="GEM River" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_academy.png" group-title="GEM",GEM River
 https://ss.90minlive.online/live/IR%20-%20Gem%20River_/playlist.m3u8
 #EXTINF:0 tvg-id="GEM Arabia" user-agent="salltv1020" referer="http://sal2000new.online" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_arabic.png" group-title="GEM",GEM Arabia
-
 http://tv2.tamashaland.com:80/stream/2/index.m3u8?username=fsSniyPp0k&password=rNgETMPNnm
 #EXTINF:0 tvg-id="GEM AZ" origin="https://namakade.com" referer="https://namakade.com/" tvg-logo="https://tabestani.com/api/channel_icons/iran/gem_az.png" group-title="GEM",GEM AZ
 https://glwizhstb46.glwiz.com:443/GemLatino_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM Bollywood" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_bollywood.png" group-title="GEM",GEM Bollywood
-https://ss.90minlive.online/live/IR%20-%20GEM%20Bollywood_/playlist.m3u8
+https://glwizhstb46.glwiz.com/GEMBollywood_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM Classic" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_classic.png" group-title="GEM",GEM Classic
-https://ss.90minlive.online/live/IR%20-%20GEM%20CLASSIC_/playlist.m3u8
+https://glwizhstb46.glwiz.com/GemClassic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM Comedy" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_comedy.png" group-title="GEM",GEM Comedy
 https://ss.90minlive.online/live/IR%20-%20GEM%20Comedy2/playlist.m3u8
 #EXTINF:0 tvg-id="GEM Rubix" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_documentary.png" group-title="GEM",GEM Rubix
-https://ss.90minlive.online/live/IR%20-%20GEM%20Rubix_/playlist.m3u8
+https://glwizhstb46.glwiz.com/RUBIX_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM Rubix+" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_documentary.png" group-title="GEM",GEM Rubix+
 
 https://ss.90minlive.online/live/IR%20-%20GEM%20Rubix%20Plus2/playlist.m3u8
 #EXTINF:0 tvg-id="GEM Drama" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_drama.png" group-title="GEM",GEM Drama
 
-https://ss.90minlive.online/live/IR%20-%20GEM%20Drama_/playlist.m3u8
+https://glwizhstb46.glwiz.com/GEMDrama_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM Drama+" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_drama_plus.png" group-title="GEM",GEM Drama+
 
-https://ss.90minlive.online/live/IR%20-%20GEM%20Drama%20Plus2/playlist.m3u8
+https://glwizhstb46.glwiz.com/GEMDramaPlus_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM Entertainment" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_film.png" group-title="GEM",GEM Entertainment
 https://ss.90minlive.online/live/IR%20-%20GEM%20Entertainment_/playlist.m3u8
 #EXTINF:0 tvg-id="GEM Film" origin="https://namakade.com" referer="https://namakade.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_film.png" group-title="GEM",GEM Film
 https://glwizhstb46.glwiz.com:443/GemFilm_HD.m3u8?user=sgls76551&session=8f67bc19247df62afd46627375d782cd7b36ff73fff25f134d882504c0a82d8f759da44f728a1efa&group_id=76551
 #EXTINF:0 tvg-id="GEM Fit" origin="https://salintv.com" referer="https://salintv.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_fit.png" group-title="GEM",GEM Fit
-https://glserver1.tamashaland.com/live/S30676V75germ_SrBec2qA__/master.m3u8
+https://glwizhstb46.glwiz.com/GEMFit_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM Food" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_food.png" group-title="GEM",GEM Food
 https://ss.90minlive.online/live/IR%20-%20GEM%20FOOD_/playlist.m3u8
 #EXTINF:0 tvg-id="GEM Junior" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_junior.png" group-title="GEM",GEM Junior
 
-https://ss.90minlive.online/live/IR%20-%20GEM%20Junior_/playlist.m3u8
+https://glwizhstb46.glwiz.com/GemJunior_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM Latino" origin="https://salintv.com" referer="https://salintv.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_latino.png" group-title="GEM",GEM Latino
 
 https://glnew.tabestani.com/live/XQHte2g6t0l23hHT9Yx1ag__/master.m3u8
 #EXTINF:0 tvg-id="GEM Life" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_life.png" group-title="GEM",GEM Life
 https://ss.90minlive.online/live/IR%20-%20GEM%20Life_/playlist.m3u8
 #EXTINF:0 tvg-id="GEM Nature" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_nature.png" group-title="GEM",GEM Nature
-https://ss.90minlive.online/live/IR%20-%20Gem%20Nature_/playlist.m3u8
+https://glwizhstb46.glwiz.com/GemNature_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM Pixel" origin="https://salintv.com" referer="https://salintv.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_pixel.png" group-title="GEM",GEM Pixel
-
-https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
+https://glwizhstb46.glwiz.com/GEMPixel_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM Series" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series.png" group-title="GEM",GEM Series
 https://glwizhstb46.glwiz.com:443/GemSeries_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM Series+" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series_plus.png" group-title="GEM",GEM Series+
@@ -157,15 +155,13 @@ https://glwizhstb46.glwiz.com:443/GemSeriesPlus_HD.m3u8?user=sgls76551&session=f
 
 https://glserver.aparatlive.online/live/IhalStgoFDEb5cp6RQTsxQ__/master.m3u8
 #EXTINF:0 tvg-id="GEM Sport" origin="https://salintv.com" referer="https://salintv.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_sport.png" group-title="GEM",GEM Sport
-
-https://tv2.tamashaland.com/live/rY69Vcnc_Hv5uAepnrwI9w__/master.m3u8
+https://glwizhstb46.glwiz.com/GemSport_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM Travel" origin="https://salintv.com" referer="https://salintv.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_travel.png" group-title="GEM",GEM Travel
 
 http://95.216.228.244/live/sj9c3TcgSukQnL28otOTjA__/master.m3u8
 
 #EXTINF:0 tvg-id="GEM TV+" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_tv_plus.png" group-title="GEM",GEM TV+
-
-https://ss.90minlive.online/live/IR%20-%20GEM%20TV%20Plus2/playlist.m3u8
+https://glwizhstb46.glwiz.com/GEMTVPlus_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM MIFA" tvg-logo="https://newsal.online/api/channel_icons/iran/gem_mifa.png" group-title="GEM",GEM MIFA
 https://glwizhstb46.glwiz.com:443/MifaMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM MIFA PLUS" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_mifa_plus.png" group-title="GEM",GEM MIFA PLUS
@@ -179,8 +175,7 @@ https://ss.90minlive.online/live/IR%20-%20Gem%20River%20Plus2/playlist.m3u8
 
 https://ss.90minlive.online/live/IR%20-%20GEM%20Kids_/playlist.m3u8
 #EXTINF:0 tvg-id="GEM Onyx" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series_plus.png" group-title="GEM",GEM Onyx
-
-https://ss.90minlive.online/live/IR%20-%20Gem%20Onyx2/playlist.m3u8
+https://glwizhstb46.glwiz.com/ONYX_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 
 
 
