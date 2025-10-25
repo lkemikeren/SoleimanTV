@@ -16,7 +16,7 @@ https://glwizhstb46.glwiz.com:443/iTVIndianMusic_HD.m3u8?user=sgls76551&session=
 #EXTINF:0 tvg-name="iTVAfroBeats" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVAfro" group-title="International",iTV Afro Beats Music
 https://glwizhstb46.glwiz.com:443/iTVAfrobeats_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-name="4Music TV" referer="https://www.aparatchi.com/" origin="https://www.aparatchi.com" tvg-logo="https://tabestani.com/api/channel_icons/4music_tv200.png" tvg-id="4Music TV" group-title="",4Music TV
-https://gg.hls2.xyz/live/AP%20Persiana%204Music/playlist.m3u8
+https://glwizhstb46.glwiz.com/4Music_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-name="4TurkHD" origin="https://salintv.com" referer="https://salintv.com/" tvg-logo="https://tabestani.com/api/channel_icons/4turk_200.png" tvg-id="4TurkHD" group-title="Iran",4TurkHD
 https://glserver1.tamashaland.com/live/bEnku6tBmkZMzKQylbUTxA__/master.m3u8
 #EXTINF:0 tvg-name="Manoto" origin="https://www.persianleague.com" referer="https://www.persianleague.com/" tvg-logo="https://maniatream.com/icons/channel_icons/manoto200.png" tvg-id="Manoto" group-title="Iran",Manoto TV
@@ -120,7 +120,7 @@ https://glwizhstb46.glwiz.com/GemComedy_HD.m3u8?user=sgls76551&session=f8cec291a
 https://glwizhstb46.glwiz.com/RUBIX_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM Rubix+" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_documentary.png" group-title="GEM",GEM Rubix+
 
-https://ss.90minlive.online/live/IR%20-%20GEM%20Rubix%20Plus2/playlist.m3u8
+https://glwizhstb46.glwiz.com/RubixPlus_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM Drama" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_drama.png" group-title="GEM",GEM Drama
 
 https://glwizhstb46.glwiz.com/GEMDrama_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
@@ -360,7 +360,7 @@ https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="PersianaTwo.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-two-fr.png" group-title="General",Persiana Two (720p)
 https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="PMC" referer="https://www.aparatchi.com/" origin="https://www.aparatchi.com" tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Music",PMC (1080p)
-https://gg.hls2.xyz/live/IR%20-%20PMC/playlist.m3u8
+https://glwizhstb46.glwiz.com/PMCMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="PMCRoyale.ae" tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Music",PMC Royale (720p) [Not 24/7]
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="PokerTV.fr" tvg-logo="https://i.imgur.com/tArvcvj.png" group-title="Sports",Poker TV (720p)
