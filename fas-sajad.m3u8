@@ -23,7 +23,7 @@ https://gg.hls2.xyz/live/AP%20Persiana%204Music/playlist.m3u8
 #EXTVLCOPT:http-origin=https://salintv.com
 #EXTVLCOPT:http-referrer=https://salintv.com/
 https://glserver1.tamashaland.com/live/bEnku6tBmkZMzKQylbUTxA__/master.m3u8
-#EXTINF:0 tvg-name="Manoto" origin="https://www.aparatchi.com" tvg-logo="https://maniatream.com/icons/channel_icons/manoto200.png" tvg-id="Manoto" group-title="Iran",Manoto TV
+#EXTINF:0 tvg-name="Manoto" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://maniatream.com/icons/channel_icons/manoto200.png" tvg-id="Manoto" group-title="Iran",Manoto TV
 
 https://gg.hls2.xyz/live/manoto/playlist.m3u8
 #EXTINF:0 tvg-name="Al Jazeera" tvg-logo="https://newsal.online/api/channel_icons/aljazire200_arabi.png" tvg-id="Al Jazeera" group-title="News",Al Jazeera
