@@ -108,7 +108,7 @@ https://ss.90minlive.online/live/IR%20-%20GEM%20TV_/playlist.m3u8
 https://ss.90minlive.online/live/IR%20-%20Gem%20River_/playlist.m3u8
 #EXTINF:0 tvg-id="GEM Arabia" user-agent="salltv1020" referer="http://sal2000new.online" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_arabic.png" group-title="GEM",GEM Arabia
 http://tv2.tamashaland.com:80/stream/2/index.m3u8?username=fsSniyPp0k&password=rNgETMPNnm
-#EXTINF:0 tvg-id="GEM AZ" origin="https://namakade.com" referer="https://namakade.com/" tvg-logo="https://tabestani.com/api/channel_icons/iran/gem_az.png" group-title="GEM",GEM AZ 2
+#EXTINF:0 tvg-id="GEM AZ" origin="not" tvg-logo="https://tabestani.com/api/channel_icons/iran/gem_az.png" group-title="GEM",GEM AZ 2
 https://live-stream-channels-cdn.site/live/az.m3u8
 #EXTINF:0 tvg-id="GEM AZ" origin="https://namakade.com" referer="https://namakade.com/" tvg-logo="https://tabestani.com/api/channel_icons/iran/gem_az.png" group-title="GEM",GEM AZ
 https://glwizhstb46.glwiz.com:443/GemLatino_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
