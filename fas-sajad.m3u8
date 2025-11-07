@@ -43,9 +43,11 @@ https://t2hls.wns.live/hls/stream.m3u8
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="AbadanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png" group-title="General",Abadan
 https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8
-#EXTINF:0 tvg-id="AbalfadhlTV.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV (720p)
+#EXTINF:0 tvg-id="AbalfadhlTV.ir" origin="https://t.northtelecom.org" referrer="https://t.northtelecom.org/" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV (720p)
 https://t.northtelecom.org/ABALFADHLTV.m3u8
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" referer="https://t.northtelecom.org/" origin="https://t.northtelecom.org" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV (720p)
+#EXTVLCOPT:http-origin=https://t.northtelecom.org
+#EXTVLCOPT:http-referrer=https://t.northtelecom.org
 https://cdn.northtelecom.org/ABALFADHLTV.m3u8
 #EXTINF:0 tvg-id="AflakTV.ir" tvg-logo="https://i.imgur.com/LkLCHpf.png" group-title="General",Aflak
 https://lenz.splus.ir/PLTV/88888888/224/3221226675/index.m3u8
@@ -165,8 +167,8 @@ https://glwizhstb46.glwiz.com/GEMTVPlus_HD.m3u8?user=sgls76551&session=f8cec291a
 #EXTINF:0 tvg-id="GEM MIFA" tvg-logo="https://newsal.online/api/channel_icons/iran/gem_mifa.png" group-title="GEM",GEM MIFA
 https://glwizhstb46.glwiz.com:443/MifaMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM MIFA PLUS" origin="https://salmal1000.com" referer="https://salmal1000.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_mifa_plus.png" group-title="GEM",GEM MIFA PLUS
-
-
+#EXTVLCOPT:http-origin=https://salmal1000.com
+#EXTVLCOPT:http-referrer=https://salmal1000.com/
 https://serversecond.bazarganiha.com/live/MWr7yA489GGvBprtaMzGlQ__/master.m3u8
 #EXTINF:0 tvg-id="GEM River+" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series_plus.png" group-title="GEM",GEM River+
 
