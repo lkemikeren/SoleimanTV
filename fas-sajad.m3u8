@@ -164,10 +164,8 @@ http://95.216.228.244/live/sj9c3TcgSukQnL28otOTjA__/master.m3u8
 https://glwizhstb46.glwiz.com/GEMTVPlus_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM MIFA" tvg-logo="https://tabestani.com/api/channel_icons/iran/gem_mifa.png" group-title="GEM",GEM MIFA
 https://glwizhstb46.glwiz.com:443/MifaMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
-#EXTINF:0 tvg-id="GEM MIFA PLUS" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_mifa_plus.png" group-title="GEM",GEM MIFA PLUS
-#EXTVLCOPT:http-origin=https://salmal1000.com
-#EXTVLCOPT:http-referrer=https://salmal1000.com/
-https://serversecond.bazarganiha.com/live/MWr7yA489GGvBprtaMzGlQ__/master.m3u8
+#EXTINF:0 tvg-id="GEM MIFA PLUS" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_mifa_plus.png" group-title="GEM",GEM MIFA PLUS
+https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa%20Plus2/playlist.m3u8
 #EXTINF:0 tvg-id="GEM River+" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_series_plus.png" group-title="GEM",GEM River+
 
 https://ss.90minlive.online/live/IR%20-%20Gem%20River%20Plus2/playlist.m3u8
