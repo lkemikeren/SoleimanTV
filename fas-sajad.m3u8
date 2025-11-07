@@ -45,9 +45,9 @@ https://hls.4utv.live/hls/stream.m3u8
 https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8
 #EXTINF:0 tvg-id="AbalfadhlTV.ir" origin="https://t.northtelecom.org" referrer="https://t.northtelecom.org/" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV (720p)
 https://t.northtelecom.org/ABALFADHLTV.m3u8
-#EXTINF:0 tvg-id="AbalfadhlTV2.ir" referer="https://t.northtelecom.org/" origin="https://t.northtelecom.org" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV (720p)
+#EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV (720p)
 #EXTVLCOPT:http-origin=https://t.northtelecom.org
-#EXTVLCOPT:http-referrer=https://t.northtelecom.org
+#EXTVLCOPT:http-referrer=https://t.northtelecom.org/
 https://cdn.northtelecom.org/ABALFADHLTV.m3u8
 #EXTINF:0 tvg-id="AflakTV.ir" tvg-logo="https://i.imgur.com/LkLCHpf.png" group-title="General",Aflak
 https://lenz.splus.ir/PLTV/88888888/224/3221226675/index.m3u8
@@ -164,7 +164,7 @@ http://95.216.228.244/live/sj9c3TcgSukQnL28otOTjA__/master.m3u8
 
 #EXTINF:0 tvg-id="GEM TV+" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_tv_plus.png" group-title="GEM",GEM TV+
 https://glwizhstb46.glwiz.com/GEMTVPlus_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
-#EXTINF:0 tvg-id="GEM MIFA" tvg-logo="https://newsal.online/api/channel_icons/iran/gem_mifa.png" group-title="GEM",GEM MIFA
+#EXTINF:0 tvg-id="GEM MIFA" tvg-logo="https://tabestani.com/api/channel_icons/iran/gem_mifa.png" group-title="GEM",GEM MIFA
 https://glwizhstb46.glwiz.com:443/MifaMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM MIFA PLUS" origin="https://salmal1000.com" referer="https://salmal1000.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_mifa_plus.png" group-title="GEM",GEM MIFA PLUS
 #EXTVLCOPT:http-origin=https://salmal1000.com
@@ -220,9 +220,9 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:0 tvg-id="IRINN2.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",IRIB2
 
 https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png" group-title="Sports",IRIB1 GLWIZ
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png" group-title="Sports",IRIB1 GLWIZ
 https://glwizhstb46.glwiz.com/IRIBChannel1_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png" group-title="Sports",IRIB2 GLWIZ
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png" group-title="Sports",IRIB2 GLWIZ
 
 https://glwizhstb46.glwiz.com/IRIBChannel2_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png" group-title="Sports",IRIB3 GLWIZ
