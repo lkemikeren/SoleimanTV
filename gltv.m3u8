@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 1 (720p)
-https://northtelecom.live/ABALFADHLTV.m3u8|Referer=https://t.northtelecom.org/|Origin=https://t.northtelecom.org
+https://northtelecom.live/ABALFADHLTV.mp4|Referer=https://t.northtelecom.org/|Origin=https://t.northtelecom.org
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" refeer="https://www.aparat.com/" origin="https://www.aparat.com" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 2 (720p)
-https://live.cdn.asset.aparat.com/d103dd63fcb9cb93f2871aa3c2fbacae/livehls/Abalfadhlalabbastv_nmq800v.m3u8?s=DaDDYeVGZEE1ow6mIXqWGw&e=1772245284&ip=85.24.39.87|Referer=https://www.aparat.com/|Origin=https://www.aparat.com
+https://rr2---sn-5hne6nzs.googlevideo.com/videoplayback?expire=1772246511&ei=jwGiaZPVAd-Ei9oPsr-24AY&ip=85.24.39.87&id=1TG09GchuG0.1&source=yt_live_broadcast&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&rms=lva%2Clva&siu=1&spc=6dlaFHacjOgoEY3AUBgbB92-MaKROWQ_QEehSQatuy9IjvHsbLYD&live=1&hang=1&noclen=1&svpuc=1&ns=3tLuD3MS3vevjNAamWOqheoS&sabr=1&rqh=1&reg=0&keepalive=yes&fexp=51552689%2C51565116%2C51565682%2C51580968%2C51791333&c=WEB&n=svAN2cQDmt4Ouw&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Csiu%2Cspc%2Clive%2Chang%2Cnoclen%2Csvpuc%2Cns%2Csabr%2Crqh%2Creg&sig=AJEij0EwRQIhAIPsU6TCPdDcIwUurkUaIqlJbcV1TYWqD3kLL5IZrRQUAiBY_Jo0YoG3ZJEi7IUtbN6f90KIVy3ugmfsU_Uq3Z_PYQ%3D%3D&cpn=y-IR6pvDA0po0V0z&cver=2.20260227.01.00&redirect_counter=1&cms_redirect=yes&cmsv=e&met=1772224915,&mh=tQ&mm=29&mn=sn-5hne6nzs&ms=rdu&mt=1772224395&mv=m&mvi=2&pl=18&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRAIgFMcapAZxRkOwuusEEMJMbI4YjGzMe9_cT7TLUs5qdsUCIAWEOVO2nyUJEePZtIlZ_dB_-W5BzIRCe1kotjeSqmVw&rn=7&alr=yes|Referer=https://www.youtube.com/|Origin=https://www.youtube.com
 #EXTINF:0 tvg-logo="https://static.cdn.asset.aparat.cloud/profile-photo/5800921-249942-s.jpg" group-title="Religious",Fatemeh Al Zahra (720p)
 https://live.cdn.asset.aparat.com/cefcb71c2217bb7286e65dd9c281851d/livehls/Allzahra.com_manda5n_720p/index.m3u8?s=iSxi_qp6gaYSACkcWG7X3w&e=1771483056
 
