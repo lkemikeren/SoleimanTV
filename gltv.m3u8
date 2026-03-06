@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",00 IRIB 1
+https://25gig.vitarani.com/live/R4b7BrJBdGc7NJ3jA_E0iA__/master.m3u8|Referer=https://salmal1000.com/|Origin=https://salmal1000.com
 
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 1 (720p)
 https://northtelecom.live/ABALFADHLTV.m3u8|Referer=https://t.northtelecom.org/|Origin=https://t.northtelecom.org
