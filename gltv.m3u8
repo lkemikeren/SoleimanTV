@@ -5,7 +5,7 @@ https://gg.hls2.xyz/live/irib-tv1/playlist.m3u8|Referer=https://www.aparatchi.co
 https://gg.hls2.xyz/live/irib-tv2/playlist.m3u8|Referer=https://www.aparatchi.com/|Origin=https://www.aparatchi.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV3.svg/289px-IRIBTV3.svg.png",00 IRIB 3
 https://gg.hls2.xyz/live/irib-tv3/playlist.m3u8|Referer=https://www.aparatchi.com/|Origin=https://www.aparatchi.com
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV3.svg/289px-IRIBTV3.svg.png",00 IRIB Khabar
+#EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",00 IRIB Khabar
 https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8|Referer=https://www.aparatchi.com/|Origin=https://www.aparatchi.com
 
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 1 (720p)
