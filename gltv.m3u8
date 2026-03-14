@@ -11,7 +11,7 @@ https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8|Referer=https://www.aparatchi
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",01 IRIB Khabar
 https://ca-rt.onetv.app/khabar/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|Origin=https://webapp.onetv.app
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 1 (720p)
-https://northtelecom.b-cdn.net/ABALFADHL.m3u8|Referer=https://t.northtelecom.org/|Origin=https://t.northtelecom.org
+https://northtelecom.b-cdn.net/ABALFADHL.m3u8
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" refeer="https://www.aparat.com/" origin="https://www.aparat.com" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 2 (720p)
 https://live.cdn.asset.aparat.com/d103dd63fcb9cb93f2871aa3c2fbacae/livehls/Abalfadhlalabbastv_nmq800v_360p/index.m3u8?s=cSb1GHQBCcDDSb_ctup8_w&e=1772247279&ip=85.24.39.87|Referer=https://www.aparat.com/|Origin=https://www.aparat.com
 #EXTINF:0 tvg-logo="https://static.cdn.asset.aparat.cloud/profile-photo/5800921-249942-s.jpg" group-title="Religious",Fatemeh Al Zahra (720p)
