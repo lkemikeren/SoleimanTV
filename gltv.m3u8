@@ -11,7 +11,7 @@ https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8|Referer=https://www.aparatchi
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",01 IRIB Khabar
 https://ca-rt.onetv.app/khabar/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|Origin=https://webapp.onetv.app
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",02 IRIB Khabar
-https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8|Referer=https://telewebion.ir/|Origin=https://telewebion.ir
+https://ncdn.telewebion.ir/irinn/live/playlist.m3u8|Referer=https://telewebion.ir/|Origin=https://telewebion.ir
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",02 IRIB 1
 https://ncdn.telewebion.ir/tv1/live/playlist.m3u8|Referer=https://telewebion.ir/|Origin=https://telewebion.ir
