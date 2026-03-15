@@ -9,7 +9,15 @@ https://gg.hls2.xyz/live/irib-tv3/playlist.m3u8|Referer=https://www.aparatchi.co
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",00 IRIB Khabar
 https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8|Referer=https://www.aparatchi.com/|Origin=https://www.aparatchi.com
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",01 IRIB Khabar
+
 https://ca-rt.onetv.app/khabar/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|Origin=https://webapp.onetv.app
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",01 IRIB 1
+https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",01 IRIB 2
+https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV3.svg/289px-IRIBTV3.svg.png",00 IRIB 3
+https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
+
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 1 (720p)
 https://northtelecom.b-cdn.net/ABALFADHL.m3u8
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" refeer="https://www.aparat.com/" origin="https://www.aparat.com" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 2 (720p)
