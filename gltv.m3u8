@@ -2,7 +2,7 @@
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",00 IRIB 1
 https://gg.hls2.xyz/live/irib-tv1/playlist.m3u8|Referer=https://www.aparatchi.com/|Origin=https://www.aparatchi.com
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV2.svg/289px-IRIBTV2.svg.png",00 IRIB 2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",00 IRIB 2
 https://gg.hls2.xyz/live/irib-tv2/playlist.m3u8|Referer=https://www.aparatchi.com/|Origin=https://www.aparatchi.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV3.svg/289px-IRIBTV3.svg.png",00 IRIB 3
 https://gg.hls2.xyz/live/irib-tv3/playlist.m3u8|Referer=https://www.aparatchi.com/|Origin=https://www.aparatchi.com
@@ -13,14 +13,14 @@ https://ca-rt.onetv.app/khabar/index-0.m3u8?token=onetv202|Referer=https://webap
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 1 (720p)
 https://northtelecom.b-cdn.net/ABALFADHL.m3u8
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" refeer="https://www.aparat.com/" origin="https://www.aparat.com" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 2 (720p)
-https://live.cdn.asset.aparat.com/d103dd63fcb9cb93f2871aa3c2fbacae/livehls/Abalfadhlalabbastv_nmq800v_360p/index.m3u8?s=cSb1GHQBCcDDSb_ctup8_w&e=1772247279&ip=85.24.39.87|Referer=https://www.aparat.com/|Origin=https://www.aparat.com
+https://live.cdn.asset.aparat.com/d103dd63fcb9cb93f2871aa3c2fbacae/livehls/Abalfadhlalabbastv_nmq800v_720p/index.m3u8?s=cSb1GHQBCcDDSb_ctup8_w&e=1772247279|Referer=https://www.aparat.com/|Origin=https://www.aparat.com
 #EXTINF:0 tvg-logo="https://static.cdn.asset.aparat.cloud/profile-photo/5800921-249942-s.jpg" group-title="Religious",Fatemeh Al Zahra (720p)
-https://live.cdn.asset.aparat.com/bdba27742fa7a629687f401f648111bc/livehls/Allzahra.com_qynd2m0_720p/index.m3u8?s=A2FCF3YquQkdOLPTIpwAww&e=1772247067&ip=85.24.39.87|Referer=https://www.aparat.com/|Origin=https://www.aparat.com
+https://live.cdn.asset.aparat.com/bdba27742fa7a629687f401f648111bc/livehls/Allzahra.com_qynd2m0_720p/index.m3u8?s=A2FCF3YquQkdOLPTIpwAww&e=1772247067|Referer=https://www.aparat.com/|Origin=https://www.aparat.com
 
 #EXTINF:0 tvg-logo="https://tv.sarcheshmeh.us/thumb.php?w=560&h=315&src=https://tv.sarcheshmeh.us/index_files/channels/rasoulallahtv.png",00 Rasulallah TV
 https://avr.host247.net/live/rasoulallahtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",01 IRIB iFilm Farsi
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",01 IRIB iFilm Farsi
 https://live.presstv.ir/hls/ifilmfa_4_482/index.m3u8
 #EXTINF:0 tvg-name="iTVArabic" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVArabic" group-title="International",iTV Arabic Music
 https://glwizhstb46.glwiz.com/iTVArabicMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
