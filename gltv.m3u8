@@ -24,8 +24,8 @@ https://spf-cors-aparat-0beh3m41.cfcross.workers.dev/?url=https://gg.hls2.xyz/li
 
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 1 (720p)
 https://northtelecom.b-cdn.net/ABALFADHL.m3u8
-#EXTINF:0 tvg-id="AbalfadhlTV2.ir" refeer="https://www.aparat.com/" origin="https://www.aparat.com" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 2 (720p)
-https://live.cdn.asset.aparat.com/d103dd63fcb9cb93f2871aa3c2fbacae/livehls/Abalfadhlalabbastv_nmq800v_720p/index.m3u8?s=cSb1GHQBCcDDSb_ctup8_w&e=1772247279|Referer=https://www.aparat.com/|Origin=https://www.aparat.com
+#EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 2 (720p)
+https://live.cdn.asset.aparat.com/d103dd63fcb9cb93f2871aa3c2fbacae/livehls/Abalfadhlalabbastv_nmq800v_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://static.cdn.asset.aparat.cloud/profile-photo/5800921-249942-s.jpg" group-title="Religious",Fatemeh Al Zahra (720p)
 https://live.cdn.asset.aparat.com/bdba27742fa7a629687f401f648111bc/livehls/Allzahra.com_qynd2m0_720p/index.m3u8?s=A2FCF3YquQkdOLPTIpwAww&e=1772247067|Referer=https://www.aparat.com/|Origin=https://www.aparat.com
 
@@ -300,11 +300,11 @@ https://glwizhstb46.glwiz.com/RUBIX_HD.m3u8?user=sgls76551&session=f8cec291ace87
 #EXTINF:0, GEM Drama
 https://glwizhstb46.glwiz.com/GEMDrama_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 
-#EXTINF:0 tvg-id="GEM Nature" origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_nature.png" group-title="GEM",GEM Nature
+#EXTINF:0 tvg-id="GEM Nature" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_nature.png" group-title="GEM",GEM Nature
 https://glwizhstb46.glwiz.com/GemNature_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
 #EXTINF:0 tvg-id="GEM MIFA" tvg-logo="https://tabestani.com/api/channel_icons/iran/gem_mifa.png" group-title="GEM",GEM MIFA
 https://glwizhstb46.glwiz.com:443/MifaMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
-#EXTINF:0 tvg-id="GEM MIFA PLUS" origin="https://webapp.onetv.app" referer="https://webapp.onetv.app/" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_mifa_plus.png" group-title="GEM",GEM MIFA PLUS
+#EXTINF:0 tvg-id="GEM MIFA PLUS" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_mifa_plus.png" group-title="GEM",GEM MIFA PLUS
 https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
 
 #EXTINF:0, GEM ONYX
