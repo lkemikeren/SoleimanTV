@@ -1,12 +1,20 @@
 #EXTM3U
 
 #EXTINF:0 origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",01 IRIB 1
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-origin=https://www.aparatchi.com
 https://gg.hls2.xyz/live/tv1/playlist.m3u8
 #EXTINF:0 origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",01 IRIB 2
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-origin=https://www.aparatchi.com
 https://gg.hls2.xyz/live/tv2/playlist.m3u8
 #EXTINF:0 origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",01 IRIB 3
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-origin=https://www.aparatchi.com
 https://gg.hls2.xyz/live/tv3/playlist.m3u8
 #EXTINF:0 origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://i.imgur.com/8tzsC9h.png",01 IRIB Khabar
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-origin=https://www.aparatchi.com
 https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8
 #EXTINF:0 origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://i.imgur.com/8tzsC9h.png",02 IRIB Khabar backup
 https://ca-rt.onetv.app/khabar/index-0.m3u8?token=onetv202
