@@ -33,10 +33,10 @@ https://live.cdn.asset.aparat.com/d103dd63fcb9cb93f2871aa3c2fbacae/livehls/Abalf
 #EXTINF:0 tvg-logo="https://static.cdn.asset.aparat.cloud/profile-photo/5800921-249942-s.jpg" group-title="Religious",Fatemeh Al Zahra (720p)
 https://live.cdn.asset.aparat.com/bdba27742fa7a629687f401f648111bc/livehls/Allzahra.com_qynd2m0_720p/index.m3u8?s=A2FCF3YquQkdOLPTIpwAww&e=1772247067|Referer=https://www.aparat.com/|Origin=https://www.aparat.com
 
-#EXTINF:0 tvg-logo="https://tv.sarcheshmeh.us/thumb.php?w=560&h=315&src=https://tv.sarcheshmeh.us/index_files/channels/rasoulallahtv.png",00 Rasulallah TV
+#EXTINF:0 tvg-logo="https://tv.sarcheshmeh.us/thumb.php?w=560&h=315&src=https://tv.sarcheshmeh.us/index_files/channels/rasoulallahtv.png",Rasulallah TV
 https://avr.host247.net/live/rasoulallahtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",01 IRIB iFilm Farsi
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",IRIB iFilm Farsi
 https://live.presstv.ir/hls/ifilmfa_4_482/index.m3u8
 #EXTINF:0 tvg-name="iTVArabic" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVArabic" group-title="International",iTV Arabic Music
 https://glwizhstb46.glwiz.com/iTVArabicMusic_HD.m3u8?user=sgls76551&session=f8cec291ace87e0f9041aecff6db072ea637c50126880b67ef59f2cd4b76c6a0&group_id=76551
