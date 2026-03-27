@@ -5,13 +5,12 @@ https://gg.hls2.xyz/live/irib-tv1/playlist.m3u8|Referer=https://www.aparatchi.co
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",01 IRIB 2
 
 https://gg.hls2.xyz/live/irib-tv2/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
-#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",01 IRIB 3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",01 IRIB 3
 
 https://gg.hls2.xyz/live/tv3/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
-#EXTINF:0  tvg-logo="https://i.imgur.com/8tzsC9h.png",01 IRIB Khabar
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",01 IRIB Khabar
 https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
-#EXTINF:0  tvg-logo="https://i.imgur.com/8tzsC9h.png",02 IRIB Khabar backup
+#EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",02 IRIB Khabar backup
 https://ca-rt.onetv.app/khabar/index-0.m3u8?token=onetv202
 
 
