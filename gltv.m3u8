@@ -1,24 +1,24 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",01 IRIB 1
-https://spf-cors-aparat-0beh3m41.cfcross.workers.dev/?url=https://gg.hls2.xyz/live/tv1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",01 IRIB 2
-https://spf-cors-aparat-0beh3m41.cfcross.workers.dev/?url=https://gg.hls2.xyz/live/tv2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",01 IRIB 3
-https://spf-cors-aparat-0beh3m41.cfcross.workers.dev/?url=https://gg.hls2.xyz/live/tv3/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",01 IRIB Khabar
-https://spf-cors-aparat-0beh3m41.cfcross.workers.dev/?url=https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",02 IRIB Khabar backup
+#EXTINF:0 origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",01 IRIB 1
+https://gg.hls2.xyz/live/tv1/playlist.m3u8
+#EXTINF:0 origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",01 IRIB 2
+https://gg.hls2.xyz/live/tv2/playlist.m3u8
+#EXTINF:0 origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",01 IRIB 3
+https://gg.hls2.xyz/live/tv3/playlist.m3u8
+#EXTINF:0 origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://i.imgur.com/8tzsC9h.png",01 IRIB Khabar
+https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8
+#EXTINF:0 origin="https://www.aparatchi.com" referer="https://www.aparatchi.com/" tvg-logo="https://i.imgur.com/8tzsC9h.png",02 IRIB Khabar backup
 https://ca-rt.onetv.app/khabar/index-0.m3u8?token=onetv202
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",00 IRIB 1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",0X IRIB 1
 https://live-azd1109.telewebion.ir/ek/tv1/live/playlist.m3u8?isp=NA&city=NA
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",00 IRIB 2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",0X IRIB 2
 https://live-azd1109.telewebion.ir/ek/tv2/live/playlist.m3u8?isp=NA&city=NA
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",00 IRIB 3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",0X IRIB 3
 https://live-azd1109.telewebion.ir/ek/tv3/live/playlist.m3u8?isp=NA&city=NA
-#EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",00 IRIB Khabar
+#EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",0X IRIB Khabar
 https://live-azd1109.telewebion.ir/ek/irinn/live/playlist.m3u8?isp=NA&city=NA
 
 
