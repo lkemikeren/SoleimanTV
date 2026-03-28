@@ -15,13 +15,13 @@ https://ca-rt.onetv.app/khabar/index-0.m3u8?token=onetv202
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",0X IRIB 1
-https://live-azd1109.telewebion.ir/ek/tv1/live/playlist.m3u8?isp=NA&city=NA
+https://live-azd1101.telewebion.ir/ek/tv1/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",0X IRIB 2
-https://live-azd1109.telewebion.ir/ek/tv2/live/playlist.m3u8?isp=NA&city=NA
+https://live-azd1101.telewebion.ir/ek/tv2/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",0X IRIB 3
-https://live-azd1109.telewebion.ir/ek/tv3/live/playlist.m3u8?isp=NA&city=NA
+https://live-azd1101.telewebion.ir/ek/tv3/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",0X IRIB Khabar
-https://live-azd1109.telewebion.ir/ek/irinn/live/playlist.m3u8?isp=NA&city=NA
+https://live-azd1101.telewebion.ir/ek/irinn/live/playlist.m3u8?isp=NA&city=NA
 
 
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 1 (720p)
