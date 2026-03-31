@@ -23,6 +23,10 @@ https://live-azd1101.telewebion.ir/ek/tv3/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",0X IRIB Khabar
 https://live-azd1101.telewebion.ir/ek/irinn/live/playlist.m3u8?isp=NA&city=NA
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1280px-Russia-today-logo.svg.png",0X RT News
+https://rumble.com/live-hls/33aw1a/playlist.m3u8?
+#EXTINF:0 tvg-name="Press TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTV.ir" group-title="Iran",Press TV
+https://live.presstv.ir/hls/presstv.m3u8
 
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 1 (720p)
 https://northtelecom.b-cdn.net/ABALFADHL.m3u8
