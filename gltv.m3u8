@@ -42,7 +42,7 @@ https://rumble.com/live-hls/33aw1a/playlist.m3u8?
 #EXTINF:0 tvg-name="Press TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTV.ir" group-title="Iran",0X Press TV
 https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:0 tvg-id="BBCPersian.uk" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",0X BBC Persian (720p)
-https://glwizhstb38.glwiz.com/BBCPersian_HD/BBCPersian_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/BBCPersian_HD/BBCPersian_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 
 
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 1 (720p)
@@ -58,530 +58,530 @@ https://avr.host247.net/live/rasoulallahtv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",IRIB iFilm Farsi
 https://live.presstv.ir/hls/ifilmfa_4_482/index.m3u8
 #EXTINF:0 tvg-name="iTVArabic" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVArabic" group-title="International",iTV Arabic Music
-https://glwizhstb38.glwiz.com/iTVArabicMusic_HD/iTVArabicMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/iTVArabicMusic_HD/iTVArabicMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTVLCOPT:http-referrer=https://www.glwiz.com/
 #EXTVLCOPT:http-origin=https://www.glwiz.com
 #EXTINF:0 tvg-name="iTVTurkish" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVTurkish" group-title="International",iTV Turkish Music
-https://glwizhstb38.glwiz.com/iTVTurkishMusic_HD/iTVTurkishMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/iTVTurkishMusic_HD/iTVTurkishMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-name="iTVPersian" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVPersian" group-title="International",iTV Persian Music
-https://glwizhstb38.glwiz.com/iTVPersianMusic_HD/iTVPersianMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/iTVPersianMusic_HD/iTVPersianMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-name="iTVLatin" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVLatin" group-title="International",iTV Latin Music
-https://glwizhstb38.glwiz.com/iTVLatinMusic_HD/iTVLatinMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/iTVLatinMusic_HD/iTVLatinMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-name="iTVUrban" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVUrban" group-title="International",iTV Urban Music
-https://glwizhstb38.glwiz.com/iTVUrbanMusic_HD/iTVUrbanMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/iTVUrbanMusic_HD/iTVUrbanMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-name="iTVIndian" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVIndian" group-title="International",iTV Indian Music
-https://glwizhstb38.glwiz.com/iTVIndianMusic_HD/iTVIndianMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/iTVIndianMusic_HD/iTVIndianMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-name="iTVAfroBeats" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVAfro" group-title="International",iTV Afro Beats Music
-https://glwizhstb38.glwiz.com/iTVAfrobeats_HD/iTVAfrobeats_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/iTVAfrobeats_HD/iTVAfrobeats_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300923.png", Tapesh America
-https://glwizhstb38.glwiz.com/TapeshAmerica_HD/TapeshAmerica_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/TapeshAmerica_HD/TapeshAmerica_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307513.png", Channel One
-https://glwizhstb38.glwiz.com/ChannelOne_HD/ChannelOne_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ChannelOne_HD/ChannelOne_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301070.png", ITN
-https://glwizhstb38.glwiz.com/ITN_HD/ITN_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ITN_HD/ITN_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307572.png", Nahade Azadi
-https://glwizhstb38.glwiz.com/NahadeAzadi_HD/NahadeAzadi_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/NahadeAzadi_HD/NahadeAzadi_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300349.png",Omide Iran
-https://glwizhstb38.glwiz.com/OmidEIran_HD/OmidEIran_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/OmidEIran_HD/OmidEIran_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306821.png", Iran International
-https://glwizhstb38.glwiz.com/IranInternational_HD/IranInternational_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IranInternational_HD/IranInternational_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300677.png", BBC Persian
-https://glwizhstb38.glwiz.com/BBCPersian_HD/BBCPersian_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/BBCPersian_HD/BBCPersian_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307380.png", T2 International
-https://glwizhstb38.glwiz.com/T2International_HD/T2International_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/T2International_HD/T2International_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300327.png", Pars TV
-https://glwizhstb38.glwiz.com/ParsTV_HD/ParsTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ParsTV_HD/ParsTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301403.png", EuroNews Farsi
-https://glwizhstb38.glwiz.com/EuroNewsFarsi_HD/EuroNewsFarsi_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/EuroNewsFarsi_HD/EuroNewsFarsi_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300253.png", VoA
-https://glwizhstb38.glwiz.com/VoA_HD/VoA_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/VoA_HD/VoA_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306147.png", Radio Javan
-https://glwizhstb38.glwiz.com/RJTV_HD/RJTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/RJTV_HD/RJTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300331.png", Tasvire Iran
-https://glwizhstb38.glwiz.com/TasvirEIran_HD/TasvirEIran_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/TasvirEIran_HD/TasvirEIran_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302550.png", Irane Farda
-https://glwizhstb38.glwiz.com/IraneFarda_HD/IraneFarda_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IraneFarda_HD/IraneFarda_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300360.png", ITC
-https://glwizhstb38.glwiz.com/ITC_HD/ITC_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ITC_HD/ITC_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301157.png", TM TV
-https://glwizhstb38.glwiz.com/TMTV_HD/TMTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/TMTV_HD/TMTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300511.png", MBC Persia
-https://glwizhstb38.glwiz.com/MBCPersia_HD/MBCPersia_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/MBCPersia_HD/MBCPersia_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306828.png", Ekran Kids
-https://glwizhstb38.glwiz.com/EkranKids_HD/EkranKids_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/EkranKids_HD/EkranKids_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306418.png", Radio Farda TV
-https://glwizhstb38.glwiz.com/RadioFardaTV_HD/RadioFardaTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/RadioFardaTV_HD/RadioFardaTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300350.png", PTV 1
-https://glwizhstb38.glwiz.com/PTV1_HD/PTV1_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PTV1_HD/PTV1_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302132.png", Irane Aryaee
-https://glwizhstb38.glwiz.com/IranEAryaee_HD/IranEAryaee_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IranEAryaee_HD/IranEAryaee_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300899.png", Ayeneh TV
-https://glwizhstb38.glwiz.com/AyenehTV_HD/AyenehTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AyenehTV_HD/AyenehTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307414.png", Afghanistan International
-https://glwizhstb38.glwiz.com/AfghanistanInternational_HD/AfghanistanInternational_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AfghanistanInternational_HD/AfghanistanInternational_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307044.png", Your Time TV
-https://glwizhstb38.glwiz.com/YourTimeTV_HD/YourTimeTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/YourTimeTV_HD/YourTimeTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306374.png", Ekran Movies
-https://glwizhstb38.glwiz.com/EkranMovies_HD/EkranMovies_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/EkranMovies_HD/EkranMovies_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307260.png", T2 America
-https://glwizhstb38.glwiz.com/T2America_HD/T2America_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/T2America_HD/T2America_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306964.png", Mihan TV
-https://glwizhstb38.glwiz.com/MihanTV_HD/MihanTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/MihanTV_HD/MihanTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301193.png", Asre Emrooz
-https://glwizhstb38.glwiz.com/AsreEmrooz_HD/AsreEmrooz_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AsreEmrooz_HD/AsreEmrooz_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300578.png", AFN
-https://glwizhstb38.glwiz.com/AFN_HD/AFN_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AFN_HD/AFN_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300338.png", Tapesh
-https://glwizhstb38.glwiz.com/TAPESH_HD/TAPESH_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/TAPESH_HD/TAPESH_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306403.png", ITN Europe
-https://glwizhstb38.glwiz.com/ITNEurope_HD/ITNEurope_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ITNEurope_HD/ITNEurope_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305194.png", Royal Time TV
-https://glwizhstb38.glwiz.com/RoyalTimeTV_HD/RoyalTimeTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/RoyalTimeTV_HD/RoyalTimeTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302555.png", Today
-https://glwizhstb38.glwiz.com/Today_HD/Today_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Today_HD/Today_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307169.png", GEM Food
-https://glwizhstb38.glwiz.com/GemFood_HD/GemFood_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GemFood_HD/GemFood_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307498.png", GEM Academy
-https://glwizhstb38.glwiz.com/GEMAcademy_HD/GEMAcademy_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GEMAcademy_HD/GEMAcademy_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300202.png", Film1
-https://glwizhstb38.glwiz.com/Film1_HD/Film1_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Film1_HD/Film1_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302055.png", Classic TV
-https://glwizhstb38.glwiz.com/ClassicTV_HD/ClassicTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ClassicTV_HD/ClassicTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307628.png", Mohabat
-https://glwizhstb38.glwiz.com/Mohabat_HD/Mohabat_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Mohabat_HD/Mohabat_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Khane honarmandan
-https://glwizhstb38.glwiz.com/Khanehonarmandan_HD/Khanehonarmandan_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Khanehonarmandan_HD/Khanehonarmandan_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305272.png", Persiana Family
-https://glwizhstb38.glwiz.com/PersianaFamily_HD/PersianaFamily_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaFamily_HD/PersianaFamily_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306880.png", Persiana Cinema
-https://glwizhstb38.glwiz.com/PersianaCinema_HD/PersianaCinema_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaCinema_HD/PersianaCinema_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307312.png", Persiana Comedy
-https://glwizhstb38.glwiz.com/PersianaComedy_HD/PersianaComedy_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaComedy_HD/PersianaComedy_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_303785.png", GEM Documentary
-https://glwizhstb38.glwiz.com/GemDocumentary_HD/GemDocumentary_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GemDocumentary_HD/GemDocumentary_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307224.png", GEM Comedy
-https://glwizhstb38.glwiz.com/GemComedy_HD/GemComedy_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GemComedy_HD/GemComedy_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305181.png", Payvand
-https://glwizhstb38.glwiz.com/Payvand_HD/Payvand_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Payvand_HD/Payvand_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306654.png", AZ Star TV
-https://glwizhstb38.glwiz.com/AzStarTV_HD/AzStarTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AzStarTV_HD/AzStarTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301174.png", Salaam
-https://glwizhstb38.glwiz.com/SalaamTV_HD/SalaamTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/SalaamTV_HD/SalaamTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307340.png", Persiana Korea
-https://glwizhstb38.glwiz.com/PersianaKorea_HD/PersianaKorea_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaKorea_HD/PersianaKorea_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307272.png", Persiana Iranian
-https://glwizhstb38.glwiz.com/PersianaIranian_HD/PersianaIranian_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaIranian_HD/PersianaIranian_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307483.png", Hambastegi
-https://glwizhstb38.glwiz.com/Hambastegi_HD/Hambastegi_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Hambastegi_HD/Hambastegi_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307035.png", AVA Family
-https://glwizhstb38.glwiz.com/AVAFamily_HD/AVAFamily_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AVAFamily_HD/AVAFamily_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307620.png", Pro Sport
-https://glwizhstb38.glwiz.com/ProSport_HD/ProSport_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ProSport_HD/ProSport_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307250.png", AVA Series
-https://glwizhstb38.glwiz.com/AVASeries_HD/AVASeries_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AVASeries_HD/AVASeries_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307604.png", 4Turk
-https://glwizhstb38.glwiz.com/4Turk_HD/4Turk_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/4Turk_HD/4Turk_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302563.png", Payame Javan
-https://glwizhstb38.glwiz.com/PJTV_HD/PJTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PJTV_HD/PJTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307449.png", FX22
-https://glwizhstb38.glwiz.com/FX22_HD/FX22_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/FX22_HD/FX22_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307308.png", MTC
-https://glwizhstb38.glwiz.com/MTC_HD/MTC_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/MTC_HD/MTC_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307404.png", ICnet 2
-https://glwizhstb38.glwiz.com/ICnet2_HD/ICnet2_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ICnet2_HD/ICnet2_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305147.png", ICnet 1
-https://glwizhstb38.glwiz.com/ICnet_HD/ICnet_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ICnet_HD/ICnet_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307616.png", Navahang
-https://glwizhstb38.glwiz.com/Navahang_HD/Navahang_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Navahang_HD/Navahang_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305626.png", Shabake 7
-https://glwizhstb38.glwiz.com/Shabakeh7_HD/Shabakeh7_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Shabakeh7_HD/Shabakeh7_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307477.png", Persiana Documentary
-https://glwizhstb38.glwiz.com/PersianaDocs_HD/PersianaDocs_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaDocs_HD/PersianaDocs_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307479.png", Persiana Sport
-https://glwizhstb38.glwiz.com/PersianaSport_HD/PersianaSport_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaSport_HD/PersianaSport_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306561.png", Eshare TV
-https://glwizhstb38.glwiz.com/EshareTV_HD/EshareTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/EshareTV_HD/EshareTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307490.png", Persiana Reality
-https://glwizhstb38.glwiz.com/PersianaReality_HD/PersianaReality_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaReality_HD/PersianaReality_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305198.png", Didgah
-https://glwizhstb38.glwiz.com/Didgah_HD/Didgah_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Didgah_HD/Didgah_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302142.png", Farhange IranZamin
-https://glwizhstb38.glwiz.com/FarhangeIranZamin_HD/FarhangeIranZamin_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/FarhangeIranZamin_HD/FarhangeIranZamin_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307510.png", Rahe Nejat
-https://glwizhstb38.glwiz.com/RaheNejat_HD/RaheNejat_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/RaheNejat_HD/RaheNejat_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306971.png", Aein Jadeed
-https://glwizhstb38.glwiz.com/AeinJadeed_HD/AeinJadeed_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AeinJadeed_HD/AeinJadeed_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_303655.png", Payame Aramesh
-https://glwizhstb38.glwiz.com/PayameAramesh_HD/PayameAramesh_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PayameAramesh_HD/PayameAramesh_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307630.png", Persiana Latino
-https://glwizhstb38.glwiz.com/PersianaLatino_HD/PersianaLatino_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaLatino_HD/PersianaLatino_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_303985.png", Kanal Jadid
-https://glwizhstb38.glwiz.com/KanalJadid_HD/KanalJadid_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/KanalJadid_HD/KanalJadid_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300512.png", GEM TV
-https://glwizhstb38.glwiz.com/GEMTV_HD/GEMTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GEMTV_HD/GEMTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_303680.png", GEM Life
-https://glwizhstb38.glwiz.com/GemLife1_HD/GemLife1_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GemLife1_HD/GemLife1_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307372.png", Iman Be Masih
-https://glwizhstb38.glwiz.com/ImanBeMasih_HD/ImanBeMasih_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ImanBeMasih_HD/ImanBeMasih_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306668.png", Omide Javedan
-https://glwizhstb38.glwiz.com/OmideJavedan_HD/OmideJavedan_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/OmideJavedan_HD/OmideJavedan_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306718.png", 4U TV
-https://glwizhstb38.glwiz.com/4uTV_HD/4uTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/4uTV_HD/4uTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306975.png", Zan Zendegi Azadi
-https://glwizhstb38.glwiz.com/WomanTV_HD/WomanTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/WomanTV_HD/WomanTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307360.png", Persiana Plus
-https://glwizhstb38.glwiz.com/PersianaPlus_HD/PersianaPlus_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaPlus_HD/PersianaPlus_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301179.png", Ganje Hozour
-https://glwizhstb38.glwiz.com/GanjeHozour_HD/GanjeHozour_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GanjeHozour_HD/GanjeHozour_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307101.png", Israel Pars TV
-https://glwizhstb38.glwiz.com/IsraelParsTV_HD/IsraelParsTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IsraelParsTV_HD/IsraelParsTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307409.png", CafeTrade TV
-https://glwizhstb38.glwiz.com/CafeTradeTV_HD/CafeTradeTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/CafeTradeTV_HD/CafeTradeTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307424.png", Nejat
-https://glwizhstb38.glwiz.com/NejatTV_HD/NejatTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/NejatTV_HD/NejatTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307447.png", Persian Procast
-https://glwizhstb38.glwiz.com/PersianProcast_HD/PersianProcast_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianProcast_HD/PersianProcast_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307304.png", Net TV
-https://glwizhstb38.glwiz.com/NetTV_HD/NetTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/NetTV_HD/NetTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300830.png", 4U Family
-https://glwizhstb38.glwiz.com/4uFamily_HD/4uFamily_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/4uFamily_HD/4uFamily_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 
 
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307316.png", Jewish TV
-https://glwizhstb38.glwiz.com/JewishTV_HD/JewishTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/JewishTV_HD/JewishTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305270.png", Erfan Halghe
-https://glwizhstb38.glwiz.com/ErfanHalghe_HD/ErfanHalghe_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ErfanHalghe_HD/ErfanHalghe_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306951.png", Imam Hussein TV 1
-https://glwizhstb38.glwiz.com/ImamHusseinTV1_HD/ImamHusseinTV1_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ImamHusseinTV1_HD/ImamHusseinTV1_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307027.png", Health Media
-https://glwizhstb38.glwiz.com/Healthmedia_HD/Healthmedia_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Healthmedia_HD/Healthmedia_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307547.png", 4U Sport
-https://glwizhstb38.glwiz.com/4uSport_HD/4uSport_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/4uSport_HD/4uSport_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307515.png", 4 Sport
-https://glwizhstb38.glwiz.com/4Sport_HD/4Sport_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/4Sport_HD/4Sport_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300316.png", ICNet 3
-https://glwizhstb38.glwiz.com/ICnet3_HD/ICnet3_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ICnet3_HD/ICnet3_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302053.png", ICC
-https://glwizhstb38.glwiz.com/ICC_HD/ICC_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ICC_HD/ICC_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307562.png", IR TV
-https://glwizhstb38.glwiz.com/IRTV_HD/IRTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRTV_HD/IRTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307376.png", T2 Movies
-https://glwizhstb38.glwiz.com/T2Movies_HD/T2Movies_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/T2Movies_HD/T2Movies_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307274.png", Persiana Turkiye
-https://glwizhstb38.glwiz.com/PersianaTurkiye_HD/PersianaTurkiye_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaTurkiye_HD/PersianaTurkiye_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304198.png", Leila Forouhar
-https://glwizhstb38.glwiz.com/LeilaForouhar_HD/LeilaForouhar_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/LeilaForouhar_HD/LeilaForouhar_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307190.png", Ronix
-https://glwizhstb38.glwiz.com/Ronix_HD/Ronix_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Ronix_HD/Ronix_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307568.png", Persiana Fight
-https://glwizhstb38.glwiz.com/PersianaFight_HD/PersianaFight_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaFight_HD/PersianaFight_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307249.png", Pen TV
-https://glwizhstb38.glwiz.com/PenTV_HD/PenTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PenTV_HD/PenTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307164.png", 247 Box TV
-https://glwizhstb38.glwiz.com/247BoxTV_HD/247BoxTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/247BoxTV_HD/247BoxTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307226.png", Grand Cinema
-https://glwizhstb38.glwiz.com/GrandCinema_HD/GrandCinema_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GrandCinema_HD/GrandCinema_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306890.png", Persiana Junior
-https://glwizhstb38.glwiz.com/PersianaJunior_HD/PersianaJunior_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaJunior_HD/PersianaJunior_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307180.png", Oxir
-https://glwizhstb38.glwiz.com/Oxir_HD/Oxir_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Oxir_HD/Oxir_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307564.png", Home Plus
-https://glwizhstb38.glwiz.com/HomePlus_HD/HomePlus_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/HomePlus_HD/HomePlus_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307465.png", Tahour TV
-https://glwizhstb38.glwiz.com/TahourTV_HD/TahourTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/TahourTV_HD/TahourTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307554.png", Simaye Azadi
-https://glwizhstb38.glwiz.com/SimayAzadi_HD/SimayAzadi_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/SimayAzadi_HD/SimayAzadi_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307362.png", Derakhte Zendegi
-https://glwizhstb38.glwiz.com/DerakhteZendegi_HD/DerakhteZendegi_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/DerakhteZendegi_HD/DerakhteZendegi_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307383.png", FX TV
-https://glwizhstb38.glwiz.com/FXTV_HD/FXTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/FXTV_HD/FXTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307389.png", Sepanj
-https://glwizhstb38.glwiz.com/Sepanj_HD/Sepanj_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Sepanj_HD/Sepanj_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307560.png", Khatereh TV
-https://glwizhstb38.glwiz.com/KhaterehTV_HD/KhaterehTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/KhaterehTV_HD/KhaterehTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307453.png", Farsi TV
-https://glwizhstb38.glwiz.com/FarsiTV_HD/FarsiTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/FarsiTV_HD/FarsiTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Persiana Medical
-https://glwizhstb38.glwiz.com/PersianaMedical_HD/PersianaMedical_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaMedical_HD/PersianaMedical_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300660.png", RV TV
-https://glwizhstb38.glwiz.com/RVTV_HD/RVTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/RVTV_HD/RVTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307576.png", ART
-https://glwizhstb38.glwiz.com/ART_HD/ART_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ART_HD/ART_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307590.png", Didaniha TV
-https://glwizhstb38.glwiz.com/DidanihaTV_HD/DidanihaTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/DidanihaTV_HD/DidanihaTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307596.png", Nima TV
 https://glparishhls39.glwiz.com/NimaTV.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Atrina
-https://glwizhstb38.glwiz.com/Atrina_HD/Atrina_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Atrina_HD/Atrina_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307622.png", NVC
-https://glwizhstb38.glwiz.com/NVC_HD/NVC_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/NVC_HD/NVC_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307497.png", GEM Pixel
-https://glwizhstb38.glwiz.com/GEMPixel_HD/GEMPixel_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GEMPixel_HD/GEMPixel_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", GEM RUBIX
-https://glwizhstb38.glwiz.com/RUBIX_HD/RUBIX_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/RUBIX_HD/RUBIX_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", GEM Drama
-https://glwizhstb38.glwiz.com/GEMDrama_HD/GEMDrama_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GEMDrama_HD/GEMDrama_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 
 #EXTINF:0 tvg-id="GEM Nature" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_nature.png" group-title="GEM",GEM Nature
-https://glwizhstb38.glwiz.com/GemNature_HD/GemNature_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GemNature_HD/GemNature_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-id="GEM MIFA" tvg-logo="https://tabestani.com/api/channel_icons/iran/gem_mifa.png" group-title="GEM",GEM MIFA
-https://glwizhstb38.glwiz.com/MifaMusic_HD/MifaMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/MifaMusic_HD/MifaMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-id="GEM MIFA PLUS" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_mifa_plus.png" group-title="GEM",GEM MIFA PLUS
 https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
 
 #EXTINF:0 tvg-logo="", GEM ONYX
-https://glwizhstb38.glwiz.com/ONYX_HD/ONYX_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ONYX_HD/ONYX_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", GEM Classic
-https://glwizhstb38.glwiz.com/GemClassic_HD/GemClassic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GemClassic_HD/GemClassic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", GEM Film
-https://glwizhstb38.glwiz.com/GemFilm_HD/GemFilm_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GemFilm_HD/GemFilm_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", GEM Bollywood
-https://glwizhstb38.glwiz.com/GEMBollywood_HD/GEMBollywood_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GEMBollywood_HD/GEMBollywood_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Persiana Travel
-https://glwizhstb38.glwiz.com/PersianaTravel_HD/PersianaTravel_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaTravel_HD/PersianaTravel_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Persiana Plus One
-https://glwizhstb38.glwiz.com/PersianaPlusOne_HD/PersianaPlusOne_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaPlusOne_HD/PersianaPlusOne_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Persiana Emirates
-https://glwizhstb38.glwiz.com/PersianaEmirates_HD/PersianaEmirates_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaEmirates_HD/PersianaEmirates_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Persiana Rap
-https://glwizhstb38.glwiz.com/PersianaRap_HD/PersianaRap_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaRap_HD/PersianaRap_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Persiana Folk
-https://glwizhstb38.glwiz.com/PersianaFolk_HD/PersianaFolk_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaFolk_HD/PersianaFolk_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", 4Music
-https://glwizhstb38.glwiz.com/4Music_HD/4Music_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/4Music_HD/4Music_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Maah TV
-https://glwizhstb38.glwiz.com/MaahTV_HD/MaahTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/MaahTV_HD/MaahTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307575.png", GEM Sport
-https://glwizhstb38.glwiz.com/GemSport_HD/GemSport_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GemSport_HD/GemSport_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300483.png", IRIB Ofogh
-https://glwizhstb38.glwiz.com/IRIBOfogh_HD/IRIBOfogh_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRIBOfogh_HD/IRIBOfogh_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300486.png", IRIB IRINN
-https://glwizhstb38.glwiz.com/IRINN_HD/IRINN_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRINN_HD/IRINN_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301104.png", IRIB Amoozesh
-https://glwizhstb38.glwiz.com/IRIBAmoozesh_HD/IRIBAmoozesh_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRIBAmoozesh_HD/IRIBAmoozesh_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300488.png", IRIB Channel 1
-https://glwizhstb38.glwiz.com/IRIBChannel1_HD/IRIBChannel1_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRIBChannel1_HD/IRIBChannel1_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300489.png", IRIB Channel 2
-https://glwizhstb38.glwiz.com/IRIBChannel2_HD/IRIBChannel2_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRIBChannel2_HD/IRIBChannel2_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300490.png", IRIB Channel 3
-https://glwizhstb38.glwiz.com/IRIBChannel3_HD/IRIBChannel3_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRIBChannel3_HD/IRIBChannel3_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300490.png", IRIB Channel 3 HD
-https://glwizhstb38.glwiz.com/IRIBChannel3HD_HD/IRIBChannel3HD_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRIBChannel3HD_HD/IRIBChannel3HD_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300491.png", IRIB Channel 4
-https://glwizhstb38.glwiz.com/IRIBChannel4_HD/IRIBChannel4_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRIBChannel4_HD/IRIBChannel4_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300492.png", IRIB Channel 5
-https://glwizhstb38.glwiz.com/IRIBChannel5_HD/IRIBChannel5_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRIBChannel5_HD/IRIBChannel5_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305052.png", IRIB Tamasha
-https://glwizhstb38.glwiz.com/Tamasha_HD/Tamasha_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Tamasha_HD/Tamasha_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304077.png", IRIB Varzesh
-https://glwizhstb38.glwiz.com/IRIBVarzesh_HD/IRIBVarzesh_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRIBVarzesh_HD/IRIBVarzesh_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304077.png", IRIB Varzesh HD
-https://glwizhstb38.glwiz.com/IRIBVarzeshHD_HD/IRIBVarzeshHD_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRIBVarzeshHD_HD/IRIBVarzeshHD_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304081.png", IRIB Namayesh
-https://glwizhstb38.glwiz.com/IRIBNamayesh_HD/IRIBNamayesh_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRIBNamayesh_HD/IRIBNamayesh_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304112.png", IRIB Pooya
-https://glwizhstb38.glwiz.com/IRIBPooya_HD/IRIBPooya_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRIBPooya_HD/IRIBPooya_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304109.png", IRIB Salamat
-https://glwizhstb38.glwiz.com/IRIBSalamat_HD/IRIBSalamat_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRIBSalamat_HD/IRIBSalamat_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304079.png", iFilm Farsi
-https://glwizhstb38.glwiz.com/iFilmFarsi_HD/iFilmFarsi_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/iFilmFarsi_HD/iFilmFarsi_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304104.png", IRIB Mostanad
-https://glwizhstb38.glwiz.com/IRIBMostanad_HD/IRIBMostanad_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRIBMostanad_HD/IRIBMostanad_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306206.png", IRIB Nasim
-https://glwizhstb38.glwiz.com/IRIBNasim_HD/IRIBNasim_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRIBNasim_HD/IRIBNasim_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306858.png", IRIB Omid
-https://glwizhstb38.glwiz.com/IRIBOmid_HD/IRIBOmid_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IRIBOmid_HD/IRIBOmid_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301118.png", Johannamo
-https://glwizhstb38.glwiz.com/Jahonnamo_HD/Jahonnamo_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Jahonnamo_HD/Jahonnamo_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301119.png", Tojikiston
-https://glwizhstb38.glwiz.com/Tojikiston_HD/Tojikiston_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Tojikiston_HD/Tojikiston_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301120.png", TV Safina
-https://glwizhstb38.glwiz.com/TVSafina_HD/TVSafina_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/TVSafina_HD/TVSafina_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307460.png", Dushanbe
-https://glwizhstb38.glwiz.com/Dushanbe_HD/Dushanbe_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Dushanbe_HD/Dushanbe_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Bahiroston
-https://glwizhstb38.glwiz.com/Bahiroston_HD/Bahiroston_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Bahiroston_HD/Bahiroston_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Sinamo
-https://glwizhstb38.glwiz.com/Sinamo_HD/Sinamo_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Sinamo_HD/Sinamo_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307462.png", TV Khatlon
-https://glwizhstb38.glwiz.com/TVKhatlon_HD/TVKhatlon_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/TVKhatlon_HD/TVKhatlon_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307613.png", TV Sayohi
-https://glwizhstb38.glwiz.com/TVSayohi_HD/TVSayohi_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/TVSayohi_HD/TVSayohi_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306664.png", CBC Azerbaycan
-https://glwizhstb38.glwiz.com/CBCAzerbaycan_HD/CBCAzerbaycan_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/CBCAzerbaycan_HD/CBCAzerbaycan_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", GEM AZ
-https://glwizhstb38.glwiz.com/GemAZ_HD/GemAZ_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GemAZ_HD/GemAZ_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301098.png", Armenia 1
-https://glwizhstb38.glwiz.com/Armenia1_HD/Armenia1_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Armenia1_HD/Armenia1_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300583.png", Assyr Sat
-https://glwizhstb38.glwiz.com/AssyrSat_HD/AssyrSat_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AssyrSat_HD/AssyrSat_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307402.png", AGN SAT
-https://glwizhstb38.glwiz.com/AGNSAT_HD/AGNSAT_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AGNSAT_HD/AGNSAT_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 
 
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307413.png", Nohadra TV
-https://glwizhstb38.glwiz.com/NohadraTV_HD/NohadraTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/NohadraTV_HD/NohadraTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304102.png", Rudaw
-https://glwizhstb38.glwiz.com/Rudaw_HD/Rudaw_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Rudaw_HD/Rudaw_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306770.png", Kurdsat News
-https://glwizhstb38.glwiz.com/KurdsatNews_HD/KurdsatNews_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/KurdsatNews_HD/KurdsatNews_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304661.png", NRT2
-https://glwizhstb38.glwiz.com/NRT2_HD/NRT2_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/NRT2_HD/NRT2_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302233.png", Speda
-https://glwizhstb38.glwiz.com/Speda.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Speda.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306962.png", Jin TV
-https://glwizhstb38.glwiz.com/JinTV_HD/JinTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/JinTV_HD/JinTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_303036.png", Sterk TV
-https://glwizhstb38.glwiz.com/SterkTV.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/SterkTV.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307603.png", 4Kurd
-https://glwizhstb38.glwiz.com/4Kurd_HD/4Kurd_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/4Kurd_HD/4Kurd_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307232.png", KurdMax Show
-https://glwizhstb38.glwiz.com/KurdmaxShow_HD/KurdmaxShow_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/KurdmaxShow_HD/KurdmaxShow_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_303489.png", KurdMax
-https://glwizhstb38.glwiz.com/KurdMax_HD/KurdMax_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/KurdMax_HD/KurdMax_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306156.png", Med Muzik
-https://glwizhstb38.glwiz.com/MedMuzik_HD/MedMuzik_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/MedMuzik_HD/MedMuzik_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306171.png", Cira
-https://glwizhstb38.glwiz.com/Cira_HD/Cira_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Cira_HD/Cira_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305879.png", Suroyo TV
-https://glwizhstb38.glwiz.com/SuroyoTV_HD/SuroyoTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/SuroyoTV_HD/SuroyoTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306183.png", RonahiTV
-https://glwizhstb38.glwiz.com/RonahiTV_HD/RonahiTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/RonahiTV_HD/RonahiTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305917.png", Zarok
-https://glwizhstb38.glwiz.com/Zarok_HD/Zarok_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Zarok_HD/Zarok_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305449.png", Aryen
-https://glwizhstb38.glwiz.com/Aryen_HD/Aryen_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Aryen_HD/Aryen_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300498.png", Payame Afghan
-https://glwizhstb38.glwiz.com/PayamEAfghan_HD/PayamEAfghan_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PayamEAfghan_HD/PayamEAfghan_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300500.png", Ariana Afghanistan
-https://glwizhstb38.glwiz.com/ArianaAfghan_HD/ArianaAfghan_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ArianaAfghan_HD/ArianaAfghan_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300501.png", ATN News
-https://glwizhstb38.glwiz.com/ATNNews_HD/ATNNews_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ATNNews_HD/ATNNews_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300502.png", Ariana International
-https://glwizhstb38.glwiz.com/ArianaInt_HD/ArianaInt_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ArianaInt_HD/ArianaInt_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301402.png", VoA Afghanistan
-https://glwizhstb38.glwiz.com/VoAAfghanistan_HD/VoAAfghanistan_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/VoAAfghanistan_HD/VoAAfghanistan_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301402.png", Zarin TV
 https://glparishhls39.glwiz.com/ZarinTV.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300532.png", RTA
-https://glwizhstb38.glwiz.com/RTA_HD/RTA_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/RTA_HD/RTA_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307297.png", RTA Sport
-https://glwizhstb38.glwiz.com/RTASport_HD/RTASport_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/RTASport_HD/RTASport_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307476.png", BBC Persian Afghan
-https://glwizhstb38.glwiz.com/BBCPersianAfghan_HD/BBCPersianAfghan_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/BBCPersianAfghan_HD/BBCPersianAfghan_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300531.png", Tolo
-https://glwizhstb38.glwiz.com/Tolo_HD/Tolo_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Tolo_HD/Tolo_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305078.png", Tolo News
-https://glwizhstb38.glwiz.com/ToloNews.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/ToloNews.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307464.png", Afghan USA
-https://glwizhstb38.glwiz.com/AfgUSA_HD/AfgUSA_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AfgUSA_HD/AfgUSA_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307579.png", RTA News
-https://glwizhstb38.glwiz.com/RTANews_HD/RTANews_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/RTANews_HD/RTANews_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Chekad
-https://glwizhstb38.glwiz.com/Chekad_HD/Chekad_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Chekad_HD/Chekad_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305121.png", 1 TV
-https://glwizhstb38.glwiz.com/1TV_HD/1TV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/1TV_HD/1TV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307581.png", RTA Education
-https://glwizhstb38.glwiz.com/RTAEducation_HD/RTAEducation_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/RTAEducation_HD/RTAEducation_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307583.png", Shams
-https://glwizhstb38.glwiz.com/Shams_HD/Shams_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Shams_HD/Shams_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307585.png", Faza
-https://glwizhstb38.glwiz.com/Faza_HD/Faza_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Faza_HD/Faza_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307058.png", Dunya
-https://glwizhstb38.glwiz.com/Dunya_HD/Dunya_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Dunya_HD/Dunya_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305633.png", Tamadon
-https://glwizhstb38.glwiz.com/Tamadon_HD/Tamadon_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Tamadon_HD/Tamadon_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305074.png", Lemar
-https://glwizhstb38.glwiz.com/Lemar_HD/Lemar_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Lemar_HD/Lemar_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307589.png", Begum
-https://glwizhstb38.glwiz.com/Begum_HD/Begum_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Begum_HD/Begum_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307587.png", Amu
-https://glwizhstb38.glwiz.com/Amu_HD/Amu_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Amu_HD/Amu_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306195.png", Arezo
-https://glwizhstb38.glwiz.com/Arezo_HD/Arezo_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Arezo_HD/Arezo_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307615.png", Maawj TV
-https://glwizhstb38.glwiz.com/MaawjTV_HD/MaawjTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/MaawjTV_HD/MaawjTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", AMC TV
-https://glwizhstb38.glwiz.com/AMC_HD/AMC_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AMC_HD/AMC_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Afghan Noble TV
-https://glwizhstb38.glwiz.com/AfghanNobelTV_HD/AfghanNobelTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AfghanNobelTV_HD/AfghanNobelTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Afghan Nobel Movie
-https://glwizhstb38.glwiz.com/AfghanNobelMovie.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AfghanNobelMovie.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306622.png", Zhwandoon TV
-https://glwizhstb38.glwiz.com/Zhwandoon_HD/Zhwandoon_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Zhwandoon_HD/Zhwandoon_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Bahar TV
-https://glwizhstb38.glwiz.com/BaharTV_HD/BaharTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/BaharTV_HD/BaharTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Afghan Time TV
-https://glwizhstb38.glwiz.com/AfghanTime_HD/AfghanTime_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AfghanTime_HD/AfghanTime_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307331.png", Sohail TV
-https://glwizhstb38.glwiz.com/SohailTV_HD/SohailTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/SohailTV_HD/SohailTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306868.png", Sedaye Haq
-https://glwizhstb38.glwiz.com/SadaeHaq_HD/SadaeHaq_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/SadaeHaq_HD/SadaeHaq_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307077.png", Kayhan TV
-https://glwizhstb38.glwiz.com/Kayhan_HD/Kayhan_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Kayhan_HD/Kayhan_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307112.png", Pamir TV
-https://glwizhstb38.glwiz.com/PamirTV_HD/PamirTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PamirTV_HD/PamirTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307396.png", Eslah TV
-https://glwizhstb38.glwiz.com/EslahTV_HD/EslahTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/EslahTV_HD/EslahTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307421.png", Ommat E Wasat
-https://glwizhstb38.glwiz.com/OmmatEWasat_HD/OmmatEWasat_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/OmmatEWasat_HD/OmmatEWasat_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307330.png", Islamic Music
-https://glwizhstb38.glwiz.com/IslamicMusic_HD/IslamicMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/IslamicMusic_HD/IslamicMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307595.png", Velayat
-https://glwizhstb38.glwiz.com/Velayat_HD/Velayat_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Velayat_HD/Velayat_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_303062.png", Kids Toon (0-6)
-https://glwizhstb38.glwiz.com/cartoon06_HD/cartoon06_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/cartoon06_HD/cartoon06_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Persiana Teen
-https://glwizhstb38.glwiz.com/PersianaTeen_HD/PersianaTeen_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaTeen_HD/PersianaTeen_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Gem Junior
-https://glwizhstb38.glwiz.com/GemJunior_HD/GemJunior_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GemJunior_HD/GemJunior_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307398.png", Toonix
-https://glwizhstb38.glwiz.com/Toonix_HD/Toonix_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Toonix_HD/Toonix_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307213.png", Sun Music
-https://glwizhstb38.glwiz.com/SunMusic_HD/SunMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/SunMusic_HD/SunMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300450.png", Ava Film
-https://glwizhstb38.glwiz.com/AvaFilm_HD/AvaFilm_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AvaFilm_HD/AvaFilm_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_303569.png", PMC Music
-https://glwizhstb38.glwiz.com/PMCMusic_HD/PMCMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PMCMusic_HD/PMCMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307196.png", Avang TV
-https://glwizhstb38.glwiz.com/Avang_HD/Avang_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Avang_HD/Avang_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302661.png", Sonati
-https://glwizhstb38.glwiz.com/Sonati_HD/Sonati_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Sonati_HD/Sonati_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307627.png", KMC TV
-https://glwizhstb38.glwiz.com/KMC_HD/KMC_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/KMC_HD/KMC_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306959.png", Me TV
-https://glwizhstb38.glwiz.com/MeTV_HD/MeTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/MeTV_HD/MeTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306898.png", Music1
-https://glwizhstb38.glwiz.com/Music1_HD/Music1_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Music1_HD/Music1_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307299.png", Persiana Nostalgia
-https://glwizhstb38.glwiz.com/PersianaNostalgia_HD/PersianaNostalgia_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaNostalgia_HD/PersianaNostalgia_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307519.png", Persiana Music
-https://glwizhstb38.glwiz.com/PersianaMusic_HD/PersianaMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PersianaMusic_HD/PersianaMusic_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307238.png", Romantico
-https://glwizhstb38.glwiz.com/Romantico_HD/Romantico_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/Romantico_HD/Romantico_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", TRT Muzik
-https://glwizhstb38.glwiz.com/TRTMuzik_HD/TRTMuzik_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/TRTMuzik_HD/TRTMuzik_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307388.png", PMC Royale
-https://glwizhstb38.glwiz.com/PMCRoyale_HD/PMCRoyale_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/PMCRoyale_HD/PMCRoyale_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307553.png", Ayaz TV
-https://glwizhstb38.glwiz.com/AyazTV_HD/AyazTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AyazTV_HD/AyazTV_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306535.png", 4U Plus
-https://glwizhstb38.glwiz.com/4UPlus_HD/4UPlus_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/4UPlus_HD/4UPlus_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306758.png", Afra Film
-https://glwizhstb38.glwiz.com/AfraFilm_HD/AfraFilm_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/AfraFilm_HD/AfraFilm_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", GEM Rublix Plus
-https://glwizhstb38.glwiz.com/RubixPlus_HD/RubixPlus_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/RubixPlus_HD/RubixPlus_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", GEM Fit
-https://glwizhstb38.glwiz.com/GEMFit_HD/GEMFit_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GEMFit_HD/GEMFit_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Gem Series
-https://glwizhstb38.glwiz.com/GemSeries_HD/GemSeries_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GemSeries_HD/GemSeries_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", GEM TV Plus
-https://glwizhstb38.glwiz.com/GEMTVPlus_HD/GEMTVPlus_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GEMTVPlus_HD/GEMTVPlus_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 #EXTINF:0 tvg-logo="", Gem Series+
-https://glwizhstb38.glwiz.com/GemSeriesPlus_HD/GemSeriesPlus_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
+https://glwizhstb46.glwiz.com/GemSeriesPlus_HD/GemSeriesPlus_High.m3u8?user=sgls76551&session=9164b2144afd2cff454986279fddd3bb8be59d238b6d127e18e673d8c2f1a468759da44f728a1efa&hlsid=HTTP_ID_8&group_id=76551|Referer=https://www.glwiz.com/|Origin=https://www.glwiz.com
 
