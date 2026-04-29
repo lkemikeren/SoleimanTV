@@ -14,7 +14,7 @@ https://northtelecom.b-cdn.net/channel_5.m3u8
 https://northtelecom.b-cdn.net/channel_6.m3u8
 #EXTINF:O, Ayeneh TV
 https://northtelecom.b-cdn.net/channel_7.m3u8
-#EXTINF:O, MOVIE
+#EXTINF:O, TIN TV
 https://northtelecom.b-cdn.net/channel_9.m3u8
 #EXTINF:O, GEM Food
 https://northtelecom.b-cdn.net/channel_10.m3u8
@@ -23,21 +23,18 @@ https://northtelecom.b-cdn.net/channel_10.m3u8
 #EXTINF:O, GEM Fit
 https://northtelecom.b-cdn.net/channel_11.m3u8
 
-#EXTINF:O, Alijenab GEM
+#EXTINF:O, GEM River
 https://northtelecom.b-cdn.net/channel_13.m3u8
 
-#EXTINF:O, GEM 14
+#EXTINF:O, GEM LIFE
 https://northtelecom.b-cdn.net/channel_14.m3u8
 
 #EXTINF:O, GEM Bollywood
 https://northtelecom.b-cdn.net/channel_15.m3u8
-#EXTINF:O, GEM 16
-https://northtelecom.b-cdn.net/channel_16.m3u8
-
 
 #EXTINF:O, GEM Junior
 https://northtelecom.b-cdn.net/channel_19.m3u8
-#EXTINF:O, GEM 20
+#EXTINF:O, GEM TV
 https://northtelecom.b-cdn.net/channel_20.m3u8
 #EXTINF:O, GEM Entertainment
 https://northtelecom.b-cdn.net/channel_21.m3u8
@@ -46,17 +43,17 @@ https://northtelecom.b-cdn.net/channel_22.m3u8
 
 #EXTINF:O, GEM Sport
 https://northtelecom.b-cdn.net/channel_23.m3u8
-#EXTINF:O, GEM 24
+#EXTINF:O, GEM FILM
 https://northtelecom.b-cdn.net/channel_24.m3u8
 #EXTINF:O, GEM Drama
 https://northtelecom.b-cdn.net/channel_25.m3u8
-#EXTINF:O, GEM 26
+#EXTINF:O, GEM PIXEL
 https://northtelecom.b-cdn.net/channel_26.m3u8
 
 
 #EXTINF:O, GEM Rubix+
 https://northtelecom.b-cdn.net/channel_28.m3u8
-#EXTINF:O, GEM 29
+#EXTINF:O, GEM RIVER+
 https://northtelecom.b-cdn.net/channel_29.m3u8
 
 #EXTINF:O, GEM Series+
@@ -86,7 +83,7 @@ https://northtelecom.b-cdn.net/channel_12.m3u8
 #EXTINF:O,GEM Classic
 https://northtelecom.b-cdn.net/channel_16.m3u8
 
-#EXTINF:O,GEM DRAMA
+#EXTINF:O,GEM Series
 https://northtelecom.b-cdn.net/channel_17.m3u8
 
 #EXTINF:O,GEM DRAMA+
