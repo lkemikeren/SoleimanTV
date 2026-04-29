@@ -70,7 +70,7 @@ https://glwizhstb46.glwiz.com/iTVUrbanMusic_HD.m3u8?user=sgls76551&session=2cd3b
 https://glwizhstb46.glwiz.com/iTVIndianMusic_HD.m3u8?user=sgls76551&session=2cd3b5d0ef8c2c639123b48662f7e6714432b56eaf59331814c1ca6a526d62c1759da44f728a1efa&hlsid=HTTP_ID_80&group_id=76551
 #EXTINF:0 tvg-name="iTVAfroBeats" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVAfro" group-title="International",iTV Afro Beats Music
 https://glwizhstb46.glwiz.com/iTVAfrobeats_HD.m3u8?user=sgls76551&session=2cd3b5d0ef8c2c639123b48662f7e6714432b56eaf59331814c1ca6a526d62c1759da44f728a1efa&hlsid=HTTP_ID_80&group_id=76551
-
+#EXT-X-STREAM-INF:BANDWIDTH=900000,RESOLUTION=1920x1088,CODECS="avc1.640028,mp4a.40.2"
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300923.png", Tapesh America
 https://glwizhstb46.glwiz.com/TapeshAmerica_HD.m3u8?user=sgls76551&session=2cd3b5d0ef8c2c639123b48662f7e6714432b56eaf59331814c1ca6a526d62c1759da44f728a1efa&hlsid=HTTP_ID_80&group_id=76551
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307513.png", Channel One
