@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:1, 00 IRAN SHAY
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0
 https://glwizhstb49.glwiz.com/T2International_HD.m3u8?user=sgls76551&session=0032ac4c09e26d7251a74a549c956c044432b56eaf59331814c1ca6a526d62c1759da44f728a1efa&group_id=76551
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",01 IRIB 1
