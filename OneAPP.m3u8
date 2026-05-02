@@ -1,0 +1,270 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian (720p)
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="News",Iran International (1080p)
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/TmqComb.png" group-title="News",VOA Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/YteKXJy.png" group-title="Music",Navahang TV (720p)
+https://hls.navahang.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Music",PMC (1080p)
+https://ca-rt.onetv.app:8443/PMCMusic/index-0.m3u8?token=onetv202
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Avang TV (720p)
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:0, Radio Javan 
+https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
+#EXTINF:0, 4U 
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:0, ITN
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:0, ITN
+https://ca-rt.onetv.app:8443/ITN/index-0.m3u8?token=onetv202
+
+#EXTINF:0, Iran Independent
+https://ca-rt.onetv.app/hls/iranindtv/index.m3u8?token=onetv202
+#EXTINF:0, T2 America
+https://ca-rt.onetv.app/T2America/index-0.m3u8?token=onetv202
+#EXTINF:0, T2 International
+https://ca-rt.onetv.app/T2International/index-0.m3u8?token=onetv202
+#EXTINF:0, Radio Farda
+https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist_0576.m3u8
+#EXTINF:0, TIN TV
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
+#EXTINF:0, OXIR TV
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:0, MBC Persia
+https://hls.mbcpersia.live/hls/stream.m3u8
+#EXTINF:0, AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:0, AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:0, Persiana One
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:0, Persiana HD
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:0, Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:0, Persiana Sonnati
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:0, Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:0, Persiana Rap
+https://raphls.persiana.live/hls/stream.m3u8
+
+#EXTINF:0, Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+
+#EXTINF:0, Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:0, Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:0, Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:0, Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:0, Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:0, Persiana Science
+https://scihls.persiana.live/hls/stream.m3u8
+
+#EXTINF:0, Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:0, Persiana Two
+https://twohls.persiana.live/hls/stream.m3u8
+
+
+#EXTINF:0, Persiana Latino
+https://latinohls.persiana.live/hls/stream.m3u8
+
+#EXTINF:0, Didaniha TV
+https://932y493eljv8-hls-live.5centscdn.com/didiptv3/aniha3.stream/playlist.m3u8
+
+#EXTINF:0, Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+
+#EXTINF:0, ITC TV
+https://stream.castr.com/6762194902ac17bd275d775c/live_4f894a10bcd811efba81b178a13fa3de/index.m3u8
+
+#EXTINF:0, Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+
+#EXTINF:0, Afra Series
+https://afrashls.wns.live/hls/stream.m3u8
+
+#EXTINF:0, MTC
+https://mtchls.wns.live/hls/stream.m3u8
+
+#EXTINF:0, Khane Honarmandan
+https://ca-rt.onetv.app/Khanehonarmandan/index-0.m3u8?token=onetv202
+
+#EXTINF:0, FX Movies
+https://fxtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:0, FX Cartoon
+https://toonixhls.wns.live/hls/stream.m3u8
+
+#EXTINF:0, FX Series
+https://ca-rt.onetv.app:8443/fx3tv/index-0.m3u8?token=onetv202
+
+#EXTINF:0, ICC+ TV
+https://icchls.wns.live/hls/stream.m3u8
+
+#EXTINF:0, 247 TV BOX
+https://hls.247box.live/hls/stream.m3u8
+
+
+#EXTINF:0, SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:0, SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+
+#EXTINF:0, Meta Film
+https://metafilmhls.wns.live/hls/stream.m3u8
+
+#EXTINF:0, Today TV
+https://todayhls.wns.live/hls/stream.m3u8
+
+#EXTINF:0, T2 Movies
+https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
+
+#EXTINF:0, Grand Cinema
+
+https://gcinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:0, Ekran Movies
+https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
+
+#EXTINF:0, Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+#EXTINF:0, Cafe Trade
+https://cafetradehls.wns.live/hls/stream.m3u8
+
+#EXTINF:0, TM TV
+https://hls.tmtv.live/hls/stream.m3u8
+
+
+
+#EXTINF:O, Iran Antarnational
+https://northtelecom.b-cdn.net/channel_1.m3u8
+#EXTINF:O, Abalfadhl1
+https://northtelecom.b-cdn.net/channel_2.m3u8
+#EXTINF:O, Hod Hod
+https://northtelecom.b-cdn.net/channel_3.m3u8
+
+#EXTINF:O, Mohabbat TV
+https://northtelecom.b-cdn.net/channel_5.m3u8
+
+
+#EXTINF:O, Kalameh Omid
+https://northtelecom.b-cdn.net/channel_6.m3u8
+#EXTINF:O, Ayeneh TV
+https://northtelecom.b-cdn.net/channel_7.m3u8
+#EXTINF:O, TIN TV
+https://northtelecom.b-cdn.net/channel_9.m3u8
+#EXTINF:O, GEM Food
+https://northtelecom.b-cdn.net/channel_10.m3u8
+
+
+#EXTINF:O, GEM Fit
+https://northtelecom.b-cdn.net/channel_11.m3u8
+
+#EXTINF:O, GEM River
+https://northtelecom.b-cdn.net/channel_13.m3u8
+
+#EXTINF:O, GEM LIFE
+https://northtelecom.b-cdn.net/channel_14.m3u8
+
+#EXTINF:O, GEM Bollywood
+https://northtelecom.b-cdn.net/channel_15.m3u8
+
+#EXTINF:O, GEM Junior
+https://northtelecom.b-cdn.net/channel_19.m3u8
+#EXTINF:O, GEM TV
+https://northtelecom.b-cdn.net/channel_20.m3u8
+#EXTINF:O, GEM Entertainment
+https://northtelecom.b-cdn.net/channel_21.m3u8
+#EXTINF:O, GEM Kids
+https://northtelecom.b-cdn.net/channel_22.m3u8
+
+#EXTINF:O, GEM Sport
+https://northtelecom.b-cdn.net/channel_23.m3u8
+#EXTINF:O, GEM FILM
+https://northtelecom.b-cdn.net/channel_24.m3u8
+#EXTINF:O, GEM Drama
+https://northtelecom.b-cdn.net/channel_25.m3u8
+#EXTINF:O, GEM PIXEL
+https://northtelecom.b-cdn.net/channel_26.m3u8
+
+
+#EXTINF:O, GEM Rubix+
+https://northtelecom.b-cdn.net/channel_28.m3u8
+#EXTINF:O, GEM RIVER+
+https://northtelecom.b-cdn.net/channel_29.m3u8
+
+#EXTINF:O, GEM Series+
+https://northtelecom.b-cdn.net/channel_34.m3u8
+#EXTINF:O, GEM Modern Economy
+https://northtelecom.b-cdn.net/channel_39.m3u8
+
+
+#EXTINF:O, BBC Persian 
+https://northtelecom.b-cdn.net/BBCPERSIA.m3u8
+#EXTINF:O, Jannatul Baqi
+https://northtelecom.b-cdn.net/Jannatul.m3u8
+
+#EXTINF:O, Mi TV
+https://northtelecom.b-cdn.net/MITV.m3u8
+
+#EXTINF:O, Simaye Azadi
+https://northtelecom.b-cdn.net/SimayAzadi.m3u8
+
+
+#EXTINF:O,Abalfadhl tv backup
+https://northtelecom.b-cdn.net/ABALFADHL.m3u8
+
+#EXTINF:O,GEM Rubix
+https://northtelecom.b-cdn.net/channel_12.m3u8
+
+#EXTINF:O,GEM Classic
+https://northtelecom.b-cdn.net/channel_16.m3u8
+
+#EXTINF:O,GEM Series
+https://northtelecom.b-cdn.net/channel_17.m3u8
+
+#EXTINF:O,GEM DRAMA+
+https://northtelecom.b-cdn.net/channel_32.m3u8
+#EXTINF:O,GEM TV+
+https://northtelecom.b-cdn.net/channel_31.m3u8
+
+#EXTINF:O,GEM NATURE 
+https://northtelecom.b-cdn.net/channel_18.m3u8
+
+#EXTINF:O,GEM ONYX
+https://northtelecom.b-cdn.net/channel_27.m3u8
+
+#EXTINF:O,GEM 24B
+https://northtelecom.b-cdn.net/channel_30.m3u8
+
+#EXTINF:O,GEM MIFA
+https://northtelecom.b-cdn.net/channel_35.m3u8
+#EXTINF:O,GEM MIFA+
+https://northtelecom.b-cdn.net/channel_40.m3u8
+#EXTINF:O,GEM MUSIC
+https://northtelecom.b-cdn.net/channel_42.m3u8
+#EXTINF:O,GEM AZ
+https://northtelecom.b-cdn.net/channel_36.m3u8
+#EXTINF:O,GEM Comedy
+https://northtelecom.b-cdn.net/channel_37.m3u8
+#EXTINF:O,GEM Documentary
+https://northtelecom.b-cdn.net/channel_38.m3u8
