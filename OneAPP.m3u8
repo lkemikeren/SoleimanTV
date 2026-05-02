@@ -181,10 +181,7 @@ https://hls.tmtv.live/hls/stream.m3u8
 
 
 
-#EXTINF:O, Iran Antarnational
-https://northtelecom.b-cdn.net/channel_1.m3u8
-#EXTINF:O, Abalfadhl1
-https://northtelecom.b-cdn.net/channel_2.m3u8
+
 #EXTINF:O, Hod Hod
 https://northtelecom.b-cdn.net/channel_3.m3u8
 
@@ -243,9 +240,6 @@ https://northtelecom.b-cdn.net/channel_34.m3u8
 #EXTINF:O, GEM Modern Economy
 https://northtelecom.b-cdn.net/channel_39.m3u8
 
-
-#EXTINF:O, BBC Persian 
-https://northtelecom.b-cdn.net/BBCPERSIA.m3u8
 #EXTINF:O, Jannatul Baqi
 https://northtelecom.b-cdn.net/Jannatul.m3u8
 
