@@ -42,11 +42,11 @@ https://ca-rt.onetv.app:8443/PMCMusic/index-0.m3u8?token=onetv202
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Avang TV (720p)
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:0, Radio Javan 
-https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RJTV.us" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Music",Radio Javan TV (1080p)
+https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:0, 4U 
 https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:0, ITN
+#EXTINF:0 tvg-id="TVITN.ir" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Entertainment",ITN (720p)
 https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:0, ITN
 https://ca-rt.onetv.app:8443/ITN/index-0.m3u8?token=onetv202
@@ -69,70 +69,59 @@ https://hls.mbcpersia.live/hls/stream.m3u8
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:0, AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:0, Persiana One
-https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:0, Persiana HD
-https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:0, Persiana Music
-https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:0, Persiana Sonnati
-https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:0, Persiana Nostalgia
-https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:0, Persiana Rap
-https://raphls.persiana.live/hls/stream.m3u8
 
-#EXTINF:0, Persiana Cinema
+
+
+#EXTINF:0 tvg-id="PersianaCinema.fr" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Movies",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
-
-#EXTINF:0, Persiana Iranian
-https://irhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:0, Persiana Family
-https://familyhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:0, Persiana Comedy
+#EXTINF:0 tvg-id="PersianaComedy.fr" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Comedy",Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:0, Persiana Korea
-https://korhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:0, Persiana Junior
+#EXTINF:0 tvg-id="PersianaFamily.fr" tvg-logo="https://i.imgur.com/lMZsuWi.png" group-title="Movies",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="PersianaHD.fr" tvg-logo="https://i.ibb.co/ZYDqMms/Persiana-HD.png" group-title="Movies",Persiana HD
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="PersianaIranian.fr" tvg-logo="https://i.imgur.com/vqrrpBi.png" group-title="Movies",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="PersianaJunior.fr" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="Animation",Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:0, Persiana Science
+#EXTINF:0 tvg-id="PersianaKorea.fr" tvg-logo="https://i.imgur.com/si2ZnIA.png" group-title="Movies",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="PersianaLatino.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png" group-title="General",Persiana Latino (720p)
+https://latinohls.persiana.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="PersianaMusic.fr" tvg-logo="https://i.imgur.com/SHxxi5I.png" group-title="Music",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="PersianaNostalgia.fr" tvg-logo="https://i.imgur.com/SWO9CKA.png" group-title="Classic;Music",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="Persiana1.fr" tvg-logo="https://i.imgur.com/X1Dv6st.png" group-title="Movies",Persiana One
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="PersianaScience.fr" tvg-logo="https://i.postimg.cc/jd3ck5dw/persiana-science512.png" group-title="Science",Persiana Science
 https://scihls.persiana.live/hls/stream.m3u8
-
-#EXTINF:0, Persiana Turkiye
+#EXTINF:0 tvg-id="PersianaSonnati.fr" tvg-logo="https://i.imgur.com/yqq5PlP.png" group-title="Music",Persiana Sonnati
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="PersianaSports.fr" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-Sports.png" group-title="Sports",Persiana Sport
+https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e.m3u8
+#EXTINF:0 tvg-id="PersianaTurkiye.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png" group-title="Entertainment",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:0, Persiana Two
+#EXTINF:0 tvg-id="PersianaTwo.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-two-fr.png" group-title="General",Persiana Two (720p)
 https://twohls.persiana.live/hls/stream.m3u8
 
-
-#EXTINF:0, Persiana Latino
-https://latinohls.persiana.live/hls/stream.m3u8
 
 #EXTINF:0, Didaniha TV
 https://932y493eljv8-hls-live.5centscdn.com/didiptv3/aniha3.stream/playlist.m3u8
 
-#EXTINF:0, Maah TV
+
+#EXTINF:0 tvg-id="MaahTV.my" tvg-logo="https://i.imgur.com/FkyueH6.png" group-title="Travel",Maah TV (720p) [Not 24/7]
 https://hls.maahtv.live/hls/stream.m3u8
 
-#EXTINF:0, ITC TV
-https://stream.castr.com/6762194902ac17bd275d775c/live_4f894a10bcd811efba81b178a13fa3de/index.m3u8
 
-#EXTINF:0, Afra Film
-https://afrafhls.wns.live/hls/stream.m3u8
 
-#EXTINF:0, Afra Series
-https://afrashls.wns.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="FX1.ir" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-1.png" group-title="Entertainment",FX1 Farsi (720p)
+https://fxtvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:0, MTC
 https://mtchls.wns.live/hls/stream.m3u8
 
-#EXTINF:0, Khane Honarmandan
-https://ca-rt.onetv.app/Khanehonarmandan/index-0.m3u8?token=onetv202
+
 
 #EXTINF:0, FX Movies
 https://fxtvhls.wns.live/hls/stream.m3u8
@@ -158,8 +147,8 @@ https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:0, Meta Film
 https://metafilmhls.wns.live/hls/stream.m3u8
 
-#EXTINF:0, Today TV
-https://todayhls.wns.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="TODAYTV.us" tvg-logo="https://i.ibb.co/v1shhjb/IMG-20230629-125100.jpg" group-title="Culture",Today TV (720p)
+https://glserver1.tamashaland.com/live/mvEGFIb3XPh3iGzqNN55KQ__/master.m3u8
 
 #EXTINF:0, T2 Movies
 https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
@@ -173,8 +162,7 @@ https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
 
 #EXTINF:0, Cafe Film
 https://cafefhls.wns.live/hls/stream.m3u8
-#EXTINF:0, Cafe Trade
-https://cafetradehls.wns.live/hls/stream.m3u8
+
 
 #EXTINF:0, TM TV
 https://hls.tmtv.live/hls/stream.m3u8
