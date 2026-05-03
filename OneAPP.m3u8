@@ -26,6 +26,14 @@ https://live-azd1101.telewebion.ir/ek/tv3/live/playlist.m3u8?isp=NA&city=NA
 https://live-azd1101.telewebion.ir/ek/irinn/live/playlist.m3u8?isp=NA&city=NA
 
 
+#EXTINF:0 tvg-name="Al Jazeera" tvg-logo="https://newsal.online/api/channel_icons/aljazire200_arabi.png" tvg-id="Al Jazeera" group-title="News",0X Al Jazeera
+https://live-hls-web-aje-fa.thehlive.com/AJE/03.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1280px-Russia-today-logo.svg.png",0X RT News
+https://rumble.com/live-hls/33aw1a/playlist_HD.m3u8?
+#EXTINF:0 tvg-name="Press TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTV.ir" group-title="Iran",0X Press TV
+https://live.presstv.ir/hls/presstv_HD.m3u8
+
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian (720p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 
@@ -115,7 +123,7 @@ https://hls.maahtv.live/hls/stream.m3u8
 
 
 
-#EXTINF:0 tvg-id="FX1.ir" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-1.png" group-title="Entertainment",FX1 Farsi (720p)
+#EXTINF:0 tvg-id="FX1.ir" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-1.png" group-title="Entertainment",FX1 Movies (720p)
 https://fxtvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:0, MTC
@@ -123,14 +131,12 @@ https://mtchls.wns.live/hls/stream.m3u8
 
 
 
-#EXTINF:0, FX Movies
-https://fxtvhls.wns.live/hls/stream.m3u8
+
 
 #EXTINF:0, FX Cartoon
 https://toonixhls.wns.live/hls/stream.m3u8
 
-#EXTINF:0, FX Series
-https://ca-rt.onetv.app:8443/fx3tv/index-0.m3u8?token=onetv202
+
 
 #EXTINF:0, ICC+ TV
 https://icchls.wns.live/hls/stream.m3u8
@@ -153,12 +159,15 @@ https://glserver1.tamashaland.com/live/mvEGFIb3XPh3iGzqNN55KQ__/master.m3u8
 #EXTINF:0, T2 Movies
 https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
 
-#EXTINF:0, Grand Cinema
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307226.png", Grand Cinema
 
 https://gcinemahls.wns.live/hls/stream.m3u8
 
-#EXTINF:0, Ekran Movies
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306374.png", Ekran Movies
 https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
+
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306828.png", Ekran Kids
+https://glserver1.tamashaland.com/live/cwtcOJuu1h_DM23ijpoUQA__/master.m3u8
 
 #EXTINF:0, Cafe Film
 https://cafefhls.wns.live/hls/stream.m3u8
@@ -234,11 +243,11 @@ https://northtelecom.b-cdn.net/Jannatul.m3u8
 #EXTINF:O, Mi TV
 https://northtelecom.b-cdn.net/MITV.m3u8
 
-#EXTINF:O, Simaye Azadi
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307554.png", Simaye Azadi
 https://northtelecom.b-cdn.net/SimayAzadi.m3u8
 
 
-#EXTINF:O,Abalfadhl tv backup
+#EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV (720p)
 https://northtelecom.b-cdn.net/ABALFADHL.m3u8
 
 #EXTINF:O,GEM Rubix
