@@ -2,13 +2,13 @@
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",ZZ IRIB 1
 
-https://gg.hls2.xyz/live2/irib-tv1-logo/playlist_HD.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
+https://gg.hls2.xyz/live2/irib-tv1-logo/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",ZZ IRIB 2
 
-https://gg.hls2.xyz/live2/irib-tv2-logo/playlist_HD.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
+https://gg.hls2.xyz/live2/irib-tv2-logo/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",ZZ IRIB 3
 
-https://gg.hls2.xyz/live2/tv3-logo/playlist_HD.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
+https://gg.hls2.xyz/live2/tv3-logo/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",ZZ IRIB Khabar
 
 https://gg.hls2.xyz/live2/irib-khabar-logo/playlist_HD.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
@@ -17,13 +17,13 @@ https://ca-rt.onetv.app/khabar/index-0_HD.m3u8?token=onetv202
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",00 IRIB 1
-https://live-azd1101.telewebion.ir/ek/tv1/live/playlist_HD.m3u8?isp=NA&city=NA
+https://live-azd1101.telewebion.ir/ek/tv1/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",00 IRIB 2
-https://live-azd1101.telewebion.ir/ek/tv2/live/playlist_HD.m3u8?isp=NA&city=NA
+https://live-azd1101.telewebion.ir/ek/tv2/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",00 IRIB 3
-https://live-azd1101.telewebion.ir/ek/tv3/live/playlist_HD.m3u8?isp=NA&city=NA
+https://live-azd1101.telewebion.ir/ek/tv3/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",00 IRIB Khabar
-https://live-azd1101.telewebion.ir/ek/irinn/live/playlist_HD.m3u8?isp=NA&city=NA
+https://live-azd1101.telewebion.ir/ek/irinn/live/playlist.m3u8?isp=NA&city=NA
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian (720p)
