@@ -13,7 +13,7 @@ https://gg.hls2.xyz/live2/tv3-logo/playlist.m3u8|Referer=https://www.aparatchi.c
 
 https://gg.hls2.xyz/live2/irib-khabar-logo/playlist_HD.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",ZZ IRIB Khabar backup
-https://ca-rt.onetv.app/khabar/index-0_HD.m3u8?token=onetv202
+https://ca-rt.onetv.app/khabar/index-0.m3u8?token=onetv202
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",00 IRIB 1
