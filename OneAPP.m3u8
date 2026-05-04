@@ -119,7 +119,7 @@ https://932y493eljv8-hls-live.5centscdn.com/didiptv3/aniha3.stream/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="MaahTV.my" tvg-logo="https://i.imgur.com/FkyueH6.png" group-title="Travel",Maah TV (720p) [Not 24/7]
-https://hls.maahtv.live/hls/stream.m3u8
+#https://hls.maahtv.live/hls/stream.m3u8
 
 
 
