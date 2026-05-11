@@ -57,7 +57,7 @@ https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="TVITN.ir" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Entertainment",ITN (720p)
 https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:0, ITN
-https://ca-rt.onetv.app:8443/ITN/index-0.m3u8?token=onetv202
+#https://ca-rt.onetv.app:8443/ITN/index-0.m3u8?token=onetv202
 
 #EXTINF:0, Iran Independent
 https://ca-rt.onetv.app/hls/iranindtv/index.m3u8?token=onetv202
@@ -273,7 +273,7 @@ https://northtelecom.b-cdn.net/ONYXHD.m3u8
 #EXTINF:O,GEM 24B
 https://northtelecom.b-cdn.net/24BHD.m3u8
 #EXTINF:1, BBC Backup
-https://northtelecom.b-cdn.net/BBCPERSIA.m3u8
+#https://northtelecom.b-cdn.net/BBCPERSIA.m3u8
 
 #EXTINF:O,GEM MIFA
 https://northtelecom.b-cdn.net/MIFAMUSICHD.m3u8
