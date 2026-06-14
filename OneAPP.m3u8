@@ -13,11 +13,14 @@ https://gg.hls2.xyz/live2/irib-khabar/playlist.m3u8|Referer=https://www.aparatch
 https://ca-rt.onetv.app/IRINN/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",ZZ IRIB Khabar backup **
 #EXTINF:0 tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/shabakeh-yek.svg",ZZZ IRIB 1 *
-https://ca-rt.onetv.app:8443/IRIBChannel1/index-0.m3u8?token=onetv202
+https://ca-rt.onetv.app:8443/IRIBChannel1/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 #EXTINF:0 tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/shabakeh-yek.svg",ZZZ IRIB 2 *
-https://ca-rt.onetv.app:8443/IRIBChannel2/index-0.m3u8?token=onetv202
+https://ca-rt.onetv.app:8443/IRIBChannel2/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 #EXTINF:0 tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/shabakeh-yek.svg",ZZZ IRIB 3 *
-https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202
+https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
+#EXTINF:0 tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/shabakeh-yek.svg",XY IRIB 3 *
+https://edge22.776740.ir.cdn.ir/hls2/tv3.m3u8
+
 https://ca-rt.onetv.app/khabar/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",00 IRIB 1
 https://live-aburayhan1102.telewebion.ir/ek/tv1/live/playlist.m3u8?isp=NA&city=NA
