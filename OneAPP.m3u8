@@ -49,7 +49,7 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 https://hls.navahang.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Music",PMC Music (1080p)
-https://10g.vitarani.com/live/G3WICIjinmHWzrCDE4hxdQ__/master.m3u8|Referer=https://salmal1000.com/|origin=https://salmal1000.com
+https://ca-rt.onetv.app:8443/PMCMusic/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Avang TV (720p)
 https://hls.avang.live/hls/stream.m3u8
@@ -62,12 +62,12 @@ https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:0, ITN
 #https://ca-rt.onetv.app:8443/ITN/index-0.m3u8?token=onetv202
 
-# #EXTINF:0, Iran Independent
-#https://ca-rt.onetv.app/hls/iranindtv/index.m3u8?token=onetv202
-# #EXTINF:0, T2 America
-#https://ca-rt.onetv.app/T2America/index-0.m3u8?token=onetv202
-# #EXTINF:0, T2 International
-#https://ca-rt.onetv.app/T2International/index-0.m3u8?token=onetv202
+#EXTINF:0, Iran Independent
+https://ca-rt.onetv.app/hls/iranindtv/index.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
+#EXTINF:0, T2 America
+https://ca-rt.onetv.app/T2America/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
+#EXTINF:0, T2 International
+https://ca-rt.onetv.app/T2International/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 #EXTINF:0, Radio Farda
 https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist_0576.m3u8
 #EXTINF:0, TIN TV
@@ -121,8 +121,8 @@ https://turkhls.persiana.live/hls/stream.m3u8
 https://932y493eljv8-hls-live.5centscdn.com/didiptv3/aniha3.stream/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="MaahTV.my" tvg-logo="https://i.imgur.com/FkyueH6.png" group-title="Travel",Maah TV (720p) [Not 24/7]
-#https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="MaahTV.my" tvg-logo="https://i.imgur.com/FkyueH6.png" group-title="Travel",Maah TV 
+https://northtelecom.b-cdn.net/MaahTV.m3u8
 
 
 
@@ -159,15 +159,15 @@ https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="TODAYTV.us" tvg-logo="https://i.ibb.co/v1shhjb/IMG-20230629-125100.jpg" group-title="Culture",Today TV (720p)
 https://glserver1.tamashaland.com/live/mvEGFIb3XPh3iGzqNN55KQ__/master.m3u8
 
-# #EXTINF:0, T2 Movies
-#https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
+#EXTINF:0, T2 Movies
+https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307226.png", Grand Cinema
 
 https://gcinemahls.wns.live/hls/stream.m3u8
 
 # #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306374.png", Ekran Movies
-#https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
+https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306828.png", Ekran Kids
 https://glserver1.tamashaland.com/live/cwtcOJuu1h_DM23ijpoUQA__/master.m3u8
@@ -183,7 +183,7 @@ https://hls.tmtv.live/hls/stream.m3u8
 
 
 #EXTINF:O, Hod Hod
-#https://northtelecom.b-cdn.net/HodHod.m3u8
+https://northtelecom.b-cdn.net/hodhodtv.m3u8
 
 #EXTINF:O, Mohabbat TV
 https://northtelecom.b-cdn.net/Mohabat.m3u8
@@ -290,3 +290,32 @@ https://northtelecom.b-cdn.net/GEMAZ.m3u8
 https://northtelecom.b-cdn.net/GEMCOMEDY.m3u8
 #EXTINF:O,GEM Documentary
 https://northtelecom.b-cdn.net/GEMDOCUMENTARYHD.m3u8
+
+#EXTINF:0, 0X DR1 Denmark
+https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
+#EXTINF:0, 0X DR2 Denmark
+https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8
+#EXTINF:0, 0X DR1 Denmark BACKUP
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:0, Afra Film
+https://northtelecom.b-cdn.net/AfraFilmTV.m3u8
+
+#EXTINF:0, Radis
+https://northtelecom.b-cdn.net/radis.m3u8
+
+#EXTINF:0, Lux TV
+https://northtelecom.b-cdn.net/luxtv.m3u8
+
+#EXTINF:0, City TV
+https://northtelecom.b-cdn.net/citytv.m3u8
+
+#EXTINF:0, Grand Cinema
+https://northtelecom.b-cdn.net/GrandCinema.m3u8
+#EXTINF:0, Grand Series
+https://northtelecom.b-cdn.net/GrandSeries.m3u8
+#EXTINF:0, Grand Sport
+https://northtelecom.b-cdn.net/GrandSport.m3u8
+#EXTINF:0, Grand Toon
+https://northtelecom.b-cdn.net/GrandToon.m3u8
+#EXTINF:0, Grand TV
+https://northtelecom.b-cdn.net/GrandTV.m3u8
