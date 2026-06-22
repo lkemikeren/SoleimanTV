@@ -48,8 +48,8 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/YteKXJy.png" group-title="Music",Navahang TV (720p)
 https://hls.navahang.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Music",PMC (1080p)
-https://ca-rt.onetv.app:8443/PMCMusic/index-0.m3u8?token=onetv202
+#EXTINF:0 tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Music",PMC Music (1080p)
+https://ca-rt.onetv.app:8443/PMCMusic/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Avang TV (720p)
 https://hls.avang.live/hls/stream.m3u8
