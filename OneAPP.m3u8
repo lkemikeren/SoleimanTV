@@ -62,11 +62,11 @@ https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:0, ITN
 #https://ca-rt.onetv.app:8443/ITN/index-0.m3u8?token=onetv202
 
-##EXTINF:0, Iran Independent
+# #EXTINF:0, Iran Independent
 https://ca-rt.onetv.app/hls/iranindtv/index.m3u8?token=onetv202
-##EXTINF:0, T2 America
+# #EXTINF:0, T2 America
 https://ca-rt.onetv.app/T2America/index-0.m3u8?token=onetv202
-##EXTINF:0, T2 International
+# #EXTINF:0, T2 International
 https://ca-rt.onetv.app/T2International/index-0.m3u8?token=onetv202
 #EXTINF:0, Radio Farda
 https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist_0576.m3u8
@@ -166,7 +166,7 @@ https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
 
 https://gcinemahls.wns.live/hls/stream.m3u8
 
-##EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306374.png", Ekran Movies
+# #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306374.png", Ekran Movies
 https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
 
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306828.png", Ekran Kids
@@ -189,7 +189,7 @@ https://northtelecom.b-cdn.net/HodHod.m3u8
 https://northtelecom.b-cdn.net/Mohabat.m3u8
 
 
-##EXTINF:O, Kalameh Omid
+# #EXTINF:O, Kalameh Omid
 https://northtelecom.b-cdn.net/channel_6.m3u8
 #EXTINF:O, Ayeneh TV
 https://northtelecom.b-cdn.net/channel_7.m3u8
