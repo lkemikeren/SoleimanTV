@@ -49,7 +49,7 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 https://hls.navahang.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Music",PMC Music (1080p)
-https://ca-rt.onetv.app:8443/PMCMusic/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
+https://pmchls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Avang TV (720p)
 https://hls.avang.live/hls/stream.m3u8
@@ -183,7 +183,7 @@ https://hls.tmtv.live/hls/stream.m3u8
 
 
 #EXTINF:O, Hod Hod
-#https://northtelecom.b-cdn.net/hodhodtv.m3u8
+#https://northtelecom.b-cdn.net/hodhodtv/Video.m3u8
 
 #EXTINF:O, Mohabbat TV
 https://northtelecom.b-cdn.net/Mohabat.m3u8
@@ -196,7 +196,7 @@ https://northtelecom.b-cdn.net/channel_7.m3u8
 #EXTINF:O, TIN TV
 https://northtelecom.b-cdn.net/channel_9.m3u8
 #EXTINF:O, GEM Food
-https://northtelecom.b-cdn.net/GEMFOOD.m3u8|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
+https://northtelecom.b-cdn.net/GEMFOOD/Video.m3u8|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 
 
 #EXTINF:O, GEM Fit
@@ -297,7 +297,7 @@ https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8
 #EXTINF:0, 0X DR1 Denmark NEWS
 https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
 #EXTINF:0, Afra Film
-https://northtelecom.b-cdn.net/AfraFilmTV.m3u8
+https://afrafhls.wns.live/hls/stream.m3u8
 
 #EXTINF:0, Radis
 https://northtelecom.b-cdn.net/radis.m3u8
@@ -318,3 +318,14 @@ https://northtelecom.b-cdn.net/GrandSport.m3u8
 https://northtelecom.b-cdn.net/GrandToon.m3u8
 #EXTINF:0, Grand TV
 https://northtelecom.b-cdn.net/GrandTV.m3u8
+
+#EXTINF:-1 tvg-id="AraxTV.ir@SD",Arax TV
+https://araxhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ArkoTV.ir@SD",Arko TV
+https://arkhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ArvanTV.ir@SD",Arvan TV
+https://arvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ClassicTV.ir@SD",Classic TV
+https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DatisTV.ir@SD",Datis TV
+https://dathls.wns.live/hls/stream.m3u8
