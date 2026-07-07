@@ -183,7 +183,7 @@ https://hls.tmtv.live/hls/stream.m3u8
 
 
 #EXTINF:O, Hod Hod
-#https://northtelecom.b-cdn.net/hodhodtv/Video.m3u8
+#https://northtelecom.b-cdn.net/hodhodtv.m3u8
 
 #EXTINF:O, Mohabbat TV
 https://northtelecom.b-cdn.net/Mohabat.m3u8
@@ -251,7 +251,7 @@ https://northtelecom.b-cdn.net/SimayAzadi.m3u8
 
 
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV (720p)
-https://northtelecom.b-cdn.net/ABALFADHL/Video.m3u8
+https://northtelecom.b-cdn.net/ABALFADHL.m3u8?fbclid=PAZnRzaARmwQxleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafhuHVrIcOQ_BeYE_DC1i0XuCyPFSicOx3PD07_YZutOg_BsQmSir6oy6V_iQ_aem_nCJYgOvnOmo3mO1zB_FMuw&brid=YWdncwHNNow7iTN75n8pv5Yv2l5V
 #EXTINF:O,GEM Rubix
 https://northtelecom.b-cdn.net/RUBIX.m3u8
 
