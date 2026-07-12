@@ -31,8 +31,8 @@ https://live-aburayhan1102.telewebion.ir/ek/irinn/live/playlist.m3u8?isp=NA&city
 
 
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV (720p)
-#EXTVLCOPT:http-origin=https://abalfadhl.tv
-#EXTVLCOPT:http-referer=https://abalfadhl.tv/
+#EXTVLCOPT:http-origin=https://abalfadhl.tv/live
+#EXTVLCOPT:http-referer=https://abalfadhl.tv/live/
 https://northtelecom.b-cdn.net/ABALFADHL.m3u8?fbclid=PAZnRzaARmwQxleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafhuHVrIcOQ_BeYE_DC1i0XuCyPFSicOx3PD07_YZutOg_BsQmSir6oy6V_iQ_aem_nCJYgOvnOmo3mO1zB_FMuw&brid=YWdncwHNNow7iTN75n8pv5Yv2l5V
 
 #EXTINF:0 tvg-name="Al Jazeera" tvg-logo="https://newsal.online/api/channel_icons/aljazire200_arabi.png" tvg-id="Al Jazeera" group-title="News",0X Al Jazeera
