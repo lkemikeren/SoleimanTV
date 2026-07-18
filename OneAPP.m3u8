@@ -24,7 +24,7 @@ https://live-aburayhan1102.telewebion.ir/ek/tv1/live/playlist.m3u8?isp=NA&city=N
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",0A IRIB 2
 https://live-aburayhan1102.telewebion.ir/ek/tv2/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",0A IRIB 3 جدید
-https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
+https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",0A IRIB Khabar
 https://live-aburayhan1102.telewebion.ir/ek/irinn/live/playlist.m3u8?isp=NA&city=NA
 
@@ -128,7 +128,7 @@ https://932y493eljv8-hls-live.5centscdn.com/didiptv3/aniha3.stream/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="MaahTV.my" tvg-logo="https://i.imgur.com/FkyueH6.png" group-title="Travel",Maah TV 
-https://northtelecom.b-cdn.net/MaahTV.m3u8
+#https://northtelecom.b-cdn.net/MaahTV.m3u8
 
 
 
@@ -192,108 +192,108 @@ https://hls.tmtv.live/hls/stream.m3u8
 #https://northtelecom.b-cdn.net/hodhodtv.m3u8?format=ts
 
 #EXTINF:O, Mohabbat TV
-https://northtelecom.b-cdn.net/Mohabat.m3u8?format=ts
+#https://northtelecom.b-cdn.net/Mohabat.m3u8?format=ts
 
 
 # #EXTINF:O, Kalameh Omid
 #https://northtelecom.b-cdn.net/channel_6.m3u8?format=ts
 #EXTINF:O, Ayeneh TV
-https://northtelecom.b-cdn.net/channel_7.m3u8?format=ts
+#https://northtelecom.b-cdn.net/channel_7.m3u8?format=ts
 #EXTINF:O, TIN TV
-https://northtelecom.b-cdn.net/channel_9.m3u8?format=ts
+#https://northtelecom.b-cdn.net/channel_9.m3u8?format=ts
 #EXTINF:O, GEM Food
-https://northtelecom.b-cdn.net/GEMFOOD/Video.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMFOOD/Video.m3u8?format=ts
 
 
 #EXTINF:O, GEM Fit
-https://northtelecom.b-cdn.net/GEMFIT.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMFIT.m3u8?format=ts
 
 #EXTINF:O, GEM River
-https://northtelecom.b-cdn.net/RIVER.m3u8?format=ts
+#https://northtelecom.b-cdn.net/RIVER.m3u8?format=ts
 
 #EXTINF:O, GEM LIFE
-https://northtelecom.b-cdn.net/GEMLIFESD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMLIFESD.m3u8?format=ts
 
 #EXTINF:O, GEM Bollywood
-https://northtelecom.b-cdn.net/GEMBOLLYWOOD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMBOLLYWOOD.m3u8?format=ts
 
 #EXTINF:O, GEM Junior
-https://northtelecom.b-cdn.net/GEMJUNIOR.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMJUNIOR.m3u8?format=ts
 #EXTINF:O, GEM TV
-https://northtelecom.b-cdn.net/GEMTV.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMTV.m3u8?format=ts
 #EXTINF:O, GEM Entertainment
-https://northtelecom.b-cdn.net/GEMENTERTAINMENTSD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMENTERTAINMENTSD.m3u8?format=ts
 #EXTINF:O, GEM Kids
-https://northtelecom.b-cdn.net/GEMKIDS.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMKIDS.m3u8?format=ts
 
 #EXTINF:O, GEM Sport
-https://northtelecom.b-cdn.net/GEMSPORTHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMSPORTHD.m3u8?format=ts
 #EXTINF:O, GEM FILM
-https://northtelecom.b-cdn.net/GEMFILM.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMFILM.m3u8?format=ts
 #EXTINF:O, GEM Drama
-https://northtelecom.b-cdn.net/GEMDRAMA.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMDRAMA.m3u8?format=ts
 #EXTINF:O, GEM PIXEL
-https://northtelecom.b-cdn.net/GEMPIXEL.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMPIXEL.m3u8?format=ts
 
 
 #EXTINF:O, GEM Rubix+
-https://northtelecom.b-cdn.net/RUBIX%2BHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/RUBIX%2BHD.m3u8?format=ts
 #EXTINF:O, GEM RIVER+
-https://northtelecom.b-cdn.net/RIVER%2BHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/RIVER%2BHD.m3u8?format=ts
 
 #EXTINF:O, GEM Series+
-https://northtelecom.b-cdn.net/GEMSERIES%2BHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMSERIES%2BHD.m3u8?format=ts
 #EXTINF:O, GEM Modern Economy
-https://northtelecom.b-cdn.net/MODERNECONOMY.m3u8?format=ts
+#https://northtelecom.b-cdn.net/MODERNECONOMY.m3u8?format=ts
 
 #EXTINF:O, Jannatul Baqi
-https://northtelecom.b-cdn.net/Jannatul.m3u8?format=ts
+#https://northtelecom.b-cdn.net/Jannatul.m3u8?format=ts
 
 #EXTINF:O, Mi TV
-https://northtelecom.b-cdn.net/MITV.m3u8?format=ts
+#https://northtelecom.b-cdn.net/MITV.m3u8?format=ts
 
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307554.png", Simaye Azadi
-https://northtelecom.b-cdn.net/SimayAzadi.m3u8?format=ts
+#https://northtelecom.b-cdn.net/SimayAzadi.m3u8?format=ts
 
 
 
 #EXTINF:O,GEM Rubix
-https://northtelecom.b-cdn.net/RUBIX.m3u8?format=ts
+#https://northtelecom.b-cdn.net/RUBIX.m3u8?format=ts
 
 #EXTINF:O,GEM Classic
-https://northtelecom.b-cdn.net/GEMCLASSIC.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMCLASSIC.m3u8?format=ts
 
 #EXTINF:O,GEM Series
-https://northtelecom.b-cdn.net/GEMSERIES.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMSERIES.m3u8?format=ts
 
 #EXTINF:O,GEM DRAMA+
-https://northtelecom.b-cdn.net/GEMDRAMA%2BHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMDRAMA%2BHD.m3u8?format=ts
 #EXTINF:O,GEM TV+
-https://northtelecom.b-cdn.net/GEMTV%2BHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMTV%2BHD.m3u8?format=ts
 
 #EXTINF:O,GEM NATURE 
-https://northtelecom.b-cdn.net/GEMNATURESD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMNATURESD.m3u8?format=ts
 
 #EXTINF:O,GEM ONYX
-https://northtelecom.b-cdn.net/ONYXHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/ONYXHD.m3u8?format=ts
 
 #EXTINF:O,GEM 24B
-https://northtelecom.b-cdn.net/24BHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/24BHD.m3u8?format=ts
 #EXTINF:1, BBC Backup
 #https://northtelecom.b-cdn.net/BBCPERSIA.m3u8?format=ts
 
 #EXTINF:O,GEM MIFA
-https://northtelecom.b-cdn.net/MIFAMUSICHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/MIFAMUSICHD.m3u8?format=ts
 #EXTINF:O,GEM MIFA+
-https://northtelecom.b-cdn.net/GEMMIFA%2BHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMMIFA%2BHD.m3u8?format=ts
 #EXTINF:O,GEM MUSIC
-https://northtelecom.b-cdn.net/GEMMUSIC.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMMUSIC.m3u8?format=ts
 #EXTINF:O,GEM AZ
-https://northtelecom.b-cdn.net/GEMAZ.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMAZ.m3u8?format=ts
 #EXTINF:O,GEM Comedy
-https://northtelecom.b-cdn.net/GEMCOMEDY.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMCOMEDY.m3u8?format=ts
 #EXTINF:O,GEM Documentary
-https://northtelecom.b-cdn.net/GEMDOCUMENTARYHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMDOCUMENTARYHD.m3u8?format=ts
 
 #EXTINF:0, 0X DR1 Denmark FIFA
 https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
@@ -305,24 +305,24 @@ https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
 https://afrafhls.wns.live/hls/stream.m3u8
 
 #EXTINF:0, Radis
-https://northtelecom.b-cdn.net/radis.m3u8?format=ts
+#https://northtelecom.b-cdn.net/radis.m3u8?format=ts
 
 #EXTINF:0, Lux TV
-https://northtelecom.b-cdn.net/luxtv.m3u8?format=ts
+#https://northtelecom.b-cdn.net/luxtv.m3u8?format=ts
 
 #EXTINF:0, City TV
 #https://northtelecom.b-cdn.net/citytv.m3u8?format=ts
 
 #EXTINF:0, Grand Cinema
-https://northtelecom.b-cdn.net/GrandCinema.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GrandCinema.m3u8?format=ts
 #EXTINF:0, Grand Series
-https://northtelecom.b-cdn.net/GrandSeries.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GrandSeries.m3u8?format=ts
 #EXTINF:0, Grand Sport
-https://northtelecom.b-cdn.net/GrandSport.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GrandSport.m3u8?format=ts
 #EXTINF:0, Grand Toon
-https://northtelecom.b-cdn.net/GrandToon.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GrandToon.m3u8?format=ts
 #EXTINF:0, Grand TV
-https://northtelecom.b-cdn.net/GrandTV.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GrandTV.m3u8?format=ts
 
 #EXTINF:-1 tvg-id="AraxTV.ir@SD",Arax TV
 https://araxhls.wns.live/hls/stream.m3u8
