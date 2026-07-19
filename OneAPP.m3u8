@@ -278,7 +278,7 @@ https://hls.tmtv.live/hls/stream.m3u8?format=ts&
 #https://northtelecom.b-cdn.net/ONYXHD.m3u8?format=ts&format=ts
 
 #EXTINF:O,GEM 24B
-#https://northtelecom.b-cdn.net/24BHD.m3u8?format=ts&format=ts
+https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 #EXTINF:1, BBC Backup
 #https://northtelecom.b-cdn.net/BBCPERSIA.m3u8?format=ts&format=ts
 
