@@ -1,485 +1,485 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/shabakeh-yek.svg",ZZ IRIB 1 *
-https://gg.hls2.xyz/live2/irib-tv1/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
+https://gg.hls2.xyz/live2/irib-tv1/playlist.m3u8?format=ts&|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
 #EXTINF:0 tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/irib-tv2.svg",ZZ IRIB 2 *
-https://gg.hls2.xyz/live2/irib-tv2/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
+https://gg.hls2.xyz/live2/irib-tv2/playlist.m3u8?format=ts&|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
 #EXTINF:0 tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/irib-tv3.svg",ZZ IRIB 3 *
-https://gg.hls2.xyz/live2/tv3/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
+https://gg.hls2.xyz/live2/tv3/playlist.m3u8?format=ts&|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
 #EXTINF:0 tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/irib-irinn.svg",ZZ IRIB Khabar *
 
-https://gg.hls2.xyz/live2/irib-khabar/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
+https://gg.hls2.xyz/live2/irib-khabar/playlist.m3u8?format=ts&|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",ZZ IRIB Khabar backup *
-https://ca-rt.onetv.app/IRINN/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
+https://ca-rt.onetv.app/IRINN/index-0.m3u8?format=ts&?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",ZZ IRIB Khabar backup **
 
 #EXTINF:0 tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/shabakeh-yek.svg",ZZZ IRIB 3 *
-https://live-aburayhan1102.telewebion.ir/ek/tv3/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1102.telewebion.ir/ek/tv3/live/playlist.m3u8?format=ts&?isp=NA&city=NA
 #EXTINF:0 tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/shabakeh-yek.svg",ZZZ IRIB 3 HD *
-https://edge22.776740.ir.cdn.ir/hls2/tv3.m3u8
+https://edge22.776740.ir.cdn.ir/hls2/tv3.m3u8?format=ts&
 
-https://ca-rt.onetv.app/khabar/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
+https://ca-rt.onetv.app/khabar/index-0.m3u8?format=ts&?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",0A IRIB 1
-https://live-aburayhan1102.telewebion.ir/ek/tv1/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1102.telewebion.ir/ek/tv1/live/playlist.m3u8?format=ts&?isp=NA&city=NA
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",0A IRIB 2
-https://live-aburayhan1102.telewebion.ir/ek/tv2/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1102.telewebion.ir/ek/tv2/live/playlist.m3u8?format=ts&?isp=NA&city=NA
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",0A IRIB 3 جدید
-https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
+https://ncdn.telewebion.ir/tv3/live/playlist.m3u8?format=ts&
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",0A IRIB Khabar
-https://live-aburayhan1102.telewebion.ir/ek/irinn/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1102.telewebion.ir/ek/irinn/live/playlist.m3u8?format=ts&?isp=NA&city=NA
 
 
 
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV (720p)
 #EXTVLCOPT:http-origin=https://abalfadhl.tv/live
 #EXTVLCOPT:http-referer=https://abalfadhl.tv/live/
-https://northtelecom.b-cdn.net/ABALFADHL.m3u8?fbclid=PAZnRzaARmwQxleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafhuHVrIcOQ_BeYE_DC1i0XuCyPFSicOx3PD07_YZutOg_BsQmSir6oy6V_iQ_aem_nCJYgOvnOmo3mO1zB_FMuw&brid=YWdncwHNNow7iTN75n8pv5Yv2l5V
+https://northtelecom.b-cdn.net/ABALFADHL.m3u8?format=ts&?fbclid=PAZnRzaARmwQxleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafhuHVrIcOQ_BeYE_DC1i0XuCyPFSicOx3PD07_YZutOg_BsQmSir6oy6V_iQ_aem_nCJYgOvnOmo3mO1zB_FMuw&brid=YWdncwHNNow7iTN75n8pv5Yv2l5V
 
 #EXTINF:0 tvg-name="Al Jazeera" tvg-logo="https://newsal.online/api/channel_icons/aljazire200_arabi.png" tvg-id="Al Jazeera" group-title="News",0X Al Jazeera
-https://live-hls-web-aje-fa.thehlive.com/AJE/03.m3u8
+https://live-hls-web-aje-fa.thehlive.com/AJE/03.m3u8?format=ts&
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1280px-Russia-today-logo.svg.png",0X RT News
-https://rumble.com/live-hls/33aw1a/playlist.m3u8?
+https://rumble.com/live-hls/33aw1a/playlist.m3u8?format=ts&?
 #EXTINF:0 tvg-name="Press TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTV.ir" group-title="Iran",0X Press TV
-https://live.presstv.ir/hls/presstv.m3u8
+https://live.presstv.ir/hls/presstv.m3u8?format=ts&
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian (720p)
-https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8?format=ts&
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="News",Iran International (1080p)
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8?format=ts&
 #EXTINF:0 tvg-logo="https://i.imgur.com/TmqComb.png" group-title="News",VOA Persian
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8?format=ts&
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/YteKXJy.png" group-title="Music",Navahang TV (720p)
-https://hls.navahang.live/hls/stream.m3u8
+https://hls.navahang.live/hls/stream.m3u8?format=ts&
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Music",PMC Music (1080p)
-https://pmchls.wns.live/hls/stream.m3u8
+https://pmchls.wns.live/hls/stream.m3u8?format=ts&
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Avang TV (720p)
-https://hls.avang.live/hls/stream.m3u8
+https://hls.avang.live/hls/stream.m3u8?format=ts&
 #EXTINF:0 tvg-id="RJTV.us" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Music",Radio Javan TV (1080p)
-https://rjtvhls.wns.live/hls/stream.m3u8
+https://rjtvhls.wns.live/hls/stream.m3u8?format=ts&
 #EXTINF:0, 4U 
-https://hls.4utv.live/hls/stream.m3u8
+https://hls.4utv.live/hls/stream.m3u8?format=ts&
 #EXTINF:0 tvg-id="TVITN.ir" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Entertainment",ITN (720p)
-https://itnhls.wns.live/hls/stream.m3u8
+https://itnhls.wns.live/hls/stream.m3u8?format=ts&
 #EXTINF:0, ITN
-#https://ca-rt.onetv.app:8443/ITN/index-0.m3u8?token=onetv202
+#https://ca-rt.onetv.app:8443/ITN/index-0.m3u8?format=ts&?token=onetv202
 
 #EXTINF:0, Iran Independent
-#https://ca-rt.onetv.app/hls/iranindtv/index.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
+#https://ca-rt.onetv.app/hls/iranindtv/index.m3u8?format=ts&?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 #EXTINF:0, T2 America
-https://ca-rt.onetv.app/T2America/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
+https://ca-rt.onetv.app/T2America/index-0.m3u8?format=ts&?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 #EXTINF:0, T2 International
-https://ca-rt.onetv.app/T2International/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
+https://ca-rt.onetv.app/T2International/index-0.m3u8?format=ts&?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 #EXTINF:0, Radio Farda
-https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist_0576.m3u8
+https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist_0576.m3u8?format=ts&
 #EXTINF:0, TIN TV
-https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8?format=ts&
 #EXTINF:0, OXIR TV
-https://hls.oxir.live/hls/stream.m3u8
+https://hls.oxir.live/hls/stream.m3u8?format=ts&
 #EXTINF:0, MBC Persia
-https://hls.mbcpersia.live/hls/stream.m3u8
+https://hls.mbcpersia.live/hls/stream.m3u8?format=ts&
 #EXTINF:0, AVA Family
-https://familyhls.avatv.live/hls/stream.m3u8
+https://familyhls.avatv.live/hls/stream.m3u8?format=ts&
 #EXTINF:0, AVA Series
-https://avaserieshls.wns.live/hls/stream.m3u8
+https://avaserieshls.wns.live/hls/stream.m3u8?format=ts&
 
 
 
 #EXTINF:0 tvg-id="PersianaCinema.fr" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Movies",Persiana Cinema
-https://cinehls.persiana.live/hls/stream.m3u8
+https://cinehls.persiana.live/hls/stream.m3u8?format=ts&
 #EXTINF:0 tvg-id="PersianaComedy.fr" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Comedy",Persiana Comedy
-https://comedyhls.persiana.live/hls/stream.m3u8
+https://comedyhls.persiana.live/hls/stream.m3u8?format=ts&
 #EXTINF:0 tvg-id="PersianaFamily.fr" tvg-logo="https://i.imgur.com/lMZsuWi.png" group-title="Movies",Persiana Family
-https://familyhls.persiana.live/hls/stream.m3u8
+https://familyhls.persiana.live/hls/stream.m3u8?format=ts&
 #EXTINF:0 tvg-id="PersianaHD.fr" tvg-logo="https://i.ibb.co/ZYDqMms/Persiana-HD.png" group-title="Movies",Persiana HD
-https://euhls.persiana.live/hls/stream.m3u8
+https://euhls.persiana.live/hls/stream.m3u8?format=ts&
 #EXTINF:0 tvg-id="PersianaIranian.fr" tvg-logo="https://i.imgur.com/vqrrpBi.png" group-title="Movies",Persiana Iranian
-https://irhls.persiana.live/hls/stream.m3u8
+https://irhls.persiana.live/hls/stream.m3u8?format=ts&
 #EXTINF:0 tvg-id="PersianaJunior.fr" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="Animation",Persiana Junior
-https://junhls.persiana.live/hls/stream.m3u8
+https://junhls.persiana.live/hls/stream.m3u8?format=ts&
 #EXTINF:0 tvg-id="PersianaKorea.fr" tvg-logo="https://i.imgur.com/si2ZnIA.png" group-title="Movies",Persiana Korea
-https://korhls.persiana.live/hls/stream.m3u8
+https://korhls.persiana.live/hls/stream.m3u8?format=ts&
 #EXTINF:0 tvg-id="PersianaLatino.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png" group-title="General",Persiana Latino (720p)
-#https://latinohls.persiana.live/hls/stream.m3u8
+#https://latinohls.persiana.live/hls/stream.m3u8?format=ts&
 #EXTINF:0 tvg-id="PersianaMusic.fr" tvg-logo="https://i.imgur.com/SHxxi5I.png" group-title="Music",Persiana Music
-https://musichls.persiana.live/hls/stream.m3u8
+https://musichls.persiana.live/hls/stream.m3u8?format=ts&
 #EXTINF:0 tvg-id="PersianaNostalgia.fr" tvg-logo="https://i.imgur.com/SWO9CKA.png" group-title="Classic;Music",Persiana Nostalgia
-https://noshls.persiana.live/hls/stream.m3u8
+https://noshls.persiana.live/hls/stream.m3u8?format=ts&
 #EXTINF:0 tvg-id="Persiana1.fr" tvg-logo="https://i.imgur.com/X1Dv6st.png" group-title="Movies",Persiana One
-https://onehls.persiana.live/hls/stream.m3u8
+https://onehls.persiana.live/hls/stream.m3u8?format=ts&
 #EXTINF:0 tvg-id="PersianaScience.fr" tvg-logo="https://i.postimg.cc/jd3ck5dw/persiana-science512.png" group-title="Science",Persiana Science
-https://scihls.persiana.live/hls/stream.m3u8
+https://scihls.persiana.live/hls/stream.m3u8?format=ts&
 #EXTINF:0 tvg-id="PersianaSonnati.fr" tvg-logo="https://i.imgur.com/yqq5PlP.png" group-title="Music",Persiana Sonnati
-https://sonhls.persiana.live/hls/stream.m3u8
+https://sonhls.persiana.live/hls/stream.m3u8?format=ts&
 #EXTINF:0 tvg-id="PersianaSports.fr" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-Sports.png" group-title="Sports",Persiana Sport
-#https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e.m3u8
+#https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e.m3u8?format=ts&
 #EXTINF:0 tvg-id="PersianaTurkiye.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png" group-title="Entertainment",Persiana Turkiye
-https://turkhls.persiana.live/hls/stream.m3u8
+https://turkhls.persiana.live/hls/stream.m3u8?format=ts&
 #EXTINF:0 tvg-id="PersianaTwo.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-two-fr.png" group-title="General",Persiana Two (720p)
-#https://twohls.persiana.live/hls/stream.m3u8
+#https://twohls.persiana.live/hls/stream.m3u8?format=ts&
 
 
 #EXTINF:0, Didaniha TV
-https://932y493eljv8-hls-live.5centscdn.com/didiptv3/aniha3.stream/playlist.m3u8
+https://932y493eljv8-hls-live.5centscdn.com/didiptv3/aniha3.stream/playlist.m3u8?format=ts&
 
 
 #EXTINF:0 tvg-id="MaahTV.my" tvg-logo="https://i.imgur.com/FkyueH6.png" group-title="Travel",Maah TV 
-#https://northtelecom.b-cdn.net/MaahTV.m3u8
+#https://northtelecom.b-cdn.net/MaahTV.m3u8?format=ts&
 
 
 
 #EXTINF:0 tvg-id="FX1.ir" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-1.png" group-title="Entertainment",FX1 Movies (720p)
-https://fxtvhls.wns.live/hls/stream.m3u8
+https://fxtvhls.wns.live/hls/stream.m3u8?format=ts&
 
 #EXTINF:0, MTC
-https://mtchls.wns.live/hls/stream.m3u8
+https://mtchls.wns.live/hls/stream.m3u8?format=ts&
 
 
 
 
 
 #EXTINF:0, FX Cartoon
-https://toonixhls.wns.live/hls/stream.m3u8
+https://toonixhls.wns.live/hls/stream.m3u8?format=ts&
 
 
 
 #EXTINF:0, ICC+ TV
-https://icchls.wns.live/hls/stream.m3u8
+https://icchls.wns.live/hls/stream.m3u8?format=ts&
 
 #EXTINF:0, 247 TV BOX
-https://hls.247box.live/hls/stream.m3u8
+https://hls.247box.live/hls/stream.m3u8?format=ts&
 
 
 #EXTINF:0, SL 1
-https://slonehls.wns.live/hls/stream.m3u8
+https://slonehls.wns.live/hls/stream.m3u8?format=ts&
 #EXTINF:0, SL 2
-https://sltwohls.wns.live/hls/stream.m3u8
+https://sltwohls.wns.live/hls/stream.m3u8?format=ts&
 
 #EXTINF:0, Meta Film
-https://metafilmhls.wns.live/hls/stream.m3u8
+https://metafilmhls.wns.live/hls/stream.m3u8?format=ts&
 
 #EXTINF:0 tvg-id="TODAYTV.us" tvg-logo="https://i.ibb.co/v1shhjb/IMG-20230629-125100.jpg" group-title="Culture",Today TV (720p)
-https://glserver1.tamashaland.com/live/mvEGFIb3XPh3iGzqNN55KQ__/master.m3u8
+https://glserver1.tamashaland.com/live/mvEGFIb3XPh3iGzqNN55KQ__/master.m3u8?format=ts&
 
 #EXTINF:0, T2 Movies
-https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
+https://ca-rt.onetv.app/T2Movies/index-0.m3u8?format=ts&?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307226.png", Grand CineX
 
-https://gcinemahls.wns.live/hls/stream.m3u8
+https://gcinemahls.wns.live/hls/stream.m3u8?format=ts&
 
 # #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306374.png", Ekran Movies
-https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
+https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?format=ts&?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306828.png", Ekran Kids
-https://glserver1.tamashaland.com/live/cwtcOJuu1h_DM23ijpoUQA__/master.m3u8
+https://glserver1.tamashaland.com/live/cwtcOJuu1h_DM23ijpoUQA__/master.m3u8?format=ts&
 
 #EXTINF:0, Cafe Film
-https://cafefhls.wns.live/hls/stream.m3u8
+https://cafefhls.wns.live/hls/stream.m3u8?format=ts&
 
 
 #EXTINF:0, TM TV
-https://hls.tmtv.live/hls/stream.m3u8
+https://hls.tmtv.live/hls/stream.m3u8?format=ts&
 
 
 
 
 #EXTINF:O, Hod Hod
-#https://northtelecom.b-cdn.net/hodhodtv.m3u8?format=ts
+#https://northtelecom.b-cdn.net/hodhodtv.m3u8?format=ts&?format=ts
 
 #EXTINF:O, Mohabbat TV
-#https://northtelecom.b-cdn.net/Mohabat.m3u8?format=ts
+#https://northtelecom.b-cdn.net/Mohabat.m3u8?format=ts&?format=ts
 
 
 # #EXTINF:O, Kalameh Omid
-#https://northtelecom.b-cdn.net/channel_6.m3u8?format=ts
+#https://northtelecom.b-cdn.net/channel_6.m3u8?format=ts&?format=ts
 #EXTINF:O, Ayeneh TV
-#https://northtelecom.b-cdn.net/channel_7.m3u8?format=ts
+#https://northtelecom.b-cdn.net/channel_7.m3u8?format=ts&?format=ts
 #EXTINF:O, TIN TV
-#https://northtelecom.b-cdn.net/channel_9.m3u8?format=ts
+#https://northtelecom.b-cdn.net/channel_9.m3u8?format=ts&?format=ts
 #EXTINF:O, GEM Food
-#https://northtelecom.b-cdn.net/GEMFOOD/Video.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMFOOD/Video.m3u8?format=ts&?format=ts
 
 
 #EXTINF:O, GEM Fit
-#https://northtelecom.b-cdn.net/GEMFIT.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMFIT.m3u8?format=ts&?format=ts
 
 #EXTINF:O, GEM River
-#https://northtelecom.b-cdn.net/RIVER.m3u8?format=ts
+#https://northtelecom.b-cdn.net/RIVER.m3u8?format=ts&?format=ts
 
 #EXTINF:O, GEM LIFE
-#https://northtelecom.b-cdn.net/GEMLIFESD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMLIFESD.m3u8?format=ts&?format=ts
 
 #EXTINF:O, GEM Bollywood
-#https://northtelecom.b-cdn.net/GEMBOLLYWOOD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMBOLLYWOOD.m3u8?format=ts&?format=ts
 
 #EXTINF:O, GEM Junior
-#https://northtelecom.b-cdn.net/GEMJUNIOR.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMJUNIOR.m3u8?format=ts&?format=ts
 #EXTINF:O, GEM TV
-#https://northtelecom.b-cdn.net/GEMTV.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMTV.m3u8?format=ts&?format=ts
 #EXTINF:O, GEM Entertainment
-#https://northtelecom.b-cdn.net/GEMENTERTAINMENTSD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMENTERTAINMENTSD.m3u8?format=ts&?format=ts
 #EXTINF:O, GEM Kids
-#https://northtelecom.b-cdn.net/GEMKIDS.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMKIDS.m3u8?format=ts&?format=ts
 
 #EXTINF:O, GEM Sport
-#https://northtelecom.b-cdn.net/GEMSPORTHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMSPORTHD.m3u8?format=ts&?format=ts
 #EXTINF:O, GEM FILM
-#https://northtelecom.b-cdn.net/GEMFILM.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMFILM.m3u8?format=ts&?format=ts
 #EXTINF:O, GEM Drama
-#https://northtelecom.b-cdn.net/GEMDRAMA.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMDRAMA.m3u8?format=ts&?format=ts
 #EXTINF:O, GEM PIXEL
-#https://northtelecom.b-cdn.net/GEMPIXEL.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMPIXEL.m3u8?format=ts&?format=ts
 
 
 #EXTINF:O, GEM Rubix+
-#https://northtelecom.b-cdn.net/RUBIX%2BHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/RUBIX%2BHD.m3u8?format=ts&?format=ts
 #EXTINF:O, GEM RIVER+
-#https://northtelecom.b-cdn.net/RIVER%2BHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/RIVER%2BHD.m3u8?format=ts&?format=ts
 
 #EXTINF:O, GEM Series+
-#https://northtelecom.b-cdn.net/GEMSERIES%2BHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMSERIES%2BHD.m3u8?format=ts&?format=ts
 #EXTINF:O, GEM Modern Economy
-#https://northtelecom.b-cdn.net/MODERNECONOMY.m3u8?format=ts
+#https://northtelecom.b-cdn.net/MODERNECONOMY.m3u8?format=ts&?format=ts
 
 #EXTINF:O, Jannatul Baqi
-#https://northtelecom.b-cdn.net/Jannatul.m3u8?format=ts
+#https://northtelecom.b-cdn.net/Jannatul.m3u8?format=ts&?format=ts
 
 #EXTINF:O, Mi TV
-#https://northtelecom.b-cdn.net/MITV.m3u8?format=ts
+#https://northtelecom.b-cdn.net/MITV.m3u8?format=ts&?format=ts
 
 #EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307554.png", Simaye Azadi
-#https://northtelecom.b-cdn.net/SimayAzadi.m3u8?format=ts
+#https://northtelecom.b-cdn.net/SimayAzadi.m3u8?format=ts&?format=ts
 
 
 
 #EXTINF:O,GEM Rubix
-#https://northtelecom.b-cdn.net/RUBIX.m3u8?format=ts
+#https://northtelecom.b-cdn.net/RUBIX.m3u8?format=ts&?format=ts
 
 #EXTINF:O,GEM Classic
-#https://northtelecom.b-cdn.net/GEMCLASSIC.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMCLASSIC.m3u8?format=ts&?format=ts
 
 #EXTINF:O,GEM Series
-#https://northtelecom.b-cdn.net/GEMSERIES.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMSERIES.m3u8?format=ts&?format=ts
 
 #EXTINF:O,GEM DRAMA+
-#https://northtelecom.b-cdn.net/GEMDRAMA%2BHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMDRAMA%2BHD.m3u8?format=ts&?format=ts
 #EXTINF:O,GEM TV+
-#https://northtelecom.b-cdn.net/GEMTV%2BHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMTV%2BHD.m3u8?format=ts&?format=ts
 
 #EXTINF:O,GEM NATURE 
-#https://northtelecom.b-cdn.net/GEMNATURESD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMNATURESD.m3u8?format=ts&?format=ts
 
 #EXTINF:O,GEM ONYX
-#https://northtelecom.b-cdn.net/ONYXHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/ONYXHD.m3u8?format=ts&?format=ts
 
 #EXTINF:O,GEM 24B
-#https://northtelecom.b-cdn.net/24BHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/24BHD.m3u8?format=ts&?format=ts
 #EXTINF:1, BBC Backup
-#https://northtelecom.b-cdn.net/BBCPERSIA.m3u8?format=ts
+#https://northtelecom.b-cdn.net/BBCPERSIA.m3u8?format=ts&?format=ts
 
 #EXTINF:O,GEM MIFA
-#https://northtelecom.b-cdn.net/MIFAMUSICHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/MIFAMUSICHD.m3u8?format=ts&?format=ts
 #EXTINF:O,GEM MIFA+
-#https://northtelecom.b-cdn.net/GEMMIFA%2BHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMMIFA%2BHD.m3u8?format=ts&?format=ts
 #EXTINF:O,GEM MUSIC
-#https://northtelecom.b-cdn.net/GEMMUSIC.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMMUSIC.m3u8?format=ts&?format=ts
 #EXTINF:O,GEM AZ
-#https://northtelecom.b-cdn.net/GEMAZ.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMAZ.m3u8?format=ts&?format=ts
 #EXTINF:O,GEM Comedy
-#https://northtelecom.b-cdn.net/GEMCOMEDY.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMCOMEDY.m3u8?format=ts&?format=ts
 #EXTINF:O,GEM Documentary
-#https://northtelecom.b-cdn.net/GEMDOCUMENTARYHD.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GEMDOCUMENTARYHD.m3u8?format=ts&?format=ts
 
 #EXTINF:0, 0X DR1 Denmark FIFA
-https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
+https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8?format=ts&
 #EXTINF:0, 0X DR2 Denmark FIFA
-https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8
+https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8?format=ts&
 #EXTINF:0, 0X DR1 Denmark NEWS
-https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8?format=ts&
 #EXTINF:0, Afra Film
-https://afrafhls.wns.live/hls/stream.m3u8
+https://afrafhls.wns.live/hls/stream.m3u8?format=ts&
 
 #EXTINF:0, Radis
-#https://northtelecom.b-cdn.net/radis.m3u8?format=ts
+#https://northtelecom.b-cdn.net/radis.m3u8?format=ts&?format=ts
 
 #EXTINF:0, Lux TV
-#https://northtelecom.b-cdn.net/luxtv.m3u8?format=ts
+#https://northtelecom.b-cdn.net/luxtv.m3u8?format=ts&?format=ts
 
 #EXTINF:0, City TV
-#https://northtelecom.b-cdn.net/citytv.m3u8?format=ts
+#https://northtelecom.b-cdn.net/citytv.m3u8?format=ts&?format=ts
 
 #EXTINF:0, Grand Cinema
-#https://northtelecom.b-cdn.net/GrandCinema.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GrandCinema.m3u8?format=ts&?format=ts
 #EXTINF:0, Grand Series
-#https://northtelecom.b-cdn.net/GrandSeries.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GrandSeries.m3u8?format=ts&?format=ts
 #EXTINF:0, Grand Sport
-#https://northtelecom.b-cdn.net/GrandSport.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GrandSport.m3u8?format=ts&?format=ts
 #EXTINF:0, Grand Toon
-#https://northtelecom.b-cdn.net/GrandToon.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GrandToon.m3u8?format=ts&?format=ts
 #EXTINF:0, Grand TV
-#https://northtelecom.b-cdn.net/GrandTV.m3u8?format=ts
+#https://northtelecom.b-cdn.net/GrandTV.m3u8?format=ts&?format=ts
 
 #EXTINF:-1 tvg-id="AraxTV.ir@SD",Arax TV
-https://araxhls.wns.live/hls/stream.m3u8
+https://araxhls.wns.live/hls/stream.m3u8?format=ts&
 #EXTINF:-1 tvg-id="ArkoTV.ir@SD",Arko TV
-https://arkhls.wns.live/hls/stream.m3u8
+https://arkhls.wns.live/hls/stream.m3u8?format=ts&
 #EXTINF:-1 tvg-id="ArvanTV.ir@SD",Arvan TV
-https://arvhls.wns.live/hls/stream.m3u8
+https://arvhls.wns.live/hls/stream.m3u8?format=ts&
 #EXTINF:-1 tvg-id="ClassicTV.ir@SD",Classic TV
-https://clshls.wns.live/hls/stream.m3u8
+https://clshls.wns.live/hls/stream.m3u8?format=ts&
 #EXTINF:-1 tvg-id="DatisTV.ir@SD",Datis TV
-https://dathls.wns.live/hls/stream.m3u8
+https://dathls.wns.live/hls/stream.m3u8?format=ts&
 
 
 
 #EXTINF:-1 tvg-id="AbadanTV.ir@SD",YY Abadan
-https://ncdn.telewebion.ir/abadan/live/playlist.m3u8
+https://ncdn.telewebion.ir/abadan/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="AflakTV.ir@SD",YY Aflak
-https://ncdn.telewebion.ir/aflak/live/playlist.m3u8
+https://ncdn.telewebion.ir/aflak/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="AftabTV.ir@SD",YY Aftab
-https://ncdn.telewebion.ir/aftab/live/playlist.m3u8
+https://ncdn.telewebion.ir/aftab/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="AlborzTV.ir@SD",YY Alborz
-https://ncdn.telewebion.ir/alborz/live/playlist.m3u8
+https://ncdn.telewebion.ir/alborz/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="AmouzeshTV.ir@SD",YY Amouzesh
-https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
+https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="AraTV.ir@SD",YY Ara
-https://ncdn.telewebion.ir/ara/live/playlist.m3u8
+https://ncdn.telewebion.ir/ara/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="AtrakTV.ir@SD",YY Atrak
-https://ncdn.telewebion.ir/atrak/live/playlist.m3u8
+https://ncdn.telewebion.ir/atrak/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="WestAzerbaijanTV.ir@SD",YY Azerbaijan Gharbi
-https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="BaranTV.ir@SD",YY Baran
-https://ncdn.telewebion.ir/baran/live/playlist.m3u8
+https://ncdn.telewebion.ir/baran/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="BoushehrTV.ir@SD",YY Bushehr
-https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8
+https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="DenaTV.ir@SD",YY Dena
-https://ncdn.telewebion.ir/dena/live/playlist.m3u8
+https://ncdn.telewebion.ir/dena/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="Energy.ir@SD",YY Energy
-https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8
+https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="EshraghNetwork.ir@SD",YY Eshragh
-https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
+https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="FarsTV.ir@SD",YY Fars
-https://ncdn.telewebion.ir/fars/live/playlist.m3u8
+https://ncdn.telewebion.ir/fars/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="GolkhaneTv.ir@SD",YY Golkhane TV
-https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8
+https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="HabibTV.ir@SD",YY Habib TV
-https://ncdn.telewebion.ir/habib/live/playlist.m3u8
+https://ncdn.telewebion.ir/habib/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="HamedanTV.ir@SD",YY Hamedan
-https://ncdn.telewebion.ir/sina/live/playlist.m3u8
+https://ncdn.telewebion.ir/sina/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="HamoonTV.ir@SD",YY Hamoon
-https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8
+https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="iFilmPersian.ir@SD",YY iFilm
-https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
+https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="IlamTV.ir@SD",YY Ilam
-https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
+https://ncdn.telewebion.ir/ilam/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="Iraneman.ir@SD",YY Iraneman
-https://ncdn.telewebion.ir/iraneman/live/playlist.m3u8
+https://ncdn.telewebion.ir/iraneman/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="IRIB1.ir@SD",YY IRIB1
-https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
+https://ncdn.telewebion.ir/tv1/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="IRIB2.ir@SD",YY IRIB2
-https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
+https://ncdn.telewebion.ir/tv2/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="IRIB3.ir@SD",YY IRIB3
-https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
+https://ncdn.telewebion.ir/tv3/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="IRIB4.ir@SD",YY IRIB4
-https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
+https://ncdn.telewebion.ir/tv4/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="IRIBUHD.ir@4K",YY IRIB UHD (2160p)
-https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="IRINN2.ir@SD",YY IRINN2 Live Farsi News
-https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
+https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="IRINN.ir@SD",YY IRINN Live Farsi News
-https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
+https://ncdn.telewebion.ir/irinn/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="IsfahanTV.ir@SD",YY Isfahan
-https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8
+https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="JahanbinTV.ir@SD",YY Jahanbin
-https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8
+https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="KaroonTV.ir@SD",YY Karoon TV
-https://ncdn.telewebion.ir/karoon/live/playlist.m3u8
+https://ncdn.telewebion.ir/karoon/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="KermanTV.ir@SD",YY Kerman
-https://ncdn.telewebion.ir/kerman/live/playlist.m3u8
+https://ncdn.telewebion.ir/kerman/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="KhalijeFarsTV.ir@SD",YY Khalij-e Fars
-https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8
+https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="KhavaranTV.ir@SD",YY Khavaran
-https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8
+https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="KhorasanRazaviTV.ir@SD",YY Khorasan Razavi
-https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8
+https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="KhozestanTV.ir@SD",YY Khozestan
-https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8
+https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="KishTV.ir@SD",YY Kish
-https://ncdn.telewebion.ir/kish/live/playlist.m3u8
+https://ncdn.telewebion.ir/kish/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="KordestanTV.ir@SD",YY Kordestan
-https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8
+https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="LabbaykTV.ir@SD",YY Labbayk TV
-https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8
+https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="MahabadTV.ir@SD",YY Mahabad
-https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8
+https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="IRIBMostanad.ir@SD",YY Mostanad
-https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
+https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="NamaTV.ir@SD",YY Nama TV
-https://ncdn.telewebion.ir/nama/live/playlist.m3u8
+https://ncdn.telewebion.ir/nama/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="NamayeshTV.ir@SD",YY Namayesh
-https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8
+https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="Nasim.ir@SD",YY Nasim
-https://ncdn.telewebion.ir/nasim/live/playlist.m3u8
+https://ncdn.telewebion.ir/nasim/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="",YY Nesfejahan
-https://ncdn.telewebion.ir/nesfejahan/live/playlist.m3u8
+https://ncdn.telewebion.ir/nesfejahan/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="NoorTV.ir@SD",YY Noor
-https://ncdn.telewebion.ir/noor/live/playlist.m3u8
+https://ncdn.telewebion.ir/noor/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="OfoghTV.ir@SD",YY Ofogh
-https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8
+https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="IRIBOmid.ir@SD",YY Omid
-https://ncdn.telewebion.ir/omid/live/playlist.m3u8
+https://ncdn.telewebion.ir/omid/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="Palestinetv.ir@SD",YY Palestine
-https://ncdn.telewebion.ir/palestine/live/playlist.m3u8
+https://ncdn.telewebion.ir/palestine/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="PooyaTV.ir@SD",YY Pooya & Nahal
-https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
+https://ncdn.telewebion.ir/pooya/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="PooyaTVPlus.ir@SD",YY Pooya TV Plus
-https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8
+https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="QazvinTV.ir@SD",YY Qazvin
-https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8
+https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="QuranTV.ir@SD",YY Quran
-https://ncdn.telewebion.ir/quran/live/playlist.m3u8
+https://ncdn.telewebion.ir/quran/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="RazaviTV.ir@SD",YY Razavi TV
-https://ncdn.telewebion.ir/razavi/live/playlist.m3u8
+https://ncdn.telewebion.ir/razavi/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="RoyaTV.ir@SD",YY Roya TV
-https://ncdn.telewebion.ir/iribu/live/playlist.m3u8
+https://ncdn.telewebion.ir/iribu/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="SabalanTV.ir@SD",YY Sabalan
-https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8
+https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="SabzTV.ir@SD",YY Sabz
-https://ncdn.telewebion.ir/sabz/live/playlist.m3u8
+https://ncdn.telewebion.ir/sabz/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="SahandTV.ir@SD",YY Sahand
-https://ncdn.telewebion.ir/sahand/live/playlist.m3u8
+https://ncdn.telewebion.ir/sahand/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="SalamatTV.ir@SD",YY Salamat
-https://ncdn.telewebion.ir/salamat/live/playlist.m3u8
+https://ncdn.telewebion.ir/salamat/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="SarbedaranTV.ir@SD",YY Sarbedaran
-https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8
+https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="SemnanTV.ir@SD",YY Semnan
-https://ncdn.telewebion.ir/semnan/live/playlist.m3u8
+https://ncdn.telewebion.ir/semnan/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="SepehrTV.ir@SD",YY Sepehr
-https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8
+https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="TabarestanTV.ir@SD",YY Tabarestan
-https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8
+https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="",YY Taftan
-https://ncdn.telewebion.ir/taftan/live/playlist.m3u8
+https://ncdn.telewebion.ir/taftan/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="Tamasha.ir@SD",YY Tamasha
-https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
+https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="TehranTV.ir@SD",YY Tehran
-https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
+https://ncdn.telewebion.ir/tehran/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="Tekyemadahi.ir@SD",YY Tekyemadahi
-https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8
+https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="",YY TV1 Plus [Not 24/7]
-https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8
+https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="TVANava.ir@SD",YY TVA Nava
-https://ncdn.telewebion.ir/nava/live/playlist.m3u8
+https://ncdn.telewebion.ir/nava/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="VarzeshTV.ir@SD",YY Varzesh TV
-https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
+https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="VelayatTV.ir@SD",YY Velayat TV
-https://ncdn.telewebion.ir/velayat/live/playlist.m3u8
+https://ncdn.telewebion.ir/velayat/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="YazdTV.ir@SD",YY Yazd
-https://ncdn.telewebion.ir/taban/live/playlist.m3u8
+https://ncdn.telewebion.ir/taban/live/playlist.m3u8?format=ts&
 #EXTINF:-1 tvg-id="ZagrosTV.ir@SD",YY Zagros
-https://ncdn.telewebion.ir/zagros/live/playlist.m3u8
+https://ncdn.telewebion.ir/zagros/live/playlist.m3u8?format=ts&
