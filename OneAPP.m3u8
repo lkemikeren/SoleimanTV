@@ -1,14 +1,14 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/shabakeh-yek.svg",ZZ IRIB 1 *
-https://gg.hls2.xyz/live2/irib-tv1/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
+#https://gg.hls2.xyz/live2/irib-tv1/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
 #EXTINF:0 tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/irib-tv2.svg",ZZ IRIB 2 *
-https://gg.hls2.xyz/live2/irib-tv2/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
+#https://gg.hls2.xyz/live2/irib-tv2/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
 #EXTINF:0 tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/irib-tv3.svg",ZZ IRIB 3 *
-https://gg.hls2.xyz/live2/tv3/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
+#https://gg.hls2.xyz/live2/tv3/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
 #EXTINF:0 tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/irib-irinn.svg",ZZ IRIB Khabar *
 
-https://gg.hls2.xyz/live2/irib-khabar/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
+#https://gg.hls2.xyz/live2/irib-khabar/playlist.m3u8|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",ZZ IRIB Khabar backup *
 https://ca-rt.onetv.app/IRINN/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 #EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",ZZ IRIB Khabar backup **
@@ -31,8 +31,10 @@ https://live-aburayhan1102.telewebion.ir/ek/irinn/live/playlist.m3u8?isp=NA&city
 
 
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV (720p)
-#EXTVLCOPT:http-origin=https://abalfadhl.tv/live
-#EXTVLCOPT:http-referer=https://abalfadhl.tv/live/
+
+#EXTVLCOPT:http-referrer=https://t.northtelecom.org/
+#EXTVLCOPT:http-origin=https://t.northtelecom.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://northtelecom.b-cdn.net/ABALFADHL.m3u8?fbclid=PAZnRzaARmwQxleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafhuHVrIcOQ_BeYE_DC1i0XuCyPFSicOx3PD07_YZutOg_BsQmSir6oy6V_iQ_aem_nCJYgOvnOmo3mO1zB_FMuw&brid=YWdncwHNNow7iTN75n8pv5Yv2l5V
 
 #EXTINF:0 tvg-name="Al Jazeera" tvg-logo="https://newsal.online/api/channel_icons/aljazire200_arabi.png" tvg-id="Al Jazeera" group-title="News",0X Al Jazeera
@@ -278,7 +280,7 @@ https://hls.tmtv.live/hls/stream.m3u8?format=ts&
 #https://northtelecom.b-cdn.net/ONYXHD.m3u8?format=ts&format=ts
 
 #EXTINF:O,GEM 24B
-https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
+#https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202|Referer=https://webapp.onetv.app/|origin=https://webapp.onetv.app
 #EXTINF:1, BBC Backup
 #https://northtelecom.b-cdn.net/BBCPERSIA.m3u8?format=ts&format=ts
 
@@ -295,11 +297,11 @@ https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202|Referer=https://webap
 #EXTINF:O,GEM Documentary
 #https://northtelecom.b-cdn.net/GEMDOCUMENTARYHD.m3u8?format=ts&format=ts
 
-#EXTINF:0, 0X DR1 Denmark FIFA
+#EXTINF:0, 0X DR1
 https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8?format=ts&
-#EXTINF:0, 0X DR2 Denmark FIFA
+#EXTINF:0, 0X DR2
 https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8?format=ts&
-#EXTINF:0, 0X DR1 Denmark NEWS
+#EXTINF:0, 0X DRTV
 https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8?format=ts&
 #EXTINF:0, Afra Film
 https://afrafhls.wns.live/hls/stream.m3u8?format=ts&
