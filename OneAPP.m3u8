@@ -32,9 +32,9 @@ https://live-aburayhan1102.telewebion.ir/ek/irinn/live/playlist.m3u8?isp=NA&city
 
 #EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV (720p)
 
-#EXTVLCOPT:http-referrer=https://northtelecom.b-cdn.net/
-#EXTVLCOPT:http-origin=https://northtelecom.b-cdn.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://t.northtelecom.org/
+#EXTVLCOPT:http-origin=https://t.northtelecom.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 
 https://northtelecom.b-cdn.net/ABALFADHL.m3u8?fbclid=PAZnRzaARmwQxleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafhuHVrIcOQ_BeYE_DC1i0XuCyPFSicOx3PD07_YZutOg_BsQmSir6oy6V_iQ_aem_nCJYgOvnOmo3mO1zB_FMuw&brid=YWdncwHNNow7iTN75n8pv5Yv2l5V
 
 #EXTINF:0 tvg-name="Al Jazeera" tvg-logo="https://newsal.online/api/channel_icons/aljazire200_arabi.png" tvg-id="Al Jazeera" group-title="News",0X Al Jazeera
@@ -229,7 +229,7 @@ https://hls.tmtv.live/hls/stream.m3u8?format=ts&
 #https://northtelecom.b-cdn.net/GEMKIDS.m3u8?format=ts&format=ts
 
 #EXTINF:O, GEM Sport
-#https://northtelecom.b-cdn.net/GEMSPORTHD.m3u8?format=ts&format=ts
+https://glwizhhls21.glwiz.com/GemSport/GemSport_Low.m3u8?user=sglshbpfhelmqf5bhfstaytjxpf2&session=e078d5a3bb65fe56d3c52fb73e165228258bfe487d5e4c0fc879725d597ceb5f399125888390518421eb7e002e1f83e0a825a6fe068b0cbdef59f2cd4b76c6a0&hlsid=HTTP_ID_3257
 #EXTINF:O, GEM FILM
 #https://northtelecom.b-cdn.net/GEMFILM.m3u8?format=ts&format=ts
 #EXTINF:O, GEM Drama
