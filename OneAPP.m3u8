@@ -217,7 +217,8 @@ https://hls.tmtv.live/hls/stream.m3u8?format=ts&
 #https://northtelecom.b-cdn.net/GEMLIFESD.m3u8?format=ts&format=ts
 
 #EXTINF:O, GEM Bollywood
-#https://northtelecom.b-cdn.net/GEMBOLLYWOOD.m3u8?format=ts&format=ts
+#EXTVLCOPT:http-find=any_key_word_in_the_link;m3u8
+https://www.persianity.com/ch=Oxir-TV
 
 #EXTINF:O, GEM Junior
 #https://northtelecom.b-cdn.net/GEMJUNIOR.m3u8?format=ts&format=ts
