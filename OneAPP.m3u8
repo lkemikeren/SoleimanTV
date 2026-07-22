@@ -229,7 +229,9 @@ https://hls.tmtv.live/hls/stream.m3u8?format=ts&
 #https://northtelecom.b-cdn.net/GEMKIDS.m3u8?format=ts&format=ts
 
 #EXTINF:O, GEM Sport
-https://glwizhhls21.glwiz.com/GemSport/GemSport_Low.m3u8?user=sglshbpfhelmqf5bhfstaytjxpf2&session=e078d5a3bb65fe56d3c52fb73e165228258bfe487d5e4c0fc879725d597ceb5f399125888390518421eb7e002e1f83e0a825a6fe068b0cbdef59f2cd4b76c6a0&hlsid=HTTP_ID_3257
+#EXTVLCOPT:http-referrer=https://northtelecom.b-cdn.net/
+#EXTVLCOPT:http-origin=https://northtelecom.b-cdn.net
+https://northtelecom.b-cdn.net/GEMSPORTHD.m3u8
 #EXTINF:O, GEM FILM
 #https://northtelecom.b-cdn.net/GEMFILM.m3u8?format=ts&format=ts
 #EXTINF:O, GEM Drama
