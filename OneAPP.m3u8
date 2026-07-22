@@ -230,7 +230,7 @@ https://hls.tmtv.live/hls/stream.m3u8?format=ts&
 
 #EXTINF:O, GEM Sport
 #EXTVLCOPT:http-referrer=https://northtelecom.b-cdn.net/
-#EXTVLCOPT:http-origin=https://northtelecom.b-cdn.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6.1 Safari/605.1.15
 https://northtelecom.b-cdn.net/GEMSPORTHD.m3u8
 #EXTINF:O, GEM FILM
 #https://northtelecom.b-cdn.net/GEMFILM.m3u8?format=ts&format=ts
