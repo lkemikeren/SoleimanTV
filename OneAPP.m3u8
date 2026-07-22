@@ -231,7 +231,7 @@ https://hls.tmtv.live/hls/stream.m3u8?format=ts&
 #EXTINF:O, GEM Sport
 #EXTVLCOPT:http-referrer=https://northtelecom.b-cdn.net/
 #EXTVLCOPT:http-origin=https://northtelecom.b-cdn.net
-#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-player-type=m3u
 #EXTVLCOPT:http-cookie=bunny_shield_bd_143617=7pchDf8z0iTgl6aWGTkJpbFRA6R6l1yLA2kOcQl1JXD9qQJ1mhYpWY3RhC39SbcJtSG66%2FSAEpLQh3H4EktYQSTUBxqQtMG2sMN%2BTmlbv2u%2FxodHm1C8aw2dO0sAQ6Xzci2PTFr2sKw%2BPEDAJYLJr6%2Flk8TU1viNGoUXQQHdWeCv1JpZKki8ArsngY41SY%2Fij9Byf7TOnRNaMrcffCJZd%2F9i2684UPV8STB2ZFLsug51AlaOolMLZuspThmW9bRgCrJ4%2Fz6AOAyAQjgCnefhW5D5AX3mhO85DM%2BJYa%2Bf%2BzSR0Yjm%2F9OAEbq8Crpyg%2BQnbuP2z4OGa11n6lT2azdCL%2F4FfbTUaqyET3DOd46vtaCs8Qf2iKMJUY1Sx3%2B519jT6rRH1XE8OSha6hWJiXk%2F164TWIjzGWj0LaBVuweiuRqmcDwgDgpAHd%2Fn2zF%2F5p9eJeMiJr%2FONEzf9OTwKP1LCg%3D%3D; bunny_shield_id_143617=add044a6456b4967b1152a0f3d89c00a
 https://northtelecom.b-cdn.net/GEMSPORTHD.m3u8
 #EXTINF:O, GEM FILM
