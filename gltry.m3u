@@ -1,0 +1,604 @@
+#EXTM3U
+#EXTINF:1, 00 IRAN SHAY
+#EXTVLCOPT:http-referer=https://namakade.com/
+#EXTVLCOPT:http-origin=https://namakade.com
+http://38.117.88.36/T2International_High?glwizName=
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",01 IRIB 1
+
+https://gg.hls2.xyz/live2/irib-tv1-logo/playlist_High?glwizName=|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",01 IRIB 2
+
+https://gg.hls2.xyz/live2/irib-tv2-logo/playlist_High?glwizName=|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",01 IRIB 3
+
+https://gg.hls2.xyz/live2/tv3-logo/playlist_High?glwizName=|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
+#EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",01 IRIB Khabar
+
+https://gg.hls2.xyz/live2/irib-khabar-logo/playlist_High?glwizName=|Referer=https://www.aparatchi.com/|origin=https://www.aparatchi.com
+#EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",02 IRIB Khabar backup
+https://ca-rt.onetv.app/khabar/index-0_High?glwizName=?token=onetv202
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",0X IRIB 1
+https://live-azd1101.telewebion.ir/ek/tv1/live/playlist_High?glwizName=?isp=NA&city=NA
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",0X IRIB 2
+https://live-azd1101.telewebion.ir/ek/tv2/live/playlist_High?glwizName=?isp=NA&city=NA
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",0X IRIB 3
+https://live-azd1101.telewebion.ir/ek/tv3/live/playlist_High?glwizName=?isp=NA&city=NA
+#EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",0X IRIB Khabar
+https://live-azd1101.telewebion.ir/ek/irinn/live/playlist_High?glwizName=?isp=NA&city=NA
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",ZZ IRIB 1 Hanieh
+https://live-azd1105.telewebion.ir/ek/tv1/live/1080p/index_High?glwizName=
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",ZZ IRIB 2
+https://live-azd1105.telewebion.ir/ek/tv2/live/1080p/index_High?glwizName=
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",ZZ IRIB 3
+https://live-azd1105.telewebion.ir/ek/tv3/live/1080p/index_High?glwizName=
+#EXTINF:0 tvg-logo="https://i.imgur.com/8tzsC9h.png",ZZ IRIB Khabar
+https://live-azd1105.telewebion.ir/ek/irinn/live/1080p/index_High?glwizName=
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1280px-Russia-today-logo.svg.png",0X RT News
+https://rumble.com/live-hls/33aw1a/playlist_High?glwizName=?
+#EXTINF:0 tvg-name="Press TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTV.ir" group-title="Iran",0X Press TV
+https://live.presstv.ir/hls/presstv_High?glwizName=
+#EXTINF:0 tvg-id="BBCPersian.uk" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",0X BBC Persian (720p)
+http://38.117.88.36/BBCPersian_High?glwizName=
+
+
+#EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 1 (720p)
+https://northtelecom.b-cdn.net/ABALFADHL_High?glwizName=
+#EXTINF:0 tvg-id="AbalfadhlTV2.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV 2 (720p)
+https://live.cdn.asset.aparat.com/d103dd63fcb9cb93f2871aa3c2fbacae/livehls/Abalfadhlalabbastv_nmq800v_720p/index_High?glwizName=
+#EXTINF:0 tvg-logo="https://static.cdn.asset.aparat.cloud/profile-photo/5800921-249942-s.jpg" group-title="Religious",Fatemeh Al Zahra (720p)
+https://live.cdn.asset.aparat.com/bdba27742fa7a629687f401f648111bc/livehls/Allzahra.com_qynd2m0_720p/index_High?glwizName=?s=A2FCF3YquQkdOLPTIpwAww&e=1772247067|Referer=https://www.aparat.com/|Origin=https://www.aparat.com
+
+#EXTINF:0 tvg-logo="https://tv.sarcheshmeh.us/thumb.php?w=560&h=315&src=https://tv.sarcheshmeh.us/index_files/channels/rasoulallahtv.png",Rasulallah TV
+https://avr.host247.net/live/rasoulallahtv/tracks-v1a1/mono_High?glwizName=
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",IRIB iFilm Farsi
+https://live.presstv.ir/hls/ifilmfa_4_482/index_High?glwizName=
+#EXTINF:0 tvg-name="iTVArabic" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVArabic" group-title="International",iTV Arabic Music
+http://38.117.88.36/iTVArabicMusic_High?glwizName=
+#EXTINF:0 tvg-name="iTVTurkish" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVTurkish" group-title="International",iTV Turkish Music
+http://38.117.88.36/iTVTurkishMusic_High?glwizName=
+#EXTINF:0 tvg-name="iTVPersian" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVPersian" group-title="International",iTV Persian Music
+http://38.117.88.36/iTVPersianMusic_High?glwizName=
+#EXTINF:0 tvg-name="iTVLatin" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVLatin" group-title="International",iTV Latin Music
+http://38.117.88.36/iTVLatinMusic_High?glwizName=
+#EXTINF:0 tvg-name="iTVUrban" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVUrban" group-title="International",iTV Urban Music
+http://38.117.88.36/iTVUrbanMusic_High?glwizName=
+#EXTINF:0 tvg-name="iTVIndian" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVIndian" group-title="International",iTV Indian Music
+http://38.117.88.36/iTVIndianMusic_High?glwizName=
+#EXTINF:0 tvg-name="iTVAfroBeats" tvg-logo="https://tabestani.com/api/channel_icons/iran/ITV%20Persian%20Music%20copy.jpg" tvg-id="iTVAfro" group-title="International",iTV Afro Beats Music
+http://38.117.88.36/iTVAfrobeats_High?glwizName=
+#EXT-X-STREAM-INF:BANDWIDTH=900000,RESOLUTION=1920x1088,CODECS="avc1.640028,mp4a.40.2"
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300923.png", Tapesh America
+http://38.117.88.36/TapeshAmerica_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307513.png", Channel One
+http://38.117.88.36/ChannelOne_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301070.png", ITN
+http://38.117.88.36/ITN_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307572.png", Nahade Azadi
+http://38.117.88.36/NahadeAzadi_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300349.png",Omide Iran
+http://38.117.88.36/OmidEIran_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306821.png", Iran International
+http://38.117.88.36/IranInternational_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300677.png", BBC Persian
+http://38.117.88.36/BBCPersian_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307380.png", T2 International
+http://38.117.88.36/T2International_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300327.png", Pars TV
+http://38.117.88.36/ParsTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301403.png", EuroNews Farsi
+http://38.117.88.36/EuroNewsFarsi_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300253.png", VoA
+http://38.117.88.36/VoA_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306147.png", Radio Javan
+http://38.117.88.36/RJTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300331.png", Tasvire Iran
+http://38.117.88.36/TasvirEIran_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302550.png", Irane Farda
+http://38.117.88.36/IraneFarda_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300360.png", ITC
+http://38.117.88.36/ITC_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301157.png", TM TV
+http://38.117.88.36/TMTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300511.png", MBC Persia
+http://38.117.88.36/MBCPersia_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306828.png", Ekran Kids
+http://38.117.88.36/EkranKids_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306418.png", Radio Farda TV
+http://38.117.88.36/RadioFardaTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300350.png", PTV 1
+http://38.117.88.36/PTV1_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302132.png", Irane Aryaee
+http://38.117.88.36/IranEAryaee_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300899.png", Ayeneh TV
+http://38.117.88.36/AyenehTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307414.png", Afghanistan International
+http://38.117.88.36/AfghanistanInternational_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307044.png", Your Time TV
+http://38.117.88.36/YourTimeTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306374.png", Ekran Movies
+http://38.117.88.36/EkranMovies_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307260.png", T2 America
+http://38.117.88.36/T2America_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306964.png", Mihan TV
+http://38.117.88.36/MihanTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301193.png", Asre Emrooz
+http://38.117.88.36/AsreEmrooz_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300578.png", AFN
+http://38.117.88.36/AFN_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300338.png", Tapesh
+http://38.117.88.36/TAPESH_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306403.png", ITN Europe
+http://38.117.88.36/ITNEurope_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305194.png", Royal Time TV
+http://38.117.88.36/RoyalTimeTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302555.png", Today
+http://38.117.88.36/Today_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307169.png", GEM Food
+http://38.117.88.36/GemFood_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307498.png", GEM Academy
+http://38.117.88.36/GEMAcademy_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300202.png", Film1
+http://38.117.88.36/Film1_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302055.png", Classic TV
+http://38.117.88.36/ClassicTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307628.png", Mohabat
+http://38.117.88.36/Mohabat_High?glwizName=
+#EXTINF:0 tvg-logo="", Khane honarmandan
+http://38.117.88.36/Khanehonarmandan_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305272.png", Persiana Family
+http://38.117.88.36/PersianaFamily_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306880.png", Persiana Cinema
+http://38.117.88.36/PersianaCinema_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307312.png", Persiana Comedy
+http://38.117.88.36/PersianaComedy_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_303785.png", GEM Documentary
+http://38.117.88.36/GemDocumentary_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307224.png", GEM Comedy
+http://38.117.88.36/GemComedy_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305181.png", Payvand
+http://38.117.88.36/Payvand_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306654.png", AZ Star TV
+http://38.117.88.36/AzStarTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301174.png", Salaam
+http://38.117.88.36/SalaamTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307340.png", Persiana Korea
+http://38.117.88.36/PersianaKorea_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307272.png", Persiana Iranian
+http://38.117.88.36/PersianaIranian_High?glwizName=
+
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307483.png", Hambastegi
+http://38.117.88.36/Hambastegi_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307035.png", AVA Family
+http://38.117.88.36/AVAFamily_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307620.png", Pro Sport
+http://38.117.88.36/ProSport_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307250.png", AVA Series
+http://38.117.88.36/AVASeries_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307604.png", 4Turk
+http://38.117.88.36/4Turk_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302563.png", Payame Javan
+http://38.117.88.36/PJTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307449.png", FX22
+http://38.117.88.36/FX22_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307308.png", MTC
+http://38.117.88.36/MTC_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307404.png", ICnet 2
+http://38.117.88.36/ICnet2_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305147.png", ICnet 1
+http://38.117.88.36/ICnet_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307616.png", Navahang
+http://38.117.88.36/Navahang_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305626.png", Shabake 7
+http://38.117.88.36/Shabakeh7_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307477.png", Persiana Documentary
+http://38.117.88.36/PersianaDocs_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307479.png", Persiana Sport
+http://38.117.88.36/PersianaSport_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306561.png", Eshare TV
+http://38.117.88.36/EshareTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307490.png", Persiana Reality
+http://38.117.88.36/PersianaReality_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305198.png", Didgah
+http://38.117.88.36/Didgah_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302142.png", Farhange IranZamin
+http://38.117.88.36/FarhangeIranZamin_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307510.png", Rahe Nejat
+http://38.117.88.36/RaheNejat_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306971.png", Aein Jadeed
+http://38.117.88.36/AeinJadeed_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_303655.png", Payame Aramesh
+http://38.117.88.36/PayameAramesh_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307630.png", Persiana Latino
+http://38.117.88.36/PersianaLatino_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_303985.png", Kanal Jadid
+http://38.117.88.36/KanalJadid_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300512.png", GEM TV
+http://38.117.88.36/GEMTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_303680.png", GEM Life
+http://38.117.88.36/GemLife1_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307372.png", Iman Be Masih
+http://38.117.88.36/ImanBeMasih_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306668.png", Omide Javedan
+http://38.117.88.36/OmideJavedan_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306718.png", 4U TV
+http://38.117.88.36/4uTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306975.png", Zan Zendegi Azadi
+http://38.117.88.36/WomanTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307360.png", Persiana Plus
+http://38.117.88.36/PersianaPlus_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301179.png", Ganje Hozour
+http://38.117.88.36/GanjeHozour_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307101.png", Israel Pars TV
+http://38.117.88.36/IsraelParsTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307409.png", CafeTrade TV
+http://38.117.88.36/CafeTradeTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307424.png", Nejat
+http://38.117.88.36/NejatTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307447.png", Persian Procast
+http://38.117.88.36/PersianProcast_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307304.png", Net TV
+http://38.117.88.36/NetTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300830.png", 4U Family
+http://38.117.88.36/4uFamily_High?glwizName=
+
+
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307316.png", Jewish TV
+http://38.117.88.36/JewishTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305270.png", Erfan Halghe
+http://38.117.88.36/ErfanHalghe_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306951.png", Imam Hussein TV 1
+http://38.117.88.36/ImamHusseinTV1_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307027.png", Health Media
+http://38.117.88.36/Healthmedia_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307547.png", 4U Sport
+http://38.117.88.36/4uSport_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307515.png", 4 Sport
+http://38.117.88.36/4Sport_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300316.png", ICNet 3
+http://38.117.88.36/ICnet3_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302053.png", ICC
+http://38.117.88.36/ICC_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307562.png", IR TV
+http://38.117.88.36/IRTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307376.png", T2 Movies
+http://38.117.88.36/T2Movies_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307274.png", Persiana Turkiye
+http://38.117.88.36/PersianaTurkiye_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304198.png", Leila Forouhar
+http://38.117.88.36/LeilaForouhar_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307190.png", Ronix
+http://38.117.88.36/Ronix_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307568.png", Persiana Fight
+http://38.117.88.36/PersianaFight_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307249.png", Pen TV
+http://38.117.88.36/PenTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307164.png", 247 Box TV
+http://38.117.88.36/247BoxTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307226.png", Grand Cinema
+http://38.117.88.36/GrandCinema_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306890.png", Persiana Junior
+http://38.117.88.36/PersianaJunior_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307180.png", Oxir
+http://38.117.88.36/Oxir_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307564.png", Home Plus
+http://38.117.88.36/HomePlus_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307465.png", Tahour TV
+http://38.117.88.36/TahourTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307554.png", Simaye Azadi
+http://38.117.88.36/SimayAzadi_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307362.png", Derakhte Zendegi
+http://38.117.88.36/DerakhteZendegi_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307383.png", FX TV
+http://38.117.88.36/FXTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307389.png", Sepanj
+http://38.117.88.36/Sepanj_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307560.png", Khatereh TV
+http://38.117.88.36/KhaterehTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307453.png", Farsi TV
+http://38.117.88.36/FarsiTV_High?glwizName=
+#EXTINF:0 tvg-logo="", Persiana Medical
+http://38.117.88.36/PersianaMedical_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300660.png", RV TV
+http://38.117.88.36/RVTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307576.png", ART
+http://38.117.88.36/ART_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307590.png", Didaniha TV
+http://38.117.88.36/DidanihaTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307596.png", Nima TV
+https://glparishhls39.glwiz.com/NimaTV_High?glwizName=
+#EXTINF:0 tvg-logo="", Atrina
+http://38.117.88.36/Atrina_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307622.png", NVC
+http://38.117.88.36/NVC_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307497.png", GEM Pixel
+http://38.117.88.36/GEMPixel_High?glwizName=
+#EXTINF:0 tvg-logo="", GEM RUBIX
+http://38.117.88.36/RUBIX_High?glwizName=
+#EXTINF:0 tvg-logo="", GEM Drama
+http://38.117.88.36/GEMDrama_High?glwizName=
+
+#EXTINF:0 tvg-id="GEM Nature" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_nature.png" group-title="GEM",GEM Nature
+http://38.117.88.36/GemNature_High?glwizName=
+#EXTINF:0 tvg-id="GEM MIFA" tvg-logo="https://tabestani.com/api/channel_icons/iran/gem_mifa.png" group-title="GEM",GEM MIFA
+https://glwizhhls23.glwiz.com:443/MifaMusic_High?glwizName=
+#EXTINF:0 tvg-id="GEM MIFA PLUS" tvg-logo="https://slaslal.com/api/channel_icons/iran/gem_mifa_plus.png" group-title="GEM",GEM MIFA PLUS
+https://ca-rt.onetv.app/gemmifaplus/index-0_High?glwizName=?token=onetv202
+
+#EXTINF:0 tvg-logo="", GEM ONYX
+http://38.117.88.36/ONYX_High?glwizName=
+#EXTINF:0 tvg-logo="", GEM Classic
+http://38.117.88.36/GemClassic_High?glwizName=
+#EXTINF:0 tvg-logo="", GEM Film
+http://38.117.88.36/GemFilm_High?glwizName=
+#EXTINF:0 tvg-logo="", GEM Bollywood
+http://38.117.88.36/GEMBollywood_High?glwizName=
+#EXTINF:0 tvg-logo="", Persiana Travel
+http://38.117.88.36/PersianaTravel_High?glwizName=
+#EXTINF:0 tvg-logo="", Persiana Plus One
+http://38.117.88.36/PersianaPlusOne_High?glwizName=
+#EXTINF:0 tvg-logo="", Persiana Emirates
+http://38.117.88.36/PersianaEmirates_High?glwizName=
+#EXTINF:0 tvg-logo="", Persiana Rap
+http://38.117.88.36/PersianaRap_High?glwizName=
+#EXTINF:0 tvg-logo="", Persiana Folk
+http://38.117.88.36/PersianaFolk_High?glwizName=
+#EXTINF:0 tvg-logo="", 4Music
+http://38.117.88.36/4Music_High?glwizName=
+#EXTINF:0 tvg-logo="", Maah TV
+http://38.117.88.36/MaahTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307575.png", GEM Sport
+http://38.117.88.36/GemSport_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300483.png", IRIB Ofogh
+http://38.117.88.36/IRIBOfogh_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300486.png", IRIB IRINN
+
+http://38.117.88.36/IRINN_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301104.png", IRIB Amoozesh
+
+http://38.117.88.36/IRIBAmoozesh_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300488.png", IRIB Channel 1
+
+http://38.117.88.36/IRIBChannel1_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300489.png", IRIB Channel 2
+
+http://38.117.88.36/IRIBChannel2_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300490.png", IRIB Channel 3
+
+http://38.117.88.36/IRIBChannel3_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300490.png", IRIB Channel 3 HD
+
+http://38.117.88.36/IRIBChannel3HD_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300491.png", IRIB Channel 4
+
+http://38.117.88.36/IRIBChannel4_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300492.png", IRIB Channel 5
+
+http://38.117.88.36/IRIBChannel5_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305052.png", IRIB Tamasha
+
+http://38.117.88.36/Tamasha_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304077.png", IRIB Varzesh
+
+http://38.117.88.36/IRIBVarzesh_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304077.png", IRIB Varzesh HD
+
+http://38.117.88.36/IRIBVarzeshHD_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304081.png", IRIB Namayesh
+
+http://38.117.88.36/IRIBNamayesh_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304112.png", IRIB Pooya
+
+http://38.117.88.36/IRIBPooya_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304109.png", IRIB Salamat
+
+http://38.117.88.36/IRIBSalamat_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304079.png", iFilm Farsi
+
+http://38.117.88.36/iFilmFarsi_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304104.png", IRIB Mostanad
+
+http://38.117.88.36/IRIBMostanad_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306206.png", IRIB Nasim
+
+http://38.117.88.36/IRIBNasim_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306858.png", IRIB Omid
+
+http://38.117.88.36/IRIBOmid_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301118.png", Johannamo
+http://38.117.88.36/Jahonnamo_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301119.png", Tojikiston
+http://38.117.88.36/Tojikiston_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301120.png", TV Safina
+http://38.117.88.36/TVSafina_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307460.png", Dushanbe
+http://38.117.88.36/Dushanbe_High?glwizName=
+#EXTINF:0 tvg-logo="", Bahiroston
+http://38.117.88.36/Bahiroston_High?glwizName=
+#EXTINF:0 tvg-logo="", Sinamo
+http://38.117.88.36/Sinamo_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307462.png", TV Khatlon
+http://38.117.88.36/TVKhatlon_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307613.png", TV Sayohi
+http://38.117.88.36/TVSayohi_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306664.png", CBC Azerbaycan
+http://38.117.88.36/CBCAzerbaycan_High?glwizName=
+#EXTINF:0 tvg-logo="", GEM AZ
+http://38.117.88.36/GemAZ_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301098.png", Armenia 1
+http://38.117.88.36/Armenia1_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300583.png", Assyr Sat
+http://38.117.88.36/AssyrSat_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307402.png", AGN SAT
+http://38.117.88.36/AGNSAT_High?glwizName=
+
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307413.png", Nohadra TV
+http://38.117.88.36/NohadraTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304102.png", Rudaw
+http://38.117.88.36/Rudaw_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306770.png", Kurdsat News
+http://38.117.88.36/KurdsatNews_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_304661.png", NRT2
+http://38.117.88.36/NRT2_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302233.png", Speda
+http://38.117.88.36/Speda_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306962.png", Jin TV
+http://38.117.88.36/JinTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_303036.png", Sterk TV
+http://38.117.88.36/SterkTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307603.png", 4Kurd
+http://38.117.88.36/4Kurd_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307232.png", KurdMax Show
+http://38.117.88.36/KurdmaxShow_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_303489.png", KurdMax
+http://38.117.88.36/KurdMax_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306156.png", Med Muzik
+http://38.117.88.36/MedMuzik_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306171.png", Cira
+http://38.117.88.36/Cira_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305879.png", Suroyo TV
+http://38.117.88.36/SuroyoTV_High?glwizName=
+
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306183.png", RonahiTV
+http://38.117.88.36/RonahiTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305917.png", Zarok
+http://38.117.88.36/Zarok_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305449.png", Aryen
+http://38.117.88.36/Aryen_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300498.png", Payame Afghan
+http://38.117.88.36/PayamEAfghan_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300500.png", Ariana Afghanistan
+http://38.117.88.36/ArianaAfghan_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300501.png", ATN News
+http://38.117.88.36/ATNNews_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300502.png", Ariana International
+http://38.117.88.36/ArianaInt_High?glwizName=
+
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301402.png", VoA Afghanistan
+http://38.117.88.36/VoAAfghanistan_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_301402.png", Zarin TV
+https://glparishhls39.glwiz.com/ZarinTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300532.png", RTA
+http://38.117.88.36/RTA_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307297.png", RTA Sport
+http://38.117.88.36/RTASport_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307476.png", BBC Persian Afghan
+http://38.117.88.36/BBCPersianAfghan_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300531.png", Tolo
+http://38.117.88.36/Tolo_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305078.png", Tolo News
+http://38.117.88.36/ToloNews_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307464.png", Afghan USA
+http://38.117.88.36/AfgUSA_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307579.png", RTA News
+http://38.117.88.36/RTANews_High?glwizName=
+#EXTINF:0 tvg-logo="", Chekad
+http://38.117.88.36/Chekad_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305121.png", 1 TV
+http://38.117.88.36/1TV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307581.png", RTA Education
+http://38.117.88.36/RTAEducation_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307583.png", Shams
+http://38.117.88.36/Shams_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307585.png", Faza
+http://38.117.88.36/Faza_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307058.png", Dunya
+http://38.117.88.36/Dunya_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305633.png", Tamadon
+http://38.117.88.36/Tamadon_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_305074.png", Lemar
+http://38.117.88.36/Lemar_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307589.png", Begum
+http://38.117.88.36/Begum_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307587.png", Amu
+http://38.117.88.36/Amu_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306195.png", Arezo
+http://38.117.88.36/Arezo_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307615.png", Maawj TV
+http://38.117.88.36/MaawjTV_High?glwizName=
+#EXTINF:0 tvg-logo="", AMC TV
+http://38.117.88.36/AMC_High?glwizName=
+#EXTINF:0 tvg-logo="", Afghan Noble TV
+http://38.117.88.36/AfghanNobelTV_High?glwizName=
+#EXTINF:0 tvg-logo="", Afghan Nobel Movie
+http://38.117.88.36/AfghanNobelMovie_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306622.png", Zhwandoon TV
+http://38.117.88.36/Zhwandoon_High?glwizName=
+#EXTINF:0 tvg-logo="", Bahar TV
+http://38.117.88.36/BaharTV_High?glwizName=
+#EXTINF:0 tvg-logo="", Afghan Time TV
+http://38.117.88.36/AfghanTime_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307331.png", Sohail TV
+http://38.117.88.36/SohailTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306868.png", Sedaye Haq
+http://38.117.88.36/SadaeHaq_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307077.png", Kayhan TV
+http://38.117.88.36/Kayhan_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307112.png", Pamir TV
+http://38.117.88.36/PamirTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307396.png", Eslah TV
+http://38.117.88.36/EslahTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307421.png", Ommat E Wasat
+http://38.117.88.36/OmmatEWasat_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307330.png", Islamic Music
+http://38.117.88.36/IslamicMusic_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307595.png", Velayat
+http://38.117.88.36/Velayat_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_303062.png", Kids Toon (0-6)
+http://38.117.88.36/cartoon06_High?glwizName=
+#EXTINF:0 tvg-logo="", Persiana Teen
+http://38.117.88.36/PersianaTeen_High?glwizName=
+#EXTINF:0 tvg-logo="", Gem Junior
+http://38.117.88.36/GemJunior_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307398.png", Toonix
+http://38.117.88.36/Toonix_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307213.png", Sun Music
+http://38.117.88.36/SunMusic_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_300450.png", Ava Film
+http://38.117.88.36/AvaFilm_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_303569.png", PMC Music
+http://38.117.88.36/PMCMusic_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307196.png", Avang TV
+http://38.117.88.36/Avang_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_302661.png", Sonati
+http://38.117.88.36/Sonati_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307627.png", KMC TV
+http://38.117.88.36/KMC_High?glwizName=
+
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306959.png", Me TV
+http://38.117.88.36/MeTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306898.png", Music1
+http://38.117.88.36/Music1_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307299.png", Persiana Nostalgia
+http://38.117.88.36/PersianaNostalgia_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307519.png", Persiana Music
+http://38.117.88.36/PersianaMusic_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307238.png", Romantico
+http://38.117.88.36/Romantico_High?glwizName=
+#EXTINF:0 tvg-logo="", TRT Muzik
+http://38.117.88.36/TRTMuzik_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307388.png", PMC Royale
+http://38.117.88.36/PMCRoyale_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_307553.png", Ayaz TV
+http://38.117.88.36/AyazTV_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306535.png", 4U Plus
+http://38.117.88.36/4UPlus_High?glwizName=
+#EXTINF:0 tvg-logo="https://hd200.glwiz.com/menu/epg/imagesNew/cim_306758.png", Afra Film
+http://38.117.88.36/AfraFilm_High?glwizName=
+#EXTINF:0 tvg-logo="", GEM Rubix Plus
+http://38.117.88.36/RubixPlus_High?glwizName=
+#EXTINF:0 tvg-logo="", GEM Fit
+http://38.117.88.36/GEMFit_High?glwizName=
+#EXTINF:0 tvg-logo="", Gem Series
+http://38.117.88.36/GemSeries_High?glwizName=
+#EXTINF:0 tvg-logo="", GEM TV Plus
+http://38.117.88.36/GEMTVPlus_High?glwizName=
+#EXTINF:0 tvg-logo="", Gem Series+
+http://38.117.88.36/GemSeriesPlus_High?glwizName=
