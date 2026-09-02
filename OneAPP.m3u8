@@ -35,14 +35,14 @@ https://live-aburayhan1102.telewebion.ir/ek/irinn/live/playlist.m3u8?isp=NA&city
 #EXTVLCOPT:http-referrer=https://t.northtelecom.org/
 #EXTVLCOPT:http-origin=https://t.northtelecom.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 
-https://northtelecom.b-cdn.net/ABALFADHL.m3u8?fbclid=PAZnRzaARmwQxleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafhuHVrIcOQ_BeYE_DC1i0XuCyPFSicOx3PD07_YZutOg_BsQmSir6oy6V_iQ_aem_nCJYgOvnOmo3mO1zB_FMuw&brid=YWdncwHNNow7iTN75n8pv5Yv2l5V
+#https://northtelecom.b-cdn.net/ABALFADHL.m3u8?fbclid=PAZnRzaARmwQxleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafhuHVrIcOQ_BeYE_DC1i0XuCyPFSicOx3PD07_YZutOg_BsQmSir6oy6V_iQ_aem_nCJYgOvnOmo3mO1zB_FMuw&brid=YWdncwHNNow7iTN75n8pv5Yv2l5V
 
 #EXTINF:0 tvg-name="Al Jazeera" tvg-logo="https://newsal.online/api/channel_icons/aljazire200_arabi.png" tvg-id="Al Jazeera" group-title="News",0X Al Jazeera
 https://live-hls-web-aje-fa.thehlive.com/AJE/03.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1280px-Russia-today-logo.svg.png",0X RT News
 https://rumble.com/live-hls/33aw1a/playlist.m3u8?
 #EXTINF:0 tvg-name="Press TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTV.ir" group-title="Iran",0X Press TV
-https://live.presstv.ir/hls/presstv.m3u8
+https://live.presstv.co.uk/hls/presstv.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian (720p)
